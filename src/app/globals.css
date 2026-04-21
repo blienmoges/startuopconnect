@@ -1,0 +1,42 @@
+:root {
+  --primary: #188476; /* Based on the image's vibrant green, maybe #137A6D or simply #158376 */
+  --primary-dark: #0f5c53;
+  --secondary: #132435; /* Dark footer and text */
+  --background: #ffffff;
+  --background-alt: #f9fafb; /* Light gray for sections */
+  --text-dark: #111827;
+  --text-muted: #4b5563;
+  --border: #e5e7eb;
+  --success: #10b981;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--text-dark);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.2s ease, background-color 0.2s ease;
+}
+
+ul {
+  list-style: none;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  background: none;
+  font-family: inherit;
+}
