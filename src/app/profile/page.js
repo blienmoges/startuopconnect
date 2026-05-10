@@ -8,7 +8,7 @@ export default function Profile() {
       <header className="py-4 px-6 md:px-12 flex justify-between items-center bg-white sticky top-0 z-20 w-full shadow-[0_2px_10px_rgba(0,0,0,0.02)]">
         {/* Logo */}
         <Link href="/" className="font-bold text-xl tracking-tight text-[#115b4c]">
-          StartupConnect <span className="font-medium text-gray-500 text-xs tracking-widest uppercase ml-1">Portal</span>
+          <div className="flex items-center gap-2"><img src="/logo.png" alt="Logo" className="w-8 h-8 object-contain" /><span className="font-bold text-xl text-gray-900">StartupConnect</span> <span className="font-medium text-gray-500 text-xs tracking-widest uppercase ml-1">Portal</span></div>
         </Link>
 
         {/* Navigation */}

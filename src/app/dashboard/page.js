@@ -8,7 +8,7 @@ export default function Dashboard() {
       <header className="py-4 px-6 md:px-12 flex justify-between items-center bg-white sticky top-0 z-20 w-full shadow-[0_2px_10px_rgba(0,0,0,0.02)]">
         {/* Logo */}
         <Link href="/" className="font-bold text-xl tracking-tight text-[#167b66]">
-          StartupConnect <span className="text-gray-900 font-semibold">Ethiopia</span>
+          <div className="flex items-center gap-2"><img src="/logo.png" alt="Logo" className="w-8 h-8 object-contain" /><span className="font-bold text-xl text-gray-900">StartupConnect</span></div>
         </Link>
 
         {/* Navigation */}

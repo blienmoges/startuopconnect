@@ -11,22 +11,25 @@ export default function MentorRegistrationStep3() {
         <div className="absolute inset-0 z-0">
           <div className="absolute inset-0 bg-[#061e16]"></div>
           {/* Faux light beams using rotated divs */}
-          <div className="absolute top-[-10%] left-[10%] w-[150%] h-[40px] bg-[#10b981] opacity-20 transform -rotate-45 blur-lg"></div>
-          <div className="absolute top-[10%] left-[10%] w-[150%] h-[50px] bg-[#10b981] opacity-20 transform -rotate-45 blur-lg"></div>
-          <div className="absolute top-[30%] left-[0%] w-[150%] h-[30px] bg-[#10b981] opacity-25 transform -rotate-45 blur-lg"></div>
-          <div className="absolute top-[50%] left-[-10%] w-[150%] h-[80px] bg-[#10b981] opacity-15 transform -rotate-45 blur-2xl"></div>
-          <div className="absolute top-[70%] left-[-20%] w-[150%] h-[35px] bg-[#10b981] opacity-30 transform -rotate-45 blur-lg"></div>
-          <div className="absolute inset-0 bg-gradient-to-b from-[#061e16]/80 via-transparent to-[#061e16]/95"></div>
+          <div className="absolute top-[-10%] left-[10%] w-[150%] h-[30px] bg-[#008f64] opacity-30 transform -rotate-[55deg] blur-[2px]"></div>
+          <div className="absolute top-[10%] left-[10%] w-[150%] h-[40px] bg-[#008f64] opacity-30 transform -rotate-[55deg] blur-[2px]"></div>
+          <div className="absolute top-[30%] left-[0%] w-[150%] h-[20px] bg-[#008f64] opacity-30 transform -rotate-[55deg] blur-[2px]"></div>
+          <div className="absolute top-[50%] left-[-10%] w-[150%] h-[60px] bg-[#008f64] opacity-20 transform -rotate-[55deg] blur-[4px]"></div>
+          <div className="absolute top-[70%] left-[-20%] w-[150%] h-[25px] bg-[#008f64] opacity-40 transform -rotate-[55deg] blur-[2px]"></div>
+          <div className="absolute inset-0 bg-gradient-to-b from-[#061e16]/60 via-transparent to-[#061e16]/90"></div>
         </div>
 
         <div className="relative z-10">
           <Link href="/" className="flex items-center gap-2 mb-16">
-            <span className="font-bold text-lg text-white tracking-tight">StartupConnect Ethiopia</span>
+            <div className="flex items-center gap-2"><img src="/logo.png" alt="Logo" className="w-8 h-8 object-contain" /><span className="font-bold text-lg text-white tracking-tight">StartupConnect</span></div>
           </Link>
           
-          <h1 className="text-4xl lg:text-5xl font-bold text-white mb-6 leading-tight tracking-tight">
-            Empowering <br/> Ethiopia's Next <br/> Generation of <br/> Growth
+          <h1 className="text-4xl lg:text-5xl font-light text-white mb-6 leading-tight">
+            Empower the <br/> Next Generation <br/> of Ethiopian <br/> Founders
           </h1>
+          <p className="text-[#10b981] text-sm leading-relaxed max-w-sm font-medium">
+            Join a prestigious network of industry leaders curating the future of Ethiopia's innovation ecosystem through high-impact mentorship.
+          </p>
         </div>
 
         <div className="relative z-10">
@@ -54,7 +57,7 @@ export default function MentorRegistrationStep3() {
             </div>
 
             {/* Step 2 */}
-            <div className="flex items-center gap-2 bg-[#f9fafb] px-2">
+            <div className="flex items-center gap-2 bg-[#f9fafb] px-2 shadow-[0_0_0_4px_#f9fafb]">
               <div className="w-6 h-6 rounded-full bg-[#0f3d32] text-white flex items-center justify-center font-bold text-[10px] shadow-sm">
                 <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5" d="M5 13l4 4L19 7"></path></svg>
               </div>
@@ -62,11 +65,19 @@ export default function MentorRegistrationStep3() {
             </div>
 
             {/* Step 3 */}
-            <div className="flex items-center gap-2 bg-[#f9fafb] pl-2 shadow-[0_0_0_4px_#f9fafb]">
+            <div className="flex items-center gap-2 bg-[#f9fafb] px-2 shadow-[0_0_0_4px_#f9fafb]">
               <div className="w-6 h-6 rounded-full bg-[#dcfce7] border border-[#a5d6a7] text-[#0f3d32] flex items-center justify-center font-bold text-[10px] shadow-sm">
                 3
               </div>
-              <span className="text-[10px] font-bold text-[#0f3d32] uppercase tracking-widest hidden sm:inline-block">Verification</span>
+              <span className="text-[10px] font-bold text-[#0f3d32] uppercase tracking-widest hidden sm:inline-block">Review</span>
+            </div>
+
+            {/* Step 4 */}
+            <div className="flex items-center gap-2 bg-[#f9fafb] pl-2 shadow-[0_0_0_4px_#f9fafb]">
+              <div className="w-6 h-6 rounded-full bg-[#e9ecef] text-gray-400 flex items-center justify-center font-bold text-[10px] shadow-sm">
+                4
+              </div>
+              <span className="text-[10px] font-bold text-gray-400 uppercase tracking-widest hidden sm:inline-block">Verification</span>
             </div>
           </div>
         </div>
@@ -221,9 +232,9 @@ export default function MentorRegistrationStep3() {
                  <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path></svg>
                  Back
                </Link>
-               <button type="button" className="bg-[#0f3d32] hover:bg-[#0a2921] text-white text-xs font-bold py-3 px-8 rounded-full transition shadow-lg shadow-[#0f3d32]/20 flex items-center gap-2">
-                 Submit for Verification
-               </button>
+               <Link href="/register/mentor/success" className="bg-[#0f3d32] hover:bg-[#0a2921] text-white text-xs font-bold py-3 px-8 rounded-full transition shadow-lg shadow-[#0f3d32]/20 flex items-center justify-center gap-2">
+                 Continue to Verification
+               </Link>
             </div>
 
           </div>

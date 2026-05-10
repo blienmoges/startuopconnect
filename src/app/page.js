@@ -10,10 +10,7 @@ export default function Home() {
           <div className="flex items-center gap-2">
             {/* Logo */}
             <div className="flex items-center gap-2 group cursor-pointer">
-              <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M20 5L7 12V28L20 35L33 28V12L20 5Z" fill="var(--color-primary, #19806b)" fillOpacity="0.1" />
-                <path d="M20 12L12 16V24L20 28L28 24V16L20 12Z" fill="#19806b" />
-              </svg>
+              <img src="/logo.png" alt="StartupConnect Logo" className="w-10 h-10 object-contain" />
               <div className="flex flex-col -gap-1">
                 <span className="font-bold text-xl text-gray-900 tracking-tight leading-tight">StartupConnect</span>
                 <span className="text-sm text-primary tracking-wide leading-tight">Ethiopia</span>
@@ -30,24 +27,37 @@ export default function Home() {
 
           <div className="flex items-center gap-4">
             <Link href="/login" className="text-sm font-medium text-gray-700 hover:text-primary transition-colors px-4 py-2 border border-primary text-primary rounded-md">Login</Link>
-            <Link href="#" className="text-sm font-medium text-white bg-primary hover:bg-primary-dark transition-colors px-4 py-2 rounded-md shadow-sm">Register</Link>
+            <Link href="/register" className="text-sm font-medium text-white bg-primary hover:bg-[#115b4c] transition-colors px-4 py-2 rounded-md shadow-sm">Register</Link>
           </div>
         </div>
       </header>
 
       <main className="flex-grow">
         {/* Hero Section */}
-        <section className="pt-24 pb-20 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto text-center">
-          <h1 className="text-5xl md:text-6xl font-extrabold tracking-tight text-gray-900 mb-6 leading-tight">
-            Connecting Ethiopian Startups with <br className="hidden md:block" /> Investors and Mentors
-          </h1>
-          <p className="text-xl text-gray-600 mb-10 max-w-3xl mx-auto leading-relaxed">
-            A digital platform that helps startups gain visibility, secure <br className="hidden md:block" /> funding, and receive structured mentorship.
-          </p>
-          <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-            <Link href="/register/startup" className="w-full sm:w-auto px-8 py-3 flex items-center justify-center bg-primary text-white font-medium rounded-md hover:bg-primary-dark transition shadow-md">Join as Startup</Link>
-            <Link href="/register/investor" className="w-full sm:w-auto px-8 py-3 flex items-center justify-center bg-white text-primary border border-primary font-medium rounded-md hover:bg-green-50 transition shadow-sm">Join as Investor</Link>
-            <Link href="/register/mentor" className="w-full sm:w-auto px-8 py-3 bg-primary text-white font-medium rounded-md hover:bg-primary-dark transition shadow-md flex items-center justify-center">Join as Mentor</Link>
+        <section className="relative pt-32 pb-28 px-4 sm:px-6 lg:px-8 min-h-[600px] flex items-center justify-center overflow-hidden">
+          {/* Background Image */}
+          <div className="absolute inset-0 z-0">
+            <Image 
+              src="/landing-bg.png" 
+              alt="StartupConnect Background" 
+              fill 
+              className="object-cover object-center"
+              priority
+            />
+            {/* Dark overlay for text readability */}
+            <div className="absolute inset-0 bg-gray-900/75"></div>
+          </div>
+
+          <div className="relative z-10 max-w-5xl mx-auto text-center">
+            <h1 className="text-5xl md:text-6xl font-extrabold tracking-tight text-white mb-6 leading-tight drop-shadow-sm">
+              Connecting Ethiopian Startups with <br className="hidden md:block" /> Investors and Mentors
+            </h1>
+            <p className="text-xl text-gray-200 mb-10 max-w-3xl mx-auto leading-relaxed">
+              A digital platform that helps startups gain visibility, secure <br className="hidden md:block" /> funding, and receive structured mentorship.
+            </p>
+            <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
+              <Link href="/register" className="w-full sm:w-auto px-10 py-3.5 flex items-center justify-center bg-primary text-white font-bold rounded-md hover:bg-[#115b4c] transition shadow-md text-lg">Join Us</Link>
+            </div>
           </div>
         </section>
 
@@ -126,8 +136,7 @@ export default function Home() {
               {/* Card 1 */}
               <div className="bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden flex flex-col hover:shadow-md transition">
                 <div className="h-48 bg-gray-200 w-full relative">
-                  {/* Placeholder block until image is generated via tool or added */}
-                  <div className="absolute inset-0 flex items-center justify-center text-gray-400 bg-gray-200">Image 1</div>
+                  <Image src="/agritech-startup.png" alt="AgriTech Startup" fill className="object-cover" />
                 </div>
                 <div className="p-6 flex flex-col flex-grow">
                   <div className="flex gap-2 mb-3">
@@ -143,7 +152,7 @@ export default function Home() {
               {/* Card 2 */}
               <div className="bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden flex flex-col hover:shadow-md transition">
                 <div className="h-48 bg-gray-200 w-full relative">
-                  <div className="absolute inset-0 flex items-center justify-center text-gray-400 bg-gray-200">Image 2</div>
+                  <Image src="/edtech-startup.png" alt="EdTech Startup" fill className="object-cover" />
                 </div>
                 <div className="p-6 flex flex-col flex-grow">
                   <div className="flex gap-2 mb-3">
@@ -159,7 +168,7 @@ export default function Home() {
               {/* Card 3 */}
               <div className="bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden flex flex-col hover:shadow-md transition">
                 <div className="h-48 bg-gray-200 w-full relative">
-                  <div className="absolute inset-0 flex items-center justify-center text-gray-400 bg-gray-200">Image 3</div>
+                  <Image src="/fintech-startup.png" alt="FinTech Startup" fill className="object-cover" />
                 </div>
                 <div className="p-6 flex flex-col flex-grow">
                   <div className="flex gap-2 mb-3">

@@ -5,28 +5,47 @@ export default function MentorRegistration() {
   return (
     <div className="min-h-screen bg-[#f3f4f6] font-sans text-gray-900 flex flex-col md:flex-row">
       
-      {/* Decorative Left Side (hidden on mobile) */}
-      <div className="hidden lg:flex lg:w-1/3 bg-[#f8f9fa] border-r border-gray-200 justify-center items-center relative overflow-hidden">
-        {/* Subtle decorative elements */}
-        <div className="absolute top-1/4 left-1/4 w-64 h-64 bg-[#eef5f4] rounded-full blur-[80px]"></div>
-        <div className="absolute bottom-1/4 right-1/4 w-64 h-64 bg-[#fef0db] rounded-full blur-[80px]"></div>
-        
-        <div className="relative z-10 text-center px-12">
-          <Link href="/" className="font-bold text-2xl tracking-tight text-[#0f3d32] mb-6 block">
-            StartupConnect Ethiopia
+      {/* Left Sidebar (Dark Green graphic) */}
+      <div className="hidden lg:flex w-[40%] bg-[#061e16] relative overflow-hidden flex-col justify-between py-12 px-12">
+        {/* Abstract Green Light Beams / Background */}
+        <div className="absolute inset-0 z-0">
+          <div className="absolute inset-0 bg-[#061e16]"></div>
+          {/* Faux light beams using rotated divs */}
+          <div className="absolute top-[-10%] left-[10%] w-[150%] h-[30px] bg-[#008f64] opacity-30 transform -rotate-[55deg] blur-[2px]"></div>
+          <div className="absolute top-[10%] left-[10%] w-[150%] h-[40px] bg-[#008f64] opacity-30 transform -rotate-[55deg] blur-[2px]"></div>
+          <div className="absolute top-[30%] left-[0%] w-[150%] h-[20px] bg-[#008f64] opacity-30 transform -rotate-[55deg] blur-[2px]"></div>
+          <div className="absolute top-[50%] left-[-10%] w-[150%] h-[60px] bg-[#008f64] opacity-20 transform -rotate-[55deg] blur-[4px]"></div>
+          <div className="absolute top-[70%] left-[-20%] w-[150%] h-[25px] bg-[#008f64] opacity-40 transform -rotate-[55deg] blur-[2px]"></div>
+          <div className="absolute inset-0 bg-gradient-to-b from-[#061e16]/60 via-transparent to-[#061e16]/90"></div>
+        </div>
+
+        <div className="relative z-10">
+          <Link href="/" className="flex items-center gap-2 mb-16">
+            <div className="flex items-center gap-2"><img src="/logo.png" alt="Logo" className="w-8 h-8 object-contain" /><span className="font-bold text-lg text-white tracking-tight">StartupConnect</span></div>
           </Link>
-          <h2 className="text-3xl font-bold text-[#0f3d32] mb-4">Guide the Next Generation</h2>
-          <p className="text-gray-500 font-medium">Join our curated network of industry experts. Mentor top Ethiopian startups and shape the future of innovation.</p>
+          
+          <h1 className="text-4xl lg:text-5xl font-light text-white mb-6 leading-tight">
+            Empower the <br/> Next Generation <br/> of Ethiopian <br/> Founders
+          </h1>
+          <p className="text-[#10b981] text-sm leading-relaxed max-w-sm font-medium">
+            Join a prestigious network of industry leaders curating the future of Ethiopia's innovation ecosystem through high-impact mentorship.
+          </p>
+        </div>
+
+        <div className="relative z-10">
+          <p className="text-[#8ba39e] text-[10px] font-medium tracking-widest uppercase opacity-50">
+            &copy; 2024 StartupConnect Ethiopia. All rights reserved.
+          </p>
         </div>
       </div>
 
       {/* Main Content Form Side */}
-      <div className="w-full lg:w-2/3 flex flex-col items-center py-12 px-4 sm:px-6 overflow-y-auto">
+      <div className="w-full lg:w-[60%] flex flex-col items-center py-12 px-4 sm:px-6 overflow-y-auto">
         
         <div className="w-full max-w-3xl flex flex-col items-center">
           
           {/* Progress Stepper */}
-          <div className="w-full max-w-sm mb-10 px-4">
+          <div className="w-full max-w-md mb-10 px-4">
             <div className="relative flex justify-between items-start">
               {/* Connecting Line */}
               <div className="absolute top-4 left-8 right-8 h-[2px] bg-gray-200 -z-10"></div>
@@ -44,7 +63,7 @@ export default function MentorRegistration() {
                 <div className="w-8 h-8 rounded-full bg-[#e5e7eb] text-gray-500 flex items-center justify-center font-bold text-xs ring-4 ring-[#f3f4f6]">
                   2
                 </div>
-                <span className="text-[10px] font-medium text-[#0fcbb]">Professional</span>
+                <span className="text-[10px] font-medium text-gray-400">Professional</span>
               </div>
 
               {/* Step 3 */}
@@ -52,7 +71,15 @@ export default function MentorRegistration() {
                 <div className="w-8 h-8 rounded-full bg-[#e5e7eb] text-gray-500 flex items-center justify-center font-bold text-xs ring-4 ring-[#f3f4f6]">
                   3
                 </div>
-                <span className="text-[10px] font-medium text-[#0fcbb]">Verification</span>
+                <span className="text-[10px] font-medium text-gray-400">Review</span>
+              </div>
+
+              {/* Step 4 */}
+              <div className="flex flex-col items-center gap-2">
+                <div className="w-8 h-8 rounded-full bg-[#e5e7eb] text-gray-500 flex items-center justify-center font-bold text-xs ring-4 ring-[#f3f4f6]">
+                  4
+                </div>
+                <span className="text-[10px] font-medium text-gray-400">Verification</span>
               </div>
             </div>
           </div>
@@ -67,34 +94,14 @@ export default function MentorRegistration() {
 
             <form className="flex flex-col gap-6 w-full">
               
-              {/* Full Name */}
+              {/* Phone Number */}
               <div>
-                <label className="block text-xs font-bold text-gray-900 mb-2">Full Name</label>
+                <label className="block text-xs font-bold text-gray-900 mb-2">Phone Number</label>
                 <input 
                   type="text" 
-                  placeholder="e.g. Dawit Abraham" 
+                  placeholder="+251 911..." 
                   className="w-full px-4 py-3.5 bg-[#f0f2f5] border-none rounded-lg focus:outline-none focus:ring-2 focus:ring-[#136150] transition text-sm text-gray-800 placeholder-gray-400"
                 />
-              </div>
-
-              {/* Email & Phone */}
-              <div className="grid sm:grid-cols-2 gap-6">
-                <div>
-                  <label className="block text-xs font-bold text-gray-900 mb-2">Email Address</label>
-                  <input 
-                    type="email" 
-                    placeholder="dawit@company.com" 
-                    className="w-full px-4 py-3.5 bg-[#f0f2f5] border-none rounded-lg focus:outline-none focus:ring-2 focus:ring-[#136150] transition text-sm text-gray-800 placeholder-gray-400"
-                  />
-                </div>
-                <div>
-                  <label className="block text-xs font-bold text-gray-900 mb-2">Phone Number</label>
-                  <input 
-                    type="text" 
-                    placeholder="+251 911..." 
-                    className="w-full px-4 py-3.5 bg-[#f0f2f5] border-none rounded-lg focus:outline-none focus:ring-2 focus:ring-[#136150] transition text-sm text-gray-800 placeholder-gray-400"
-                  />
-                </div>
               </div>
 
               {/* Professional Title */}
@@ -230,7 +237,7 @@ export default function MentorRegistration() {
 
               {/* Submit Button */}
               <Link href="/register/mentor/step2" className="w-full py-4 bg-[#053023] hover:bg-[#032017] text-white font-bold rounded-lg shadow-xl shadow-[#053023]/20 transition text-sm mt-4 flex items-center justify-center">
-                Submit for Verification
+                Continue to Professional
               </Link>
               
               <p className="text-center text-xs text-gray-500 mt-2">

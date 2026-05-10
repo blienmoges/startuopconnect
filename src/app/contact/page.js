@@ -10,10 +10,7 @@ export default function Contact() {
           <div className="flex items-center gap-2">
             {/* Logo */}
             <Link href="/" className="flex items-center gap-2 group cursor-pointer">
-              <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M20 5L7 12V28L20 35L33 28V12L20 5Z" fill="var(--color-primary, #19806b)" fillOpacity="0.1" />
-                <path d="M20 12L12 16V24L20 28L28 24V16L20 12Z" fill="#19806b" />
-              </svg>
+              <img src="/logo.png" alt="StartupConnect Logo" className="w-10 h-10 object-contain" />
               <div className="flex flex-col -gap-1">
                 <span className="font-bold text-xl text-gray-900 tracking-tight leading-tight">StartupConnect</span>
                 <span className="text-sm text-primary tracking-wide leading-tight">Ethiopia</span>

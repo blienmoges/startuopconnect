@@ -11,40 +11,30 @@ export default function MentorRegistrationStep2() {
         <div className="absolute inset-0 z-0">
           <div className="absolute inset-0 bg-[#061e16]"></div>
           {/* Faux light beams using rotated divs */}
-          <div className="absolute top-[-10%] left-[10%] w-[150%] h-[30px] bg-[#10b981] opacity-20 transform -rotate-45 blur-md"></div>
-          <div className="absolute top-[10%] left-[10%] w-[150%] h-[40px] bg-[#10b981] opacity-20 transform -rotate-45 blur-md"></div>
-          <div className="absolute top-[30%] left-[0%] w-[150%] h-[20px] bg-[#10b981] opacity-25 transform -rotate-45 blur-md"></div>
-          <div className="absolute top-[50%] left-[-10%] w-[150%] h-[60px] bg-[#10b981] opacity-15 transform -rotate-45 blur-xl"></div>
-          <div className="absolute top-[70%] left-[-20%] w-[150%] h-[25px] bg-[#10b981] opacity-30 transform -rotate-45 blur-md"></div>
-          <div className="absolute inset-0 bg-gradient-to-b from-[#061e16]/80 via-transparent to-[#061e16]/90"></div>
+          <div className="absolute top-[-10%] left-[10%] w-[150%] h-[30px] bg-[#008f64] opacity-30 transform -rotate-[55deg] blur-[2px]"></div>
+          <div className="absolute top-[10%] left-[10%] w-[150%] h-[40px] bg-[#008f64] opacity-30 transform -rotate-[55deg] blur-[2px]"></div>
+          <div className="absolute top-[30%] left-[0%] w-[150%] h-[20px] bg-[#008f64] opacity-30 transform -rotate-[55deg] blur-[2px]"></div>
+          <div className="absolute top-[50%] left-[-10%] w-[150%] h-[60px] bg-[#008f64] opacity-20 transform -rotate-[55deg] blur-[4px]"></div>
+          <div className="absolute top-[70%] left-[-20%] w-[150%] h-[25px] bg-[#008f64] opacity-40 transform -rotate-[55deg] blur-[2px]"></div>
+          <div className="absolute inset-0 bg-gradient-to-b from-[#061e16]/60 via-transparent to-[#061e16]/90"></div>
         </div>
 
         <div className="relative z-10">
           <Link href="/" className="flex items-center gap-2 mb-16">
-            <svg className="w-5 h-5 text-[#10b981]" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2L2 22h20L12 2zm0 3.5L18.5 19H5.5L12 5.5z"/></svg>
-            <span className="font-bold text-lg text-white tracking-tight">StartupConnect Ethiopia</span>
+            <div className="flex items-center gap-2"><img src="/logo.png" alt="Logo" className="w-8 h-8 object-contain" /><span className="font-bold text-lg text-white tracking-tight">StartupConnect</span></div>
           </Link>
           
           <h1 className="text-4xl lg:text-5xl font-light text-white mb-6 leading-tight">
             Empower the <br/> Next Generation <br/> of Ethiopian <br/> Founders
           </h1>
-          <p className="text-[#8ba39e] text-sm leading-relaxed max-w-sm font-medium">
-            Join a prestigious network of industry leaders shaping the future of Ethiopia's innovation ecosystem through high-impact mentorship.
+          <p className="text-[#10b981] text-sm leading-relaxed max-w-sm font-medium">
+            Join a prestigious network of industry leaders curating the future of Ethiopia's innovation ecosystem through high-impact mentorship.
           </p>
         </div>
 
-        <div className="relative z-10 border-t border-[#ffffff15] pt-8 mt-12 pr-8">
-          <div className="flex items-start gap-4 mb-4">
-            <div className="w-10 h-10 rounded-full bg-blue-500 overflow-hidden shrink-0 flex items-center justify-center text-white text-xs font-bold">
-              SF
-            </div>
-            <div>
-              <h4 className="text-white font-bold text-sm">Solomon Fikrey</h4>
-              <p className="text-[#10b981] text-xs">Ex-Director Safaricom M-Pesa, <br/>Angel Investor</p>
-            </div>
-          </div>
-          <p className="text-[#8ba39e] text-xs leading-relaxed italic">
-            "Guiding young founders at StartupConnect doesn't just help them build better KPIs or pitch decks. It gives me a direct pulse on the incredible ingenuity emerging from Addis and verifies the pure tech talent high-value startups are built on."
+        <div className="relative z-10">
+          <p className="text-[#8ba39e] text-[10px] font-medium tracking-widest uppercase opacity-50">
+            &copy; 2024 StartupConnect Ethiopia. All rights reserved.
           </p>
         </div>
       </div>
@@ -77,9 +67,17 @@ export default function MentorRegistrationStep2() {
             </div>
 
             {/* Step 3 */}
-            <div className="flex items-center gap-2 bg-[#f9fafb] pl-2 shadow-[0_0_0_4px_#f9fafb]">
+            <div className="flex items-center gap-2 bg-[#f9fafb] px-2 shadow-[0_0_0_4px_#f9fafb]">
               <div className="w-6 h-6 rounded-full bg-[#e9ecef] text-gray-400 flex items-center justify-center font-bold text-[10px] shadow-sm">
                 3
+              </div>
+              <span className="text-[10px] font-bold text-gray-400 uppercase tracking-widest hidden sm:inline-block">Review</span>
+            </div>
+
+            {/* Step 4 */}
+            <div className="flex items-center gap-2 bg-[#f9fafb] pl-2 shadow-[0_0_0_4px_#f9fafb]">
+              <div className="w-6 h-6 rounded-full bg-[#e9ecef] text-gray-400 flex items-center justify-center font-bold text-[10px] shadow-sm">
+                4
               </div>
               <span className="text-[10px] font-bold text-gray-400 uppercase tracking-widest hidden sm:inline-block">Verification</span>
             </div>
@@ -262,7 +260,7 @@ export default function MentorRegistrationStep2() {
                  Back
                </Link>
                <Link href="/register/mentor/step3" className="bg-[#0f3d32] hover:bg-[#0a2921] text-white text-xs font-bold py-3 px-6 rounded-lg transition shadow-md flex items-center gap-2">
-                 Continue to Verification
+                 Continue to Review
                </Link>
             </div>
 

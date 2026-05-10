@@ -3,29 +3,55 @@ import Image from "next/image";
 
 export default function StartupRegistrationStep4() {
   return (
-    <div className="min-h-screen bg-[#fcfcfc] font-sans text-gray-900 flex flex-col pb-24">
-      {/* Header */}
-      <header className="border-b border-gray-100 py-4 px-6 md:px-12 flex justify-between items-center bg-white sticky top-0 z-10 w-full">
-        <Link href="/" className="font-bold text-xl tracking-tight text-[#167b66]">
-          StartupConnect <span className="text-gray-900 font-semibold">Ethiopia</span>
-        </Link>
-        
-        <div className="flex items-center gap-6 text-sm">
-          <div className="flex items-center gap-2 text-gray-500 font-medium cursor-pointer hover:text-[#167b66] transition">
-            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M8 7H5a2 2 0 00-2 2v9a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-3m-1 4l-3 3m0 0l-3-3m3 3V4"></path></svg>
-            Save as Draft
-          </div>
-          <div className="w-8 h-8 bg-gray-900 rounded-full flex items-center justify-center overflow-hidden border border-gray-200 cursor-pointer">
-            <svg className="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"></path></svg>
-          </div>
+    <div className="min-h-screen bg-[#fcfcfc] font-sans text-gray-900 flex flex-col lg:flex-row pb-24">
+      
+      {/* Left Sidebar (Dark Green graphic) */}
+      <div className="hidden lg:flex w-[40%] bg-[#061e16] relative overflow-hidden flex-col justify-between py-12 px-12">
+        {/* Abstract Green Light Beams / Background */}
+        <div className="absolute inset-0 z-0">
+          <div className="absolute inset-0 bg-[#061e16]"></div>
+          {/* Faux light beams using rotated divs */}
+          <div className="absolute top-[-10%] left-[10%] w-[150%] h-[30px] bg-[#008f64] opacity-30 transform -rotate-[55deg] blur-[2px]"></div>
+          <div className="absolute top-[10%] left-[10%] w-[150%] h-[40px] bg-[#008f64] opacity-30 transform -rotate-[55deg] blur-[2px]"></div>
+          <div className="absolute top-[30%] left-[0%] w-[150%] h-[20px] bg-[#008f64] opacity-30 transform -rotate-[55deg] blur-[2px]"></div>
+          <div className="absolute top-[50%] left-[-10%] w-[150%] h-[60px] bg-[#008f64] opacity-20 transform -rotate-[55deg] blur-[4px]"></div>
+          <div className="absolute top-[70%] left-[-20%] w-[150%] h-[25px] bg-[#008f64] opacity-40 transform -rotate-[55deg] blur-[2px]"></div>
+          <div className="absolute inset-0 bg-gradient-to-b from-[#061e16]/60 via-transparent to-[#061e16]/90"></div>
         </div>
-      </header>
 
-      {/* Main Content */}
-      <main className="flex-grow flex justify-center py-12 px-4 sm:px-6">
-        <div className="max-w-3xl w-full flex flex-col">
+        <div className="relative z-10">
+          <Link href="/" className="flex items-center gap-2 mb-16">
+            <div className="flex items-center gap-2"><img src="/logo.png" alt="Logo" className="w-8 h-8 object-contain" /><span className="font-bold text-lg text-white tracking-tight">StartupConnect</span></div>
+          </Link>
           
-          {/* Title Section */}
+          <h1 className="text-4xl lg:text-5xl font-light text-white mb-6 leading-tight">
+            Empower the <br/> Next Generation <br/> of Ethiopian <br/> Founders
+          </h1>
+          <p className="text-[#10b981] text-sm leading-relaxed max-w-sm font-medium">
+            Join a prestigious network of industry leaders curating the future of Ethiopia's innovation ecosystem through high-impact mentorship.
+          </p>
+        </div>
+
+        <div className="relative z-10">
+          <p className="text-[#8ba39e] text-[10px] font-medium tracking-widest uppercase opacity-50">
+            &copy; 2024 StartupConnect Ethiopia. All rights reserved.
+          </p>
+        </div>
+      </div>
+
+      {/* Main Content Area */}
+      <div className="w-full lg:w-[60%] flex flex-col pt-10 pb-6 px-4 md:px-8 overflow-y-auto">
+        <div className="w-full max-w-2xl mx-auto flex flex-col">
+          <div className="w-full flex items-center gap-3 mb-6 pl-4">
+            <Link href="/register/startup/step3" className="text-[#167b66] hover:text-[#0f5c4a] transition">
+              <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path>
+              </svg>
+            </Link>
+            <span className="font-bold text-lg tracking-tight text-[#115b4c]">
+              Review & Submit
+            </span>
+          </div>
           <div className="mb-8">
             <h1 className="text-3xl font-extrabold text-[#115b4c] tracking-tight mb-2">Review & Submit</h1>
             <p className="text-sm text-gray-500">Double-check your application details before sending them for official verification.</p>
@@ -241,7 +267,7 @@ export default function StartupRegistrationStep4() {
           </div>
 
         </div>
-      </main>
+      </div>
     </div>
   );
 }

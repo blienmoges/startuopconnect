@@ -11,9 +11,7 @@ export default function Login() {
           {/* Header Text */}
           <div className="mb-8 pl-2">
             <h1 className="text-3xl font-bold text-gray-900 mb-3">Startup Login</h1>
-            <p className="text-[15px] text-gray-500 leading-relaxed pr-4">
-              Access your investor dashboard to discover verified startups, manage offers, and track your portfolio.
-            </p>
+              Access your founder dashboard to manage your project, connect with investors, and track your progress.
           </div>
 
           {/* Login Form Card */}
@@ -67,7 +65,7 @@ export default function Login() {
               </div>
 
               {/* Login Button */}
-              <Link href="/dashboard" className="w-full py-4 bg-[#0f5c4a] hover:bg-[#0c4a3b] text-white font-bold rounded-xl shadow-[0_4px_14px_rgba(15,92,74,0.3)] transition text-[15px] flex items-center justify-center gap-2 mt-2">
+              <Link href="/startup/dashboard" className="w-full py-4 bg-[#0f5c4a] hover:bg-[#0c4a3b] text-white font-bold rounded-xl shadow-[0_4px_14px_rgba(15,92,74,0.3)] transition text-[15px] flex items-center justify-center gap-2 mt-2">
                 Log In
                 <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M11 16l-4-4m0 0l4-4m-4 4h14m-5 4v1a3 3 0 01-3 3H6a3 3 0 01-3-3V7a3 3 0 013-3h7a3 3 0 013 3v1"></path></svg>
               </Link>

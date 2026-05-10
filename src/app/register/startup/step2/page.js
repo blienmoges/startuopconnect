@@ -2,36 +2,55 @@ import Link from "next/link";
 
 export default function StartupRegistrationStep2() {
   return (
-    <div className="min-h-screen bg-[#fcfcfc] font-sans text-gray-900 flex flex-col">
-      {/* Minimal Header */}
-      <header className="border-b border-gray-100 py-4 px-6 md:px-12 flex justify-between items-center bg-white sticky top-0 z-10 w-full">
-        {/* Back navigation & Title */}
-        <div className="flex items-center gap-3">
-          <Link href="/register/startup" className="text-[#167b66] hover:text-[#0f5c4a] transition">
-            <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path>
-            </svg>
+    <div className="min-h-screen bg-white font-sans text-gray-900 flex flex-col lg:flex-row">
+      
+      {/* Left Sidebar (Dark Green graphic) */}
+      <div className="hidden lg:flex w-[40%] bg-[#061e16] relative overflow-hidden flex-col justify-between py-12 px-12">
+        {/* Abstract Green Light Beams / Background */}
+        <div className="absolute inset-0 z-0">
+          <div className="absolute inset-0 bg-[#061e16]"></div>
+          {/* Faux light beams using rotated divs */}
+          <div className="absolute top-[-10%] left-[10%] w-[150%] h-[30px] bg-[#008f64] opacity-30 transform -rotate-[55deg] blur-[2px]"></div>
+          <div className="absolute top-[10%] left-[10%] w-[150%] h-[40px] bg-[#008f64] opacity-30 transform -rotate-[55deg] blur-[2px]"></div>
+          <div className="absolute top-[30%] left-[0%] w-[150%] h-[20px] bg-[#008f64] opacity-30 transform -rotate-[55deg] blur-[2px]"></div>
+          <div className="absolute top-[50%] left-[-10%] w-[150%] h-[60px] bg-[#008f64] opacity-20 transform -rotate-[55deg] blur-[4px]"></div>
+          <div className="absolute top-[70%] left-[-20%] w-[150%] h-[25px] bg-[#008f64] opacity-40 transform -rotate-[55deg] blur-[2px]"></div>
+          <div className="absolute inset-0 bg-gradient-to-b from-[#061e16]/60 via-transparent to-[#061e16]/90"></div>
+        </div>
+
+        <div className="relative z-10">
+          <Link href="/" className="flex items-center gap-2 mb-16">
+            <div className="flex items-center gap-2"><img src="/logo.png" alt="Logo" className="w-8 h-8 object-contain" /><span className="font-bold text-lg text-white tracking-tight">StartupConnect</span></div>
           </Link>
-          <span className="font-bold text-lg tracking-tight text-[#115b4c]">
-            Company Details
-          </span>
+          
+          <h1 className="text-4xl lg:text-5xl font-light text-white mb-6 leading-tight">
+            Empower the <br/> Next Generation <br/> of Ethiopian <br/> Founders
+          </h1>
+          <p className="text-[#10b981] text-sm leading-relaxed max-w-sm font-medium">
+            Join a prestigious network of industry leaders curating the future of Ethiopia's innovation ecosystem through high-impact mentorship.
+          </p>
         </div>
 
-        <div className="flex items-center gap-6 text-sm">
-          <button className="text-gray-600 font-medium hover:text-[#167b66] transition">Save as Draft</button>
-          <div className="flex items-center gap-2 bg-[#e8f3f1] text-[#167b66] px-3 py-1.5 rounded text-xs font-bold tracking-wide">
-            <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"></path></svg>
-            SECURE ENCRYPTION
+        <div className="relative z-10">
+          <p className="text-[#8ba39e] text-[10px] font-medium tracking-widest uppercase opacity-50">
+            &copy; 2024 StartupConnect Ethiopia. All rights reserved.
+          </p>
+        </div>
+      </div>
+
+      {/* Main Content Area */}
+      <div className="w-full lg:w-[60%] flex flex-col pt-10 pb-6 px-4 md:px-8 overflow-y-auto">
+        <div className="w-full max-w-2xl mx-auto flex flex-col">
+          <div className="flex items-center gap-3 mb-4 pl-6">
+            <Link href="/register/startup" className="text-[#167b66] hover:text-[#0f5c4a] transition">
+              <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path>
+              </svg>
+            </Link>
+            <span className="font-bold text-lg tracking-tight text-[#115b4c]">
+              Company Details
+            </span>
           </div>
-        </div>
-      </header>
-
-      {/* Main Registration Content */}
-      <main className="flex-grow flex justify-center py-12 px-4 sm:px-6">
-        <div className="max-w-5xl w-full grid grid-cols-1 md:grid-cols-12 gap-12 lg:gap-20">
-
-          {/* Left Column: Form Section */}
-          <div className="md:col-span-8 flex flex-col">
 
             <div className="mb-10 pl-6">
               <div className="flex items-center gap-8">
@@ -231,63 +250,7 @@ export default function StartupRegistrationStep2() {
               </div>
             </form>
           </div>
-
-          {/* Right Column: Guide Info */}
-          <div className="md:col-span-4 flex flex-col pt-2">
-
-            {/* Guide Card */}
-            <div className="bg-white border border-gray-100 rounded-2xl p-8 shadow-[0_4px_20px_rgba(0,0,0,0.03)] sticky top-28">
-              <h3 className="text-[#115b4c] text-xl font-extrabold mb-4">Registration Guide</h3>
-              <p className="text-gray-500 text-sm leading-relaxed mb-8">
-                Complete your profile to unlock access to Ethiopia's premier network of investors and mentors. Precise company details improve your visibility.
-              </p>
-
-              {/* Feature 1 */}
-              <div className="flex gap-4 mb-6">
-                <div className="w-10 h-10 bg-[#feedd8] rounded-lg flex items-center justify-center text-[#d97736] flex-shrink-0">
-                  <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-                </div>
-                <div>
-                  <h4 className="font-bold text-sm text-gray-900 mb-1">Data Verification</h4>
-                  <p className="text-xs text-gray-500 leading-relaxed">
-                    Information will be verified by our curators within 48 hours.
-                  </p>
-                </div>
-              </div>
-
-              {/* Feature 2 */}
-              <div className="flex gap-4 mb-10">
-                <div className="w-10 h-10 bg-[#e6effc] rounded-lg flex items-center justify-center text-[#3b82f6] flex-shrink-0">
-                  <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"></path></svg>
-                </div>
-                <div>
-                  <h4 className="font-bold text-sm text-gray-900 mb-1">Private & Secure</h4>
-                  <p className="text-xs text-gray-500 leading-relaxed">
-                    Your detailed business metrics are only visible to verified investors.
-                  </p>
-                </div>
-              </div>
-
-              {/* Illustration placeholder */}
-              <div className="flex flex-col items-center justify-center mt-6">
-                <div className="relative w-48 h-32 bg-[#fafafa] rounded-lg mb-4 flex items-center justify-center">
-                  <div className="text-[#e2e8f0]">
-                    {/* SVG placeholder for two people sitting and talking */}
-                    <svg className="w-24 h-24" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                      <path d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z" />
-                    </svg>
-                  </div>
-                  <div className="absolute -bottom-3 px-4 py-1 bg-[#fef0db] rounded-full shadow-sm">
-                    <span className="text-[#a64e12] font-extrabold text-[10px] tracking-widest">COMMUNITY</span>
-                  </div>
-                </div>
-                <span className="text-[10px] font-bold text-gray-400 mt-2 tracking-widest uppercase text-center block">JOIN 500+ STARTUPS</span>
-              </div>
-
-            </div>
-          </div>
         </div>
-      </main>
-    </div>
+      </div>
   );
 }

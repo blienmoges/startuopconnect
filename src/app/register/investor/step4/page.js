@@ -3,79 +3,70 @@ import Image from "next/image";
 
 export default function InvestorRegistrationStep4() {
   return (
-    <div className="min-h-screen bg-[#f8f9fa] font-sans text-gray-900 flex flex-col">
-      {/* Header */}
-      <header className="py-5 px-6 md:px-12 flex justify-between items-center w-full z-20 bg-white shadow-sm">
-        <Link href="/" className="font-bold text-xl tracking-tight text-[#0f3d32]">
-          StartupConnect Ethiopia
-        </Link>
-        <div className="flex items-center gap-6 text-sm font-bold">
-          <div className="hidden md:flex items-center gap-1.5 text-[#5e6b75]">
-            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"></path></svg>
-            Secure Encryption
-          </div>
-          <button className="text-[#136150] transition hover:opacity-80 font-bold">Save as Draft</button>
-        </div>
-      </header>
-
-      {/* Main Content */}
-      <main className="flex-grow flex flex-col items-center pb-20 pt-10 px-4 sm:px-6 z-10 w-full max-w-4xl mx-auto">
-        
-        {/* Progress Stepper */}
-        <div className="w-full mb-12 px-4 max-w-2xl mx-auto">
-          <div className="relative flex justify-between items-start">
-            {/* Connecting Line */}
-            <div className="absolute top-5 left-8 right-8 h-[2px] bg-gray-200 -z-10">
-               <div className="h-full bg-[#0f3d32]" style={{ width: '75%' }}></div>
-            </div>
-            
-            {/* Step 1 */}
-            <div className="flex flex-col items-center gap-3">
-              <div className="w-10 h-10 rounded-full bg-[#0f3d32] text-white flex items-center justify-center font-bold text-sm shadow-sm ring-4 ring-[#f8f9fa] relative z-10">
-                1
-              </div>
-              <span className="text-xs font-bold text-[#0f3d32] uppercase tracking-widest scale-90">Account</span>
-            </div>
-
-            {/* Step 2 */}
-            <div className="flex flex-col items-center gap-3">
-              <div className="w-10 h-10 rounded-full bg-[#0f3d32] text-white flex items-center justify-center font-bold text-sm shadow-sm ring-4 ring-[#f8f9fa] relative z-10">
-                2
-              </div>
-              <span className="text-xs font-bold text-[#0f3d32] uppercase tracking-widest scale-90">Profile</span>
-            </div>
-
-            {/* Step 3 */}
-            <div className="flex flex-col items-center gap-3">
-              <div className="w-10 h-10 rounded-full bg-[#0f3d32] text-white flex items-center justify-center font-bold text-sm shadow-sm ring-4 ring-[#f8f9fa] relative z-10">
-                3
-              </div>
-              <span className="text-xs font-bold text-[#0f3d32] uppercase tracking-widest scale-90">Verification</span>
-            </div>
-
-            {/* Step 4 */}
-            <div className="flex flex-col items-center gap-3">
-              <div className="w-10 h-10 rounded-full bg-[#0f3d32] text-white flex items-center justify-center font-bold text-sm shadow-sm ring-4 ring-[#f8f9fa] relative z-10">
-                4
-              </div>
-              <span className="text-xs font-bold text-[#0f3d32] uppercase tracking-widest scale-90">Review</span>
-            </div>
-
-            {/* Step 5 */}
-            <div className="flex flex-col items-center gap-3">
-              <div className="w-10 h-10 rounded-full bg-[#e9ecef] text-gray-500 flex items-center justify-center font-bold text-sm shadow-sm ring-4 ring-[#f8f9fa] relative z-10">
-                5
-              </div>
-              <span className="text-xs font-bold text-gray-400 uppercase tracking-widest scale-90">Approval</span>
-            </div>
-          </div>
+    <div className="min-h-screen bg-[#fcfcfc] font-sans text-gray-900 flex flex-col lg:flex-row">
+      
+      {/* Left Sidebar (Dark Green graphic) */}
+      <div className="hidden lg:flex w-[40%] bg-[#061e16] relative overflow-hidden flex-col justify-between py-12 px-12">
+        {/* Abstract Green Light Beams / Background */}
+        <div className="absolute inset-0 z-0">
+          <div className="absolute inset-0 bg-[#061e16]"></div>
+          {/* Faux light beams using rotated divs */}
+          <div className="absolute top-[-10%] left-[10%] w-[150%] h-[30px] bg-[#008f64] opacity-30 transform -rotate-[55deg] blur-[2px]"></div>
+          <div className="absolute top-[10%] left-[10%] w-[150%] h-[40px] bg-[#008f64] opacity-30 transform -rotate-[55deg] blur-[2px]"></div>
+          <div className="absolute top-[30%] left-[0%] w-[150%] h-[20px] bg-[#008f64] opacity-30 transform -rotate-[55deg] blur-[2px]"></div>
+          <div className="absolute top-[50%] left-[-10%] w-[150%] h-[60px] bg-[#008f64] opacity-20 transform -rotate-[55deg] blur-[4px]"></div>
+          <div className="absolute top-[70%] left-[-20%] w-[150%] h-[25px] bg-[#008f64] opacity-40 transform -rotate-[55deg] blur-[2px]"></div>
+          <div className="absolute inset-0 bg-gradient-to-b from-[#061e16]/60 via-transparent to-[#061e16]/90"></div>
         </div>
 
-        {/* Center Card Area */}
-        <div className="w-full max-w-2xl bg-white rounded-3xl p-8 sm:p-12 border border-gray-100 shadow-[0_8px_30px_rgba(0,0,0,0.04)] relative">
+        <div className="relative z-10">
+          <Link href="/" className="flex items-center gap-2 mb-16">
+            <div className="flex items-center gap-2"><img src="/logo.png" alt="Logo" className="w-8 h-8 object-contain" /><span className="font-bold text-lg text-white tracking-tight">StartupConnect</span></div>
+          </Link>
           
-          <h1 className="text-3xl font-bold text-[#0f3d32] mb-3 tracking-tight">Review and Submit</h1>
-          <p className="text-gray-500 mb-10 text-sm leading-relaxed">Review your information before submitting your investor account for verification.</p>
+          <h1 className="text-4xl lg:text-5xl font-light text-white mb-6 leading-tight">
+            Empower the <br/> Next Generation <br/> of Ethiopian <br/> Founders
+          </h1>
+          <p className="text-[#10b981] text-sm leading-relaxed max-w-sm font-medium">
+            Join a prestigious network of industry leaders curating the future of Ethiopia's innovation ecosystem through high-impact mentorship.
+          </p>
+        </div>
+
+        <div className="relative z-10">
+          <p className="text-[#8ba39e] text-[10px] font-medium tracking-widest uppercase opacity-50">
+            &copy; 2024 StartupConnect Ethiopia. All rights reserved.
+          </p>
+        </div>
+      </div>
+
+      {/* Main Content Form Side */}
+      <div className="w-full lg:w-[60%] flex flex-col pt-10 pb-6 px-4 md:px-8 overflow-y-auto">
+        <div className="w-full max-w-2xl mx-auto flex flex-col">
+          <div className="w-full flex items-center gap-3 mb-6 pl-4">
+            <Link href="/register/investor/step3" className="text-[#167b66] hover:text-[#0f5c4a] transition">
+              <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path>
+              </svg>
+            </Link>
+            <span className="font-bold text-lg tracking-tight text-[#115b4c]">
+              Review & Submit
+            </span>
+          </div>
+
+          <div className="mb-8">
+            <h1 className="text-3xl font-extrabold text-[#115b4c] tracking-tight mb-2">Review and Submit</h1>
+            <p className="text-gray-500 mb-10 text-[15px]">Review your information before submitting your investor account for verification.</p>
+            <div className="flex items-center justify-between mt-2">
+              <span className="text-xs font-bold text-gray-400 tracking-wider uppercase">Step 4 of 5</span>
+              <div className="flex gap-1.5">
+                <div className="h-1.5 w-6 bg-[#167b66] rounded-full"></div>
+                <div className="h-1.5 w-6 bg-[#167b66] rounded-full"></div>
+                <div className="h-1.5 w-6 bg-[#167b66] rounded-full"></div>
+                <div className="h-1.5 w-6 bg-[#167b66] rounded-full"></div>
+                <div className="h-1.5 w-6 bg-gray-200 rounded-full"></div>
+              </div>
+            </div>
+          </div>
 
           <div className="flex flex-col gap-10">
             
@@ -226,10 +217,10 @@ export default function InvestorRegistrationStep4() {
               <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path></svg>
               Back
             </Link>
-            <button type="button" className="px-8 py-3.5 bg-[#0f3d32] hover:bg-[#0a2921] text-white font-bold rounded shadow-xl shadow-[#0f3d32]/20 transition text-sm flex items-center gap-2">
+            <Link href="/register/investor/success" className="px-8 py-3.5 bg-[#0f3d32] hover:bg-[#0a2921] text-white font-bold rounded shadow-xl shadow-[#0f3d32]/20 transition text-sm flex items-center gap-2">
               Submit for Verification
               <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
-            </button>
+            </Link>
           </div>
 
           {/* Badges Footer inside Card */}
@@ -249,18 +240,7 @@ export default function InvestorRegistrationStep4() {
           </div>
 
         </div>
-
-      </main>
-
-      {/* Footer Below Card */}
-      <div className="w-full text-center pb-10">
-        <div className="flex justify-center flex-wrap gap-8 text-[9px] font-bold text-gray-400 hover:text-gray-600 uppercase tracking-widest transition">
-          <Link href="#" className="hover:text-[#136150] transition">Privacy Policy</Link>
-          <Link href="#" className="hover:text-[#136150] transition">Compliance Standards</Link>
-          <Link href="#" className="hover:text-[#136150] transition">Contact Support</Link>
-        </div>
       </div>
-      
     </div>
   );
 }
