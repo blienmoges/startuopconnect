@@ -14,15 +14,15 @@ export default function Header() {
         </div>
         
         <nav className={styles.nav}>
-          <Link href="/" className={styles.activeLink}>Home</Link>
-          <Link href="/about" className={styles.link}>About</Link>
-          <Link href="/startups" className={styles.link}>Browse Startups</Link>
-          <Link href="/contact" className={styles.link}>Contact</Link>
+          <Link href="/en" className={styles.activeLink}>Home</Link>
+          <Link href="/en/about" className={styles.link}>About</Link>
+          {/* <Link href="/startups" className={styles.link}>Browse Startups</Link> */}
+          <Link href="/en/contact" className={styles.link}>Contact</Link>
         </nav>
         
         <div className={styles.actions}>
-          <Link href="/login" className={styles.loginBtn}>Login</Link>
-          <Link href="/register" className={styles.registerBtn}>Register</Link>
+          <Link href="/en/login" className={styles.loginBtn}>Login</Link>
+          <Link href="/en/register" className={styles.registerBtn}>Register</Link>
         </div>
       </div>
     </header>

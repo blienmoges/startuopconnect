@@ -1,6 +1,7 @@
 "use client";
 import Link from "next/link";
 import Sidebar from "@/components/investor/Sidebar";
+import UserDropdown from "@/components/investor/UserDropdown";
 
 export default function FundingRequests() {
   return (
@@ -37,13 +38,9 @@ export default function FundingRequests() {
              
              <div className="w-px h-6 bg-gray-200"></div>
 
-             <div className="flex items-center gap-3 cursor-pointer">
-               <div className="w-8 h-8 rounded-full overflow-hidden bg-gray-200 shrink-0">
-                 <img src="https://i.pravatar.cc/150?img=12" alt="Profile" className="w-full h-full object-cover" />
+             <UserDropdown company="Abebe Tekle" role="Angel Investor" initials="AT" />
                </div>
-             </div>
-          </div>
-        </header>
+            </header>
 
         {/* Scrollable Content */}
         <main className="flex-grow flex flex-col overflow-y-auto bg-[#f8f9fa] relative">

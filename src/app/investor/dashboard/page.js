@@ -3,6 +3,7 @@ import Link from "next/link";
 import { useState } from "react";
 import Image from "next/image";
 import Sidebar from "@/components/investor/Sidebar";
+import UserDropdown from "@/components/investor/UserDropdown";
 
 export default function InvestorDashboard() {
    return (
@@ -40,15 +41,7 @@ export default function InvestorDashboard() {
 
                   <div className="w-px h-6 bg-gray-200"></div>
 
-                  <div className="flex items-center gap-3">
-                     <div className="w-8 h-8 rounded-full overflow-hidden bg-gray-200 flex items-center justify-center shrink-0">
-                        <img src="https://i.pravatar.cc/150?img=11" alt="Abebe Tekle" className="w-full h-full object-cover" />
-                     </div>
-                     <div className="flex flex-col">
-                        <span className="text-sm font-bold text-gray-900 leading-tight">Abebe Tekle</span>
-                        <span className="text-[9px] font-bold text-gray-500 uppercase tracking-wider">Angel Investor</span>
-                     </div>
-                  </div>
+                  <UserDropdown company="Abebe Tekle" role="Angel Investor" initials="AT" />
                </div>
             </header>
 

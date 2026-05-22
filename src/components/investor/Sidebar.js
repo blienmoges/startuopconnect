@@ -51,21 +51,7 @@ export default function Sidebar() {
     }
   ];
 
-  const systemLinks = [
-    { 
-      name: "Feedback", 
-      href: "/investor/feedback", 
-      icon: <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"></path> 
-    },
-    { 
-      name: "Settings", 
-      href: "/investor/settings", 
-      icon: <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"></path> 
-    }
-  ];
-
-  // Combine Settings & Feedback in bottom or standard layout?
-  // Let's match the standard layout and place them naturally.
+  // System links removed since they are now in the top right user dropdown
   
   return (
     <aside className="hidden md:flex flex-col w-[260px] bg-[#061e16] border-r border-[#0f3d32] shrink-0 sticky top-0 h-screen overflow-y-auto relative">
@@ -144,44 +130,7 @@ export default function Sidebar() {
         })}
       </div>
 
-      {/* Bottom Area: System and User */}
-      <div className="mt-auto pt-4 px-4 pb-6 relative z-10">
-        <div className="flex flex-col gap-1 pt-4 border-t border-[#0f3d32]">
-          {systemLinks.map((link) => {
-            const isActive = pathname === link.href || pathname?.startsWith(link.href);
-            return (
-              <Link 
-                key={link.name} 
-                href={link.href} 
-                className={`flex items-center gap-3 px-4 py-3 rounded-xl font-bold text-xs transition relative overflow-hidden group ${
-                  isActive 
-                    ? "bg-[#0f3d32] text-white" 
-                    : "text-[#8ba39e] hover:text-white hover:bg-[#0a2921]"
-                }`}
-              >
-                <svg className="w-4 h-4 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  {link.icon}
-                </svg>
-                {link.name}
-                {isActive && (
-                  <div className="absolute right-0 top-1/2 -translate-y-1/2 w-1 h-6 bg-[#10b981] rounded-l-full"></div>
-                )}
-              </Link>
-            );
-          })}
-        </div>
 
-        {/* User profile section at the bottom */}
-        <div className="mt-4 px-4 py-3 flex items-center gap-3 bg-[#0a2921] rounded-xl border border-[#0f3d32] cursor-pointer hover:bg-[#0f3d32] transition">
-          <div className="w-8 h-8 rounded-full bg-[#115b4c] text-white flex items-center justify-center font-bold text-xs shrink-0 overflow-hidden">
-             <img src="https://i.pravatar.cc/150?img=11" alt="Abebe" className="w-full h-full object-cover" />
-          </div>
-          <div className="flex flex-col overflow-hidden">
-            <span className="text-xs font-bold text-white truncate">Abebe Tekle</span>
-            <span className="text-[9px] text-[#8ba39e] truncate">Investor</span>
-          </div>
-        </div>
-      </div>
     </aside>
   );
 }

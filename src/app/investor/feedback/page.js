@@ -2,6 +2,7 @@
 import Link from "next/link";
 import { useState } from "react";
 import Sidebar from "@/components/investor/Sidebar";
+import UserDropdown from "@/components/investor/UserDropdown";
 
 export default function FeedbackPage() {
   const [ratings, setRatings] = useState({
@@ -66,11 +67,7 @@ export default function FeedbackPage() {
                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="1.5" d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9"></path></svg>
                <span className="absolute -top-0.5 -right-0.5 w-2 h-2 bg-red-500 rounded-full border border-white"></span>
             </button>
-            <button className="hover:opacity-80 transition ml-2">
-               <div className="w-9 h-9 rounded-full bg-[#0a3a2e] flex items-center justify-center text-white border-2 border-transparent">
-                  <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"></path></svg>
-               </div>
-            </button>
+            <div className="ml-4"><UserDropdown company="Abebe Tekle" role="Angel Investor" initials="AT" /></div>
           </div>
         </header>
 
@@ -80,7 +77,7 @@ export default function FeedbackPage() {
              
              {/* Title Section */}
              <div className="mb-10">
-                <h1 className="text-[34px] font-bold text-gray-900 tracking-tight mb-3">Provide Startup Feedback</h1>
+                <h1 className="text-[34px] font-bold text-gray-900 tracking-tight mb-3">Provide Investor Rating</h1>
                 <p className="text-gray-500 text-[15px] max-w-3xl">Your insights help Ethiopian entrepreneurs refine their ventures and improve alignment with capital requirements.</p>
              </div>
 
@@ -137,15 +134,15 @@ export default function FeedbackPage() {
 
                    {/* Submit Button */}
                    <button className="w-full py-4 bg-[#0a3a2e] hover:bg-[#072a21] text-white font-bold text-[14px] rounded-xl transition shadow-md">
-                      Submit Feedback
+                      Submit Rating
                    </button>
                 </div>
 
-                {/* Right Column - Recent Feedback */}
+                {/* Right Column - Recent Rating */}
                 <div className="w-full lg:w-[400px] shrink-0 flex flex-col gap-5">
                    
                    <div className="flex justify-between items-center mb-1">
-                      <h2 className="text-[22px] font-bold text-gray-900">Recent Feedback</h2>
+                      <h2 className="text-[22px] font-bold text-gray-900">Recent Rating</h2>
                       <button className="px-4 py-1.5 bg-[#a3792c] hover:bg-[#8f6925] text-white text-[11px] font-bold rounded-full transition shadow-sm">
                          View All
                       </button>
@@ -173,7 +170,7 @@ export default function FeedbackPage() {
                       <div className="absolute top-0 right-0 w-32 h-32 bg-white opacity-[0.03] rounded-bl-[100px] pointer-events-none"></div>
                       <div className="text-[#10704c] text-5xl font-serif leading-none mb-2">"</div>
                       <p className="text-[14px] text-white/90 leading-relaxed font-medium mb-6 relative z-10 pr-2">
-                         Direct feedback is the most valuable currency in our ecosystem. You're not just investing money, you're investing wisdom.
+                         Direct rating is the most valuable currency in our ecosystem. You're not just investing money, you're investing wisdom.
                       </p>
                       <div className="text-[10px] font-bold text-[#4ade80] uppercase tracking-widest relative z-10">
                          ADVISORY BOARD INSIGHT

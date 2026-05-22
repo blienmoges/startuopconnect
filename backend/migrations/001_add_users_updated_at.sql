@@ -1,0 +1,6 @@
+ALTER TABLE users
+  ADD COLUMN IF NOT EXISTS updated_at TIMESTAMPTZ NOT NULL DEFAULT NOW();
+
+UPDATE users
+SET updated_at = COALESCE(created_at, NOW())
+WHERE updated_at IS NULL;
