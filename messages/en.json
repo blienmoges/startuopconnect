@@ -1,0 +1,102 @@
+{
+  "LandingPage": {
+    "logo": {
+      "main": "StartupConnect",
+      "country": "Ethiopia",
+      "alt": "StartupConnect Logo"
+    },
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "browseStartups": "Browse Startups",
+      "contact": "Contact",
+      "login": "Login",
+      "register": "Register"
+    },
+    "hero": {
+      "backgroundAlt": "StartupConnect Background",
+      "title": "Connecting Ethiopian Startups with Investors and Mentors",
+      "subtitle": "A digital platform that helps startups gain visibility, secure funding, and receive structured mentorship.",
+      "joinUs": "Join Us"
+    },
+    "how": {
+      "title": "How It Works",
+      "step1": {
+        "title": "Create your profile",
+        "description": "Set up your startup, investor, or mentor profile in minutes."
+      },
+      "step2": {
+        "title": "Connect with partners",
+        "description": "Find the right investors and mentors using smart matching algorithms."
+      },
+      "step3": {
+        "title": "Grow your startup",
+        "description": "Secure funding, get expert advice, and scale your business."
+      }
+    },
+    "benefits": {
+      "title": "Benefits by Role",
+      "startupsTitle": "For Startups",
+      "investorsTitle": "For Investors",
+      "mentorsTitle": "For Mentors",
+      "startup1": "Showcase your startup to active local investors",
+      "startup2": "Find mentors based on your operational stage",
+      "startup3": "Gain visibility through startup profiles",
+      "startup4": "Form relationships with top experts",
+      "investor1": "Discover verified Ethiopian startups",
+      "investor2": "Filter by industry, funding needed and size",
+      "investor3": "Manage your deal flow completely",
+      "investor4": "Co-invest with other investors",
+      "mentor1": "Give back to the ecosystem",
+      "mentor2": "Share your expertise and experience",
+      "mentor3": "Track startup progress",
+      "mentor4": "Build your mentorship portfolio"
+    },
+    "featured": {
+      "title": "Featured Startups",
+      "viewDetails": "View details",
+      "agritechAlt": "AgriTech Startup",
+      "edtechAlt": "EdTech Startup",
+      "fintechAlt": "FinTech Startup",
+      "card1": {
+        "tag1": "AgriTech",
+        "tag2": "Growth",
+        "name": "FarmTech Ethiopia",
+        "description": "Smart farming solutions for smallholder farmers using IoT and data analytics."
+      },
+      "card2": {
+        "tag1": "EdTech",
+        "tag2": "Pre-Seed",
+        "name": "LearnEth",
+        "description": "Digital educational platform providing quality learning tools to remote regions."
+      },
+      "card3": {
+        "tag1": "FinTech",
+        "tag2": "Seed",
+        "name": "PayEasy",
+        "description": "Secure payment solutions designed for the Ethiopian market and local businesses."
+      }
+    },
+    "cta": {
+      "title": "Be part of Ethiopia's growing startup ecosystem",
+      "subtitle": "Join thousands of startups, investors, and mentors building the future.",
+      "button": "Create your account"
+    },
+    "footer": {
+      "description": "Connecting innovators with investors and mentors across Ethiopia.",
+      "quickLinks": "Quick Links",
+      "forUsers": "For Users",
+      "resources": "Resources",
+      "joinStartup": "Join as Startup",
+      "joinInvestor": "Join as Investor",
+      "joinMentor": "Join as Mentor",
+      "successStories": "Success Stories",
+      "blog": "Blog",
+      "events": "Events",
+      "faq": "FAQ",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "rights": "All rights reserved."
+    }
+  }
+}

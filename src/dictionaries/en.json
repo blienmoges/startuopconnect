@@ -1,0 +1,1995 @@
+{
+  "landing": {
+    "logo": {
+      "alt": "StartupConnect Logo",
+      "main": "StartupConnect",
+      "country": "Ethiopia"
+    },
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "browseStartups": "Browse Startups",
+      "contact": "Contact",
+      "login": "Login",
+      "register": "Register"
+    },
+    "hero": {
+      "backgroundAlt": "StartupConnect Background",
+      "titleLine1": "Connecting Ethiopian Startups with",
+      "titleLine2": "Investors and Mentors",
+      "subtitleLine1": "A digital platform that helps startups gain visibility, secure",
+      "subtitleLine2": "funding, and receive structured mentorship.",
+      "joinUs": "Join Us"
+    },
+    "how": {
+      "title": "How It Works",
+      "step1": {
+        "title": "Create your profile",
+        "description": "Set up your startup, investor, or mentor profile in minutes."
+      },
+      "step2": {
+        "title": "Connect with partners",
+        "description": "Find the right investors and mentors using smart matching algorithms."
+      },
+      "step3": {
+        "title": "Grow your startup",
+        "description": "Secure funding, get expert advice, and scale your business."
+      }
+    },
+    "benefits": {
+      "title": "Benefits by Role",
+      "startupsTitle": "For Startups",
+      "investorsTitle": "For Investors",
+      "mentorsTitle": "For Mentors",
+      "startup1": "Showcase your startup to active local investors",
+      "startup2": "Find mentors based on your operational stage",
+      "startup3": "Gain visibility through Startup profiles",
+      "startup4": "Form relationships with top experts",
+      "investor1": "Discover verified Ethiopian startups",
+      "investor2": "Filter by industry, funding needed and size",
+      "investor3": "Manage your deal flow completely",
+      "investor4": "Co-invest with other investors",
+      "mentor1": "Give back to the ecosystem",
+      "mentor2": "Share your expertise and experience",
+      "mentor3": "Track startup progress",
+      "mentor4": "Build your mentorship portfolio"
+    },
+    "featured": {
+      "title": "Featured Startups",
+      "viewDetails": "View details",
+      "card1": {
+        "alt": "AgriTech Startup",
+        "tag1": "AgriTech",
+        "tag2": "Growth",
+        "name": "FarmTech Ethiopia",
+        "description": "Smart farming solutions for smallholder farmers using IoT and data analytics."
+      },
+      "card2": {
+        "alt": "EdTech Startup",
+        "tag1": "EdTech",
+        "tag2": "Pre-Seed",
+        "name": "LearnEth",
+        "description": "Digital educational platform providing quality learning tools to remote regions."
+      },
+      "card3": {
+        "alt": "FinTech Startup",
+        "tag1": "FinTech",
+        "tag2": "Seed",
+        "name": "PayEasy",
+        "description": "Secure payment solutions designed for the Ethiopian market and local businesses."
+      }
+    },
+    "cta": {
+      "title": "Be part of Ethiopia's growing startup ecosystem",
+      "subtitle": "Join thousands of startups, investors, and mentors building the future.",
+      "button": "Create your account"
+    },
+    "footer": {
+      "brand": "StartupConnect Ethiopia",
+      "description": "Connecting innovators with investors and mentors across Ethiopia.",
+      "quickLinks": "Quick Links",
+      "forUsers": "For Users",
+      "resources": "Resources",
+      "joinStartup": "Join as Startup",
+      "joinInvestor": "Join as Investor",
+      "joinMentor": "Join as Mentor",
+      "successStories": "Success Stories",
+      "blog": "Blog",
+      "events": "Events",
+      "faq": "FAQ",
+      "privacyPolicy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "rights": "All rights reserved."
+    }
+  },
+  "about": {
+    "header": {
+      "signUp": "Sign Up"
+    },
+    "hero": {
+      "titleLine1": "Empowering Ethiopia's Startup",
+      "titleLine2": "Ecosystem",
+      "subtitleLine1": "StartupConnect Ethiopia is a digital platform that brings together startups, investors,",
+      "subtitleLine2": "and mentors in one trusted environment."
+    },
+    "challenge": {
+      "title": "The Challenge",
+      "paragraph1": "Many Ethiopian startups struggle to move beyond the idea or prototype stage because they lack access to funding, mentorship, and visibility. Investors also face difficulty finding credible, verified startups.",
+      "paragraph2": "There is no centralized digital platform that connects all stakeholders in the ecosystem, making collaboration difficult and slowing down innovation."
+    },
+    "solution": {
+      "title": "Our Solution",
+      "subtitle": "StartupConnect Ethiopia provides a centralized platform where:",
+      "card1": {
+        "title": "Startup Showcase",
+        "description": "Startups can showcase their ideas and upload pitch materials."
+      },
+      "card2": {
+        "title": "Investor Discovery",
+        "description": "Investors can discover verified startups with potential."
+      },
+      "card3": {
+        "title": "Structured Mentorship",
+        "description": "Mentors can guide founders through structured programs."
+      },
+      "card4": {
+        "title": "Communication",
+        "description": "All users can communicate through chat and meetings."
+      }
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "To empower Ethiopian startups by providing access to funding, mentorship, and visibility through a trusted digital platform."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To become the leading digital hub for startup innovation and investment across Ethiopia."
+    },
+    "values": {
+      "title": "What We Stand For",
+      "card1": {
+        "title": "Trust and Verification",
+        "description": "Verified profiles for startups, investors, and mentors."
+      },
+      "card2": {
+        "title": "Collaboration",
+        "description": "Encouraging meaningful connections and partnerships."
+      },
+      "card3": {
+        "title": "Local Focus",
+        "description": "Built specifically for Ethiopia's startup ecosystem."
+      },
+      "card4": {
+        "title": "Accessibility",
+        "description": "Available via web and mobile, with local payment integration."
+      }
+    },
+    "team": {
+      "title": "Our Team",
+      "image": "Image",
+      "member1": {
+        "name": "Abebe Kebede",
+        "role": "CEO & Founder"
+      },
+      "member2": {
+        "name": "Tigist Haile",
+        "role": "CTO"
+      },
+      "member3": {
+        "name": "Dawit Mekonnen",
+        "role": "Product Manager"
+      },
+      "member4": {
+        "name": "Hiwot Tadesse",
+        "role": "Marketing Lead"
+      }
+    },
+    "cta": {
+      "title": "Join the platform and be part of Ethiopia's innovation future.",
+      "button": "Create an Account"
+    }
+  },
+  "startups": {
+    "header": {
+      "signUp": "Sign Up"
+    },
+    "titleSection": {
+      "title": "Browse Startups",
+      "subtitle": "Discover innovative Ethiopian startups across different industries and stages."
+    },
+    "filters": {
+      "search": "Search",
+      "searchPlaceholder": "Search startups by name or keyword...",
+      "industry": "Industry",
+      "allIndustries": "All Industries",
+      "stage": "Stage",
+      "allStages": "All Stages",
+      "activeFilters": "Active Filters:",
+      "none": "None"
+    },
+    "industries": {
+      "agritech": "AgriTech",
+      "fintech": "FinTech",
+      "edtech": "EdTech",
+      "healthtech": "HealthTech"
+    },
+    "stages": {
+      "idea": "Idea",
+      "preSeed": "Pre-Seed",
+      "seed": "Seed",
+      "earlyGrowth": "Early Growth"
+    },
+    "viewDetails": "View Details",
+    "cards": {
+      "card1": {
+        "imageText": "Image: Farm/Agriculture",
+        "name": "EthioFarm Tech",
+        "description": "Smart farming solutions for Ethiopian farmers.",
+        "industry": "AgriTech",
+        "stage": "Seed",
+        "location": "Addis Ababa"
+      },
+      "card2": {
+        "imageText": "Image: Laptop/Finance",
+        "name": "EthioPay",
+        "description": "Digital payment ecosystem for Ethiopian businesses.",
+        "industry": "FinTech",
+        "stage": "Pre-Seed",
+        "location": "Addis Ababa"
+      },
+      "card3": {
+        "imageText": "Image: Student/Learning",
+        "name": "LearnEthiopia",
+        "description": "Online learning platform for Ethiopian students.",
+        "industry": "EdTech",
+        "stage": "Pre-Seed",
+        "location": "Bahir Dar"
+      },
+      "card4": {
+        "imageText": "Image: Healthcare professional",
+        "name": "HealthConnect",
+        "description": "Telemedicine platform for rural communities.",
+        "industry": "Health",
+        "stage": "Pre-Seed",
+        "location": "Addis Ababa"
+      },
+      "card5": {
+        "imageText": "Image: Technology devices",
+        "name": "EthioTech Solutions",
+        "description": "Custom software development for local businesses.",
+        "industry": "Technology",
+        "stage": "Growth",
+        "location": "Addis Ababa"
+      },
+      "card6": {
+        "imageText": "Image: Coffee beans/export",
+        "name": "EliteCoffee Direct",
+        "description": "Direct-to-consumer Ethiopian coffee platform.",
+        "industry": "AgriTech",
+        "stage": "Seed",
+        "location": "Jimma"
+      }
+    },
+    "cta": {
+      "title": "Have a startup idea?",
+      "subtitle": "Showcase it to investors and mentors across Ethiopia.",
+      "button": "Create Startup Profile"
+    }
+  },
+  "contact": {
+    "header": {
+      "signUp": "Sign Up"
+    },
+    "titleSection": {
+      "title": "Contact Us",
+      "subtitle": "We're here to support startups, investors, and mentors. Reach out with any questions or feedback."
+    },
+    "form": {
+      "title": "Send us a message",
+      "subtitle": "Fill out the form below and our team will get back to you as soon as possible.",
+      "fullName": "Full Name",
+      "emailAddress": "Email Address",
+      "role": "Role",
+      "roles": {
+        "startup": "Startup",
+        "investor": "Investor",
+        "mentor": "Mentor",
+        "other": "Other"
+      },
+      "subject": "Subject",
+      "message": "Message",
+      "sendMessage": "Send Message"
+    },
+    "info": {
+      "title": "Contact Information",
+      "subtitle": "You can also reach us through the following channels:",
+      "email": "Email",
+      "phone": "Phone",
+      "officeLocation": "Office Location",
+      "location": "Addis Ababa, Ethiopia",
+      "officeHours": "Office Hours",
+      "hours": "Monday - Friday, 9:00 AM - 5:00 PM"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "question1": "How do I register as a startup?",
+      "question2": "How are startups verified?",
+      "question3": "How can I contact an investor or mentor?"
+    },
+    "cta": {
+      "title": "Join StartupConnect Ethiopia and grow your network.",
+      "button": "Create an Account"
+    }
+  },
+  "register": {
+    "header": {
+      "logoAlt": "Logo",
+      "saveDraft": "Save as Draft",
+      "secureEncryption": "Secure Encryption"
+    },
+    "title": "Create your account",
+    "subtitle": "Enter your details to get started with StartupConnect Ethiopia",
+    "form": {
+      "firstName": "First Name",
+      "firstNamePlaceholder": "e.g. Abebe",
+      "lastName": "Last Name",
+      "lastNamePlaceholder": "e.g. Kebede",
+      "email": "Email Address",
+      "emailPlaceholder": "abebe@example.com",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "continue": "Continue"
+    },
+    "loginText": "Already have an account?",
+    "loginLink": "Log in",
+    "footer": {
+      "contactSupport": "Contact Support"
+    }
+  },
+  "startupStep1": {
+    "logoAlt": "Logo",
+    "brand": "StartupConnect",
+    "sidebar": {
+      "titleLine1": "Empower the",
+      "titleLine2": "Next Generation",
+      "titleLine3": "of Ethiopian",
+      "titleLine4": "Founders",
+      "description": "Join a prestigious network of industry leaders curating the future of Ethiopia's innovation ecosystem through high-impact mentorship."
+    },
+    "footerCopyright": "StartupConnect Ethiopia. All rights reserved.",
+    "main": {
+      "title": "Account Information",
+      "step": "Step 1 of 4"
+    },
+    "form": {
+      "fullName": "Founder or representative full name",
+      "fullNamePlaceholder": "Enter your full legal name",
+      "phoneNumber": "Phone number",
+      "phoneFormat": "Format: +251 9XX XXX XXX",
+      "preferredLanguage": "Preferred language",
+      "english": "English",
+      "amharic": "Amharic"
+    },
+    "actions": {
+      "continue": "Continue to Step 2",
+      "saveDraft": "Save as Draft"
+    }
+  },
+  "startupStep2": {
+    "logoAlt": "Logo",
+    "brand": "StartupConnect",
+    "sidebar": {
+      "titleLine1": "Empower the",
+      "titleLine2": "Next Generation",
+      "titleLine3": "of Ethiopian",
+      "titleLine4": "Founders",
+      "description": "Join a prestigious network of industry leaders curating the future of Ethiopia's innovation ecosystem through high-impact mentorship."
+    },
+    "footerCopyright": "StartupConnect Ethiopia. All rights reserved.",
+    "main": {
+      "title": "Company Details",
+      "step": "Step 2 of 4"
+    },
+    "identity": {
+      "title": "Identity",
+      "startupName": "Startup name",
+      "startupNamePlaceholder": "e.g. Axum Pay",
+      "sector": "Sector / Industry",
+      "selectSector": "Select Sector",
+      "tagline": "Startup tagline",
+      "taglinePlaceholder": "The digital future of Ethiopia in one sentence"
+    },
+    "status": {
+      "title": "Status",
+      "startupStage": "Startup stage",
+      "selectStage": "Select Stage",
+      "startupType": "Startup type",
+      "selectType": "Select Type"
+    },
+    "details": {
+      "title": "Details",
+      "yearFounded": "Year founded",
+      "region": "Region",
+      "regionPlaceholder": "Addis Ababa",
+      "city": "City",
+      "cityPlaceholder": "Bole",
+      "teamMembers": "Number of team members",
+      "founderRole": "Founder role",
+      "founderRolePlaceholder": "CEO, CTO, Lead Engineer..."
+    },
+    "options": {
+      "agritech": "AgriTech",
+      "fintech": "FinTech",
+      "healthtech": "HealthTech",
+      "edtech": "EdTech",
+      "ideaStage": "Idea Stage",
+      "preSeed": "Pre-Seed",
+      "seed": "Seed",
+      "earlyGrowth": "Early Growth",
+      "b2b": "B2B (Business to Business)",
+      "b2c": "B2C (Business to Consumer)",
+      "b2g": "B2G (Business to Gov)",
+      "marketplace": "Marketplace"
+    },
+    "actions": {
+      "continue": "Continue to Step 3",
+      "note": "Note: You will be asked to upload project files like your pitch deck and business plan in Step 4."
+    }
+  },
+  "startupStep3": {
+    "logoAlt": "Logo",
+    "brand": "StartupConnect",
+    "sidebar": {
+      "titleLine1": "Empower the",
+      "titleLine2": "Next Generation",
+      "titleLine3": "of Ethiopian",
+      "titleLine4": "Founders",
+      "description": "Join a prestigious network of industry leaders curating the future of Ethiopia's innovation ecosystem through high-impact mentorship."
+    },
+    "footerCopyright": "StartupConnect Ethiopia. All rights reserved.",
+    "main": {
+      "title": "Verification Documents",
+      "step": "Step 3 of 4"
+    },
+    "info": {
+      "important": "Important:",
+      "description": "These files are only for verification. Pitch deck, business plan, financial summary, and demo video are uploaded later when creating a project."
+    },
+    "required": {
+      "title": "Required Documents",
+      "itemsNeeded": "3 ITEMS NEEDED",
+      "requiredLabel": "Required",
+      "viewTitle": "View",
+      "replaceTitle": "Replace",
+      "doc1": {
+        "title": "Founder or representative ID",
+        "description": "A clear scan of your National ID, Passport, or Kebele ID.",
+        "uploadInfo": "1.2 MB • Uploaded 2 mins ago"
+      },
+      "doc2": {
+        "title": "Business registration proof",
+        "description": "Valid investment permit or business license from MoTI."
+      }
+    },
+    "upload": {
+      "clickOrDrag": "Click to upload or drag & drop",
+      "fileTypes": "PDF, JPG, PNG (Max. 5MB)",
+      "upload": "Upload"
+    },
+    "optional": {
+      "title": "Optional Documents",
+      "enhancedProfile": "ENHANCED PROFILE",
+      "supportLetter": {
+        "title": "Support or affiliation letter",
+        "description": "Letter from an incubator, hub, or relevant government body."
+      },
+      "tin": {
+        "title": "TIN Certificate",
+        "description": "Tax ID Proof"
+      },
+      "logo": {
+        "title": "Startup logo",
+        "description": "PNG or SVG"
+      },
+      "address": {
+        "title": "Proof of address",
+        "description": "Utility bill or lease agreement"
+      }
+    },
+    "error": {
+      "invalidFormat": "Invalid format",
+      "docxNotSupported": "Word documents (.docx) are not supported.",
+      "tryAgain": "Try Again"
+    },
+    "bottom": {
+      "step": "Step 3 of 4",
+      "next": "Next: Final Review",
+      "continue": "Continue to Review"
+    }
+  },
+  "startupStep4": {
+    "logoAlt": "Logo",
+    "brand": "StartupConnect",
+    "sidebar": {
+      "titleLine1": "Empower the",
+      "titleLine2": "Next Generation",
+      "titleLine3": "of Ethiopian",
+      "titleLine4": "Founders",
+      "description": "Join a prestigious network of industry leaders curating the future of Ethiopia's innovation ecosystem through high-impact mentorship."
+    },
+    "footerCopyright": "StartupConnect Ethiopia. All rights reserved.",
+    "main": {
+      "title": "Review & Submit",
+      "subtitle": "Double-check your application details before sending them for official verification."
+    },
+    "profile": {
+      "title": "Profile Complete",
+      "description": "All required fields have been successfully populated.",
+      "ready": "READY FOR REVIEW"
+    },
+    "editSection": "Edit Section",
+    "account": {
+      "title": "Account Information",
+      "fullName": "Full Name",
+      "workEmail": "Work Email",
+      "phoneNumber": "Phone Number",
+      "role": "Role",
+      "roleValue": "Founder | CEO"
+    },
+    "company": {
+      "title": "Company Details",
+      "companyName": "Company Name",
+      "industry": "Industry",
+      "industryValue": "Agri-Tech / AI",
+      "registrationNumber": "Registration Number",
+      "businessSummary": "Business Summary",
+      "summaryValue": "Providing data-driven soil analysis for smallholder farmers across the Oromia region to optimize fertilizer usage and increase crop yields by 40%."
+    },
+    "documents": {
+      "title": "Verification Documents"
+    },
+    "acknowledgements": {
+      "title": "Final Acknowledgements",
+      "accuracyTitle": "Accuracy Declaration",
+      "accuracyDescription": "I certify that all information provided in this application is true and accurate to the best of my knowledge as of the date of submission.",
+      "termsTitle": "Terms of Service & Privacy Policy",
+      "termsPrefix": "I have read and agree to StartupConnect Ethiopia",
+      "privacyPolicy": "Privacy Policy",
+      "and": "and",
+      "termsOfUse": "Terms of Use",
+      "termsSuffix": "regarding data processing and verification protocols."
+    },
+    "submitBox": {
+      "title": "Ready to Join the Ecosystem?",
+      "descriptionBefore": "Once submitted, our administrators will review your application within",
+      "reviewTime": "3-5 business days",
+      "descriptionAfter": "You will receive an email notification upon approval.",
+      "submit": "Submit for Verification",
+      "cancel": "Cancel"
+    },
+    "security": {
+      "encryptedConnection": "Encrypted Connection",
+      "secureForm": "Secure form SSL TLS",
+      "dataInEthiopia": "Data in Ethiopia"
+    },
+    "footerBadges": {
+      "secureGateway": "Secure Gateway",
+      "dataHosted": "Data Hosted ET",
+      "mintApproved": "MinT Approved",
+      "note": "StartupConnect Ethiopia is an initiative managed by the Ministry of Innovation and Technology (MinT). In short. Your data is protected by the Ethiopia Personal Data Protection Proclamation."
+    }
+  },
+  "startupSuccess": {
+    "header": {
+      "brand": "StartupConnect",
+      "portal": "Founder Portal",
+      "needHelp": "Need Help?",
+      "goToLogin": "Go to Login"
+    },
+    "status": {
+      "pending": "Pending Approval"
+    },
+    "main": {
+      "title": "Registration Submitted",
+      "description": "Your founder account has been submitted for admin verification. Your profile and uploaded documents are now under review.",
+      "alert": "Standard review time is 24-48 business hours. You will receive an automated notification via your registered email once your account has been approved and activated."
+    },
+    "actions": {
+      "goToLogin": "Go to Login",
+      "backToHome": "Back to Home"
+    },
+    "badges": {
+      "secureVerification": "Secure Verification",
+      "adminReviewed": "Admin Reviewed",
+      "verifiedPlatform": "Verified Platform"
+    },
+    "support": {
+      "liveSupport": "Live Support Active"
+    }
+  },
+  "registerRole": {
+    "header": {
+      "logoAlt": "Logo",
+      "saveDraft": "Save as Draft",
+      "secureEncryption": "SECURE ENCRYPTION"
+    },
+    "title": "Choose Your Role",
+    "subtitle": "Select how you want to use StartupConnect Ethiopia",
+    "roles": {
+      "startup": {
+        "title": "Startup",
+        "description": "Scale your idea with ecosystem resources, funding, and mentorship."
+      },
+      "investor": {
+        "title": "Investor",
+        "description": "Discover high-potential Ethiopian startups and manage your portfolio."
+      },
+      "mentor": {
+        "title": "Mentor",
+        "description": "Guide the next generation of founders and share your expertise."
+      }
+    },
+    "continue": "Continue",
+    "loginText": "Already have an account?",
+    "loginLink": "Log in",
+    "footer": {
+      "contactSupport": "Contact Support"
+    }
+  },
+  "investorStep1": {
+    "logoAlt": "Logo",
+    "brand": "StartupConnect",
+    "sidebar": {
+      "titleLine1": "Empower the",
+      "titleLine2": "Next Generation",
+      "titleLine3": "of Ethiopian",
+      "titleLine4": "Founders",
+      "description": "Join a prestigious network of industry leaders curating the future of Ethiopia's innovation ecosystem through high-impact mentorship."
+    },
+    "footerCopyright": "StartupConnect Ethiopia. All rights reserved.",
+    "main": {
+      "title": "Account Information",
+      "subtitle": "Begin your journey as a verified investor in Ethiopia's growing tech ecosystem.",
+      "step": "Step 1 of 5"
+    },
+    "form": {
+      "fullLegalName": "Full Legal Name",
+      "fullLegalNamePlaceholder": "Enter your full legal name",
+      "phoneNumber": "Phone Number",
+      "preferredLanguage": "Preferred Language",
+      "english": "English",
+      "amharic": "Amharic"
+    },
+    "actions": {
+      "continue": "Continue to Profile"
+    }
+  },
+  "investorStep2": {
+    "logoAlt": "Logo",
+    "brand": "StartupConnect",
+    "sidebar": {
+      "titleLine1": "Empower the",
+      "titleLine2": "Next Generation",
+      "titleLine3": "of Ethiopian",
+      "titleLine4": "Founders",
+      "description": "Join a prestigious network of industry leaders curating the future of Ethiopia's innovation ecosystem through high-impact mentorship."
+    },
+    "footerCopyright": "StartupConnect Ethiopia. All rights reserved.",
+    "header": {
+      "title": "Investor Profile"
+    },
+    "main": {
+      "title": "Investor Type and Profile",
+      "subtitle": "Tell us about your investment background and preferences to match you with relevant Ethiopian startups.",
+      "step": "Step 2 of 5"
+    },
+    "investorType": {
+      "title": "Investor Type",
+      "individual": "Individual",
+      "angel": "Angel",
+      "ventureCapital": "Venture Capital",
+      "investmentCompany": "Investment Co.",
+      "corporate": "Corporate",
+      "diaspora": "Diaspora"
+    },
+    "preferences": {
+      "title": "Investment Preferences",
+      "preferredSectors": "Preferred Sectors",
+      "startupStage": "Startup Stage",
+      "investmentRange": "Investment Range (USD)",
+      "locationPreference": "Location Preference",
+      "linkedin": "LinkedIn or Website",
+      "bio": "Short Professional Bio",
+      "bioPlaceholder": "Briefly describe your investment philosophy and previous experience..."
+    },
+    "sectors": {
+      "fintech": "Fintech",
+      "agritech": "AgriTech",
+      "logistics": "Logistics",
+      "healthtech": "HealthTech",
+      "edtech": "EdTech",
+      "energy": "Energy"
+    },
+    "options": {
+      "seriesA": "Series A",
+      "seed": "Seed",
+      "preSeed": "Pre-Seed",
+      "under250k": "Under $250k",
+      "over1m": "Over $1M",
+      "addisAbaba": "Addis Ababa",
+      "regionalEthiopia": "Regional Ethiopia",
+      "anywhere": "Anywhere"
+    },
+    "actions": {
+      "back": "Back",
+      "continue": "Continue to Profile"
+    }
+  },
+  "investorStep3": {
+    "logoAlt": "Logo",
+    "brand": "StartupConnect",
+    "sidebar": {
+      "titleLine1": "Empower the",
+      "titleLine2": "Next Generation",
+      "titleLine3": "of Ethiopian",
+      "titleLine4": "Founders",
+      "description": "Join a prestigious network of industry leaders curating the future of Ethiopia's innovation ecosystem through high-impact mentorship."
+    },
+    "footerCopyright": "StartupConnect Ethiopia. All rights reserved.",
+    "header": {
+      "title": "Verification"
+    },
+    "main": {
+      "title": "Verification and Documents",
+      "subtitle": "Upload the required documents to verify your identity and investor status.",
+      "step": "Step 3 of 5"
+    },
+    "personal": {
+      "title": "Personal Verification",
+      "uploadTitle": "ID or Passport Upload",
+      "supportedFormats": "Supported formats: PDF, JPG, PNG (Max 10MB)"
+    },
+    "institutional": {
+      "title": "Institutional Verification",
+      "uploadedFileInfo": "Uploaded • 2.4 MB",
+      "tradeLicense": "Trade License",
+      "tinCertificate": "TIN Certificate"
+    },
+    "confirmations": {
+      "financialPrefix": "I confirm that I possess the",
+      "financialBold": "financial capacity",
+      "financialSuffix": "to engage in institutional investments.",
+      "termsPrefix": "I agree to the",
+      "termsBold": "Terms of Use",
+      "termsSuffix": "and acknowledge that false information may lead to permanent disqualification."
+    },
+    "encryptionNote": "Your documents are protected by AES-256 encryption.",
+    "actions": {
+      "back": "Back",
+      "continue": "Continue to Review"
+    }
+  },
+  "investorStep4": {
+    "logoAlt": "Logo",
+    "brand": "StartupConnect",
+    "sidebar": {
+      "titleLine1": "Empower the",
+      "titleLine2": "Next Generation",
+      "titleLine3": "of Ethiopian",
+      "titleLine4": "Founders",
+      "description": "Join a prestigious network of industry leaders curating the future of Ethiopia's innovation ecosystem through high-impact mentorship."
+    },
+    "footerCopyright": "StartupConnect Ethiopia. All rights reserved.",
+    "header": {
+      "title": "Review & Submit"
+    },
+    "main": {
+      "title": "Review and Submit",
+      "subtitle": "Review your information before submitting your investor account for verification.",
+      "step": "Step 4 of 5"
+    },
+    "edit": "Edit",
+    "account": {
+      "title": "Account Information",
+      "fullLegalName": "Full Legal Name",
+      "workEmail": "Work Email",
+      "phoneNumber": "Phone Number"
+    },
+    "profile": {
+      "title": "Investor Type And Profile",
+      "investorType": "Investor Type",
+      "angelInvestor": "Angel Investor",
+      "locationPreference": "Location Preference",
+      "locationValue": "Addis Ababa, Ethiopia",
+      "preferredSectors": "Preferred Sectors",
+      "startupStage": "Startup Stage",
+      "startupStageValue": "Series A",
+      "investmentRange": "Investment Range",
+      "professionalBio": "Professional Bio",
+      "bioValue": "Experienced investor focusing on tech driven technology startups with strong social impact and scalable business models."
+    },
+    "sectors": {
+      "fintech": "Fintech",
+      "agritech": "AgriTech",
+      "healthtech": "HealthTech"
+    },
+    "verification": {
+      "title": "Verification Summary",
+      "accepted": "Terms & Conditions accepted. Identity verified."
+    },
+    "alert": "By clicking submit, your investor profile will enter a verification review. This process ensures the highest institutional standards of validity. You will receive an email update within 48 hours.",
+    "actions": {
+      "back": "Back",
+      "submit": "Submit for Verification"
+    },
+    "badges": {
+      "sovereignData": "Sovereign Data Enclave",
+      "adminAudit": "Administrator Audit",
+      "verifiedPlatform": "Verified Platform"
+    }
+  },
+  "investorSuccess": {
+    "header": {
+      "brand": "StartupConnect",
+      "portal": "Investor Portal",
+      "needHelp": "Need Help?",
+      "goToLogin": "Go to Login"
+    },
+    "status": {
+      "pending": "Pending Approval"
+    },
+    "main": {
+      "title": "Registration Submitted",
+      "description": "Your investor account has been submitted for admin verification. Your profile and uploaded documents are now under review.",
+      "alert": "Standard review time is 24-48 business hours. You will receive an automated notification via your registered email once your account has been approved and activated."
+    },
+    "actions": {
+      "goToLogin": "Go to Login",
+      "backToHome": "Back to Home"
+    },
+    "badges": {
+      "secureVerification": "Secure Verification",
+      "adminReviewed": "Admin Reviewed",
+      "verifiedPlatform": "Verified Platform"
+    },
+    "support": {
+      "liveSupport": "Live Support Active"
+    }
+  },
+  "mentorStep1": {
+    "logoAlt": "Logo",
+    "brand": "StartupConnect",
+    "sidebar": {
+      "titleLine1": "Empower the",
+      "titleLine2": "Next Generation",
+      "titleLine3": "of Ethiopian",
+      "titleLine4": "Founders",
+      "description": "Join a prestigious network of industry leaders curating the future of Ethiopia's innovation ecosystem through high-impact mentorship."
+    },
+    "footerCopyright": "StartupConnect Ethiopia. All rights reserved.",
+    "steps": {
+      "accountInfo": "Account Info",
+      "professional": "Professional",
+      "review": "Review",
+      "verification": "Verification"
+    },
+    "main": {
+      "title": "Create Mentor Profile",
+      "subtitle": "Share your expertise and help drive innovation in Ethiopia"
+    },
+    "form": {
+      "phoneNumber": "Phone Number",
+      "professionalTitle": "Professional Title",
+      "professionalTitlePlaceholder": "e.g. Senior Software Engineer",
+      "yearsOfExperience": "Years of Experience",
+      "languages": "Languages",
+      "addAnother": "Add another...",
+      "expertiseAreas": "Expertise Areas",
+      "professionalBio": "Professional Bio",
+      "professionalBioPlaceholder": "Briefly describe your journey and how you can help startups...",
+      "linkedinUrl": "LinkedIn/Portfolio URL",
+      "certifications": "Certifications & Credentials",
+      "availabilityPreference": "Availability Preference",
+      "sessionPricing": "Optional Session Pricing (ETB)"
+    },
+    "experience": {
+      "fiveToTen": "5 - 10 years",
+      "oneToFour": "1 - 4 years",
+      "tenPlus": "10+ years"
+    },
+    "languages": {
+      "amharic": "Amharic",
+      "english": "English"
+    },
+    "expertise": {
+      "fintechStrategy": "Fintech Strategy",
+      "scalingTeams": "Scaling Teams",
+      "addExpertise": "+ Add Expertise"
+    },
+    "upload": {
+      "dragDrop": "Drag and drop files here",
+      "fileTypes": "PDF, JPG up to 10MB"
+    },
+    "availability": {
+      "oneToTwo": "1-2 hours / week",
+      "threeToFive": "3-5 hours / week",
+      "fivePlus": "5+ hours / week"
+    },
+    "terms": {
+      "before": "I agree to the",
+      "termsOfService": "Terms of Service",
+      "and": "and",
+      "privacyPolicy": "Privacy Policy",
+      "after": "I certify that all professional information provided is accurate and verifiable."
+    },
+    "actions": {
+      "continue": "Continue to Professional"
+    },
+    "login": {
+      "text": "Already have an account?",
+      "signIn": "Sign in"
+    },
+    "footer": {
+      "portalMain": "Mentor",
+      "portalSub": "Portal",
+      "privacyPolicy": "Privacy Policy",
+      "institutionalTerms": "Institutional Terms",
+      "accessibility": "Accessibility",
+      "contactRegistry": "Contact Registry"
+    }
+  },
+  "mentorStep2": {
+    "logoAlt": "Logo",
+    "brand": "StartupConnect",
+    "sidebar": {
+      "titleLine1": "Empower the",
+      "titleLine2": "Next Generation",
+      "titleLine3": "of Ethiopian",
+      "titleLine4": "Founders",
+      "description": "Join a prestigious network of industry leaders curating the future of Ethiopia's innovation ecosystem through high-impact mentorship."
+    },
+    "footerCopyright": "StartupConnect Ethiopia. All rights reserved.",
+    "steps": {
+      "accountInfo": "Account Info",
+      "professional": "Professional",
+      "review": "Review",
+      "verification": "Verification"
+    },
+    "main": {
+      "title": "Professional Mentor Details",
+      "subtitle": "Help startups understand your expertise, mentoring style, and the value you bring to the table."
+    },
+    "form": {
+      "currentOrganization": "Current Organization",
+      "currentOrganizationPlaceholder": "e.g. Safaricom Inc",
+      "currentTitle": "Current Title",
+      "currentTitlePlaceholder": "e.g. Chief Product Officer",
+      "primaryIndustry": "Primary Industry",
+      "secondaryIndustry": "Secondary Industry",
+      "mentorshipCategories": "Mentorship Categories",
+      "preferredStartupStage": "Preferred Startup Stage",
+      "cityLocation": "City / Location",
+      "mentorPlatform": "Mentor Platform",
+      "availabilityDays": "Availability Days",
+      "sessionFrequency": "Session Frequency",
+      "preferredTimeSlots": "Preferred Time Slots",
+      "timeSlotPlaceholder": "e.g. 5:00 PM - 7:00 PM EAT",
+      "mentoringStyle": "Mentoring Style / Approach",
+      "mentoringStylePlaceholder": "Briefly describe your history with mentoring individuals or teams...",
+      "notableStartups": "Notable Startups / Projects Mentored",
+      "notableStartupsPlaceholder": "List companies or major projects you have advised...",
+      "keyAchievements": "Key Achievements",
+      "keyAchievementsPlaceholder": "What are the key achievements in your professional career?",
+      "mediaLinks": "Media / Press Links (Optional)",
+      "mediaLinksPlaceholder": "Blogs, published articles (e.g. Tech Crunch link with major exclusive launch)"
+    },
+    "options": {
+      "selectIndustry": "Select Industry"
+    },
+    "industries": {
+      "fintech": "Fintech",
+      "telecommunications": "Telecommunications",
+      "ecommerce": "E-commerce",
+      "agritech": "Agritech"
+    },
+    "categories": {
+      "productStrategy": "Product Strategy",
+      "businessModel": "Business Model",
+      "fundraising": "Fundraising",
+      "marketEntry": "Market Entry",
+      "operations": "Operations",
+      "leadership": "Leadership",
+      "technology": "Technology",
+      "other": "Other"
+    },
+    "stages": {
+      "idea": "Idea",
+      "mvp": "MVP",
+      "earlyRevenue": "Early Revenue",
+      "growth": "Growth",
+      "scaleUp": "Scale Up"
+    },
+    "locations": {
+      "addisAbaba": "Addis Ababa",
+      "remoteGlobal": "Remote (Global)"
+    },
+    "platform": {
+      "remote": "Remote",
+      "inPerson": "In-person"
+    },
+    "days": {
+      "monday": "M",
+      "tuesday": "T",
+      "wednesday": "W",
+      "thursday": "T",
+      "friday": "F",
+      "saturday": "S",
+      "sunday": "S"
+    },
+    "frequency": {
+      "biweekly": "Biweekly (Recommended)",
+      "weekly": "Weekly",
+      "monthly": "Monthly"
+    },
+    "video": {
+      "title": "Introduction Video (Optional)",
+      "uploadTitle": "Upload a short video",
+      "description": "Let the founders know your mentoring philosophy and what you look..."
+    },
+    "actions": {
+      "back": "Back",
+      "continue": "Continue to Review"
+    },
+    "confirmationNote": "By clicking continue, you confirm that all information provided is accurate and verifiable. You will be held accountable closely by your investors on StartupConnect Ethiopia.",
+    "footer": {
+      "privacyPolicy": "Privacy Policy",
+      "termsOfUse": "Terms of Use"
+    }
+  },
+  "mentorStep3": {
+    "logoAlt": "Logo",
+    "brand": "StartupConnect",
+    "sidebar": {
+      "titleLine1": "Empower the",
+      "titleLine2": "Next Generation",
+      "titleLine3": "of Ethiopian",
+      "titleLine4": "Founders",
+      "description": "Join a prestigious network of industry leaders curating the future of Ethiopia's innovation ecosystem through high-impact mentorship."
+    },
+    "footerCopyright": "StartupConnect Ethiopia. All rights reserved.",
+    "steps": {
+      "accountInfo": "Account Info",
+      "professional": "Professional",
+      "review": "Review",
+      "verification": "Verification"
+    },
+    "main": {
+      "title": "Verification & Review",
+      "subtitle": "Review your details and complete identity and expertise verification before submission."
+    },
+    "edit": "Edit",
+    "account": {
+      "title": "Account Info",
+      "fullName": "Full Name",
+      "emailAddress": "Email Address",
+      "professionalTitle": "Professional Title",
+      "professionalTitleValue": "Senior Strategy Consultant",
+      "yearsOfExperience": "Years of Experience",
+      "yearsOfExperienceValue": "10+ Years"
+    },
+    "professional": {
+      "title": "Professional Summary",
+      "coreExpertise": "Core Expertise",
+      "scalingOps": "Scaling Ops",
+      "ventureCapital": "Venture Capital",
+      "fintech": "Fintech",
+      "targetStages": "Target Stages",
+      "targetStagesValue": "Seed, Series A",
+      "sessionFormat": "Session Format",
+      "sessionFormatValue": "Virtual & In-Person (Addis)"
+    },
+    "documents": {
+      "title": "Verification Documents",
+      "governmentId": {
+        "title": "Government ID",
+        "description": "Passport or National ID (PDF, JPG)"
+      },
+      "certificates": {
+        "title": "Certificates",
+        "description": "Degrees or Professional Certs"
+      },
+      "employmentProof": {
+        "title": "Employment Proof",
+        "description": "Reference letter or LinkedIn URL"
+      },
+      "profilePhoto": {
+        "title": "Profile Photo",
+        "description": "High-quality professional headshot"
+      }
+    },
+    "comment": {
+      "label": "Comment Details (Optional)",
+      "placeholder": "Any additional context for the verification team..."
+    },
+    "confirmations": {
+      "authentic": "I verify that all information and documents provided are authentic and accurate.",
+      "codePrefix": "I agree to abide by the StartupConnect",
+      "codeLink": "Mentor Code of Conduct",
+      "privacyPrefix": "I acknowledge the",
+      "privacyLink": "Privacy Policy",
+      "privacySuffix": "regarding my personal data."
+    },
+    "actions": {
+      "back": "Back",
+      "continue": "Continue to Verification"
+    },
+    "footer": {
+      "portal": "MentorPortal",
+      "dashboard": "Institutional Dashboard",
+      "support": "Support",
+      "terms": "Terms",
+      "accessibility": "Accessibility"
+    }
+  },
+  "mentorSuccess": {
+    "header": {
+      "brand": "StartupConnect",
+      "portal": "Mentor Portal",
+      "needHelp": "Need Help?",
+      "goToLogin": "Go to Login"
+    },
+    "status": {
+      "pending": "Pending Approval"
+    },
+    "main": {
+      "title": "Registration Submitted",
+      "description": "Your mentor account has been submitted for admin verification. Your profile and uploaded documents are now under review.",
+      "alert": "Standard review time is 24-48 business hours. You will receive an automated notification via your registered email once your account has been approved and activated."
+    },
+    "actions": {
+      "goToLogin": "Go to Login",
+      "backToHome": "Back to Home"
+    },
+    "badges": {
+      "secureVerification": "Secure Verification",
+      "adminReviewed": "Admin Reviewed",
+      "verifiedPlatform": "Verified Platform"
+    },
+    "support": {
+      "liveSupport": "Live Support Active"
+    }
+  },
+  "investorChat": {
+    "sidebar": {
+      "title": "Messages",
+      "unread": "12 UNREAD"
+    },
+    "filters": {
+      "allChats": "All Chats",
+      "investors": "Investors",
+      "unread": "Unread"
+    },
+    "status": {
+      "online": "ONLINE",
+      "offline": "OFFLINE",
+      "waitingReply": "WAITING REPLY"
+    },
+    "chats": {
+      "ethioVenture": {
+        "text": "We've reviewed your latest pitch deck. Can we discu..."
+      },
+      "sheba": {
+        "time": "Yesterday",
+        "text": "The meeting invitation has been sent for Thursday."
+      },
+      "zemen": {
+        "time": "Tue",
+        "text": "Waiting for your response regarding the cap table..."
+      },
+      "addis": {
+        "time": "Archived",
+        "text": "Archived conversation"
+      }
+    },
+    "header": {
+      "searchPlaceholder": "Search conversations or messages..."
+    },
+    "history": {
+      "today": "Today",
+      "message1": "Greetings Abebe. We've gone through the operational plan for the Q3 expansion in the Bahir Dar region. The logistics part looks solid, but we have some concerns regarding the local vendor partnerships.",
+      "message2": "Thank you for the quick feedback, Dawit. We are aware of the vendor fragmentation there. We are currently finalizing a MOU with two major logistics hubs to centralize our sourcing. Would you like to see the preliminary MOU drafts?",
+      "message3": "Yes, that would be very helpful. Also, please attach the latest user growth chart for the mobile app version. We noticed a spike last week.",
+      "message4": "Absolutely. Here is the growth analytics report from last week. The spike was due to our integrated marketing campaign with EthioTelecom.",
+      "pdfDocument": "PDF Document"
+    },
+    "input": {
+      "placeholder": "Write your message to Dawit...",
+      "encrypted": "End-to-end encrypted for your security",
+      "enterToSend": "Press Enter to send"
+    }
+  },
+  "startupDashboard": {
+    "topbar": {
+      "searchPlaceholder": "Search resources..."
+    },
+    "profile": {
+      "company": "GreenTech Solutions",
+      "role": "Startup Founder"
+    },
+    "welcome": {
+      "title": "Welcome back, Ethio farm connect.",
+      "subtitle": "Your venture is performing well. You have 2 new updates from your mentor."
+    },
+    "status": {
+      "title": "Startup Status",
+      "updatedToday": "Updated today",
+      "pending": "Pending",
+      "active": "Active",
+      "funded": "Funded",
+      "mentored": "Mentored",
+      "closed": "Closed"
+    },
+    "projectProgress": {
+      "title": "Project Progress",
+      "phase": "MVP Phase: Integration.",
+      "viewDetails": "View Details"
+    },
+    "funding": {
+      "title": "Funding Summary",
+      "requiredFunding": "Required Funding",
+      "applied": "Applied",
+      "received": "Received"
+    },
+    "documents": {
+      "title": "Documents Status",
+      "uploaded": "8 Uploaded",
+      "verifiedDocuments": "Verified Documents",
+      "missing": "3 Missing",
+      "actionRequired": "Action Required",
+      "fixNow": "Fix Now"
+    },
+    "feedback": {
+      "title": "Latest Feedback",
+      "message": "Great progress on the MVP, looking forward to the next update.",
+      "role": "Tech Lead at EthioCapital"
+    },
+    "meeting": {
+      "tomorrow": "Tomorrow",
+      "title": "Strategy Sync with Investor Group",
+      "description": "Pitch deck review and roadmap alignment session.",
+      "joinRoom": "Join Room"
+    },
+    "activity": {
+      "title": "Recent Activity",
+      "projectUpdated": "Project updated",
+      "projectUpdatedMeta": "2 hours ago • API Gateway Launched",
+      "documentUploaded": "Document uploaded",
+      "documentUploadedMeta": "Yesterday • Tax clearance.pdf",
+      "newMessage": "New message received",
+      "newMessageMeta": "4 days ago • From: Menber Bareh"
+    },
+    "quickActions": {
+      "title": "Quick Actions",
+      "createProject": "Create Project",
+      "uploadDocs": "Upload Docs",
+      "findInvestors": "Find Investors",
+      "requestMentor": "Request Mentor",
+      "updateProgress": "Update Progress"
+    }
+  },
+  "startupApply": {
+    "topbar": {
+      "searchPlaceholder": "Search..."
+    },
+    "profile": {
+      "role": "Founder, GreenTech"
+    },
+    "pageHeader": {
+      "title": "Apply for Investment",
+      "subtitle": "Submit your funding request to the selected investor."
+    },
+    "investor": {
+      "active": "Active",
+      "location": "Addis Ababa, ET",
+      "range": "Range: $50k - $250k",
+      "changeInvestor": "Change Investor"
+    },
+    "form": {
+      "title": "Application Form",
+      "selectProject": "Select Startup Project",
+      "fundingAmount": "Funding Amount Requested ($)",
+      "fundingAmountPlaceholder": "e.g. 150,000",
+      "useOfFunds": "Use of Funds",
+      "useOfFundsPlaceholder": "Describe how the investment will be utilized...",
+      "expectedMilestones": "Expected Milestones",
+      "expectedMilestonesPlaceholder": "What key goals will be achieved with this funding?",
+      "messageToInvestor": "Message to Investor",
+      "messageToInvestorPlaceholder": "Personal note or introduction to the investor..."
+    },
+    "documents": {
+      "title": "Attached Documents",
+      "pitchDeck": "Pitch Deck",
+      "businessPlan": "Business Plan",
+      "financialDocument": "Financial Document",
+      "demoVideo": "Demo Video",
+      "requiredForReview": "Required for review",
+      "optional": "Optional",
+      "uploaded": "Uploaded",
+      "upload": "Upload",
+      "missing": "Missing"
+    },
+    "actions": {
+      "warning": "Please upload required documents before submitting",
+      "saveDraft": "Save Draft",
+      "submitApplication": "Submit Application"
+    },
+    "summary": {
+      "title": "Application Summary",
+      "startupName": "Startup Name",
+      "project": "Project",
+      "projectValue": "Waste-to-Energy Initiative",
+      "industry": "Industry",
+      "industryValue": "Renewable Energy",
+      "requestedAmount": "Requested Amount",
+      "status": "Status",
+      "draft": "Draft"
+    },
+    "proTip": "Pro-Tip: Complete applications with demo videos have a 40% higher chance of receiving investor interest in the first week."
+  },
+  "investorProfile": {
+    "topbar": {
+      "searchPlaceholder": "Search investors, startups..."
+    },
+    "profile": {
+      "role": "Startup Founder"
+    },
+    "backToDiscover": "Back to Discover",
+    "status": {
+      "active": "Active"
+    },
+    "header": {
+      "location": "Addis Ababa, Ethiopia",
+      "investorType": "Venture Capital",
+      "description": "Early-stage investment firm supporting Ethiopian startups with high growth potential. We focus on bridging the funding gap for local innovators in tech-enabled sectors.",
+      "applyForInvestment": "Apply for Investment",
+      "messageInvestor": "Message Investor"
+    },
+    "overview": {
+      "title": "Investor Overview",
+      "organizationName": "Organization Name",
+      "investorType": "Investor Type",
+      "primaryFocus": "Primary Focus",
+      "hqLocation": "HQ Location",
+      "activeSince": "Active Since",
+      "startupsFunded": "Startups Funded"
+    },
+    "values": {
+      "ventureCapital": "Venture Capital",
+      "localTechEcosystem": "Local Tech Ecosystem",
+      "addisAbabaShort": "Addis Ababa, ET",
+      "activeSinceDate": "January 2019",
+      "companiesFunded": "14 Companies",
+      "thisYear": "+2 this year"
+    },
+    "investmentDetails": {
+      "title": "Investment Details",
+      "ticketRange": "Ticket Range",
+      "perStartup": "per startup",
+      "fundingType": "Funding Type",
+      "fundingTypeValue": "Equity / Convertibles",
+      "preferredStage": "Preferred Stage",
+      "preferredStageValue": "MVP / Early Stage",
+      "avgResponse": "Avg Response",
+      "avgResponseValue": "3-5 Business Days",
+      "targetIndustries": "Target Industries",
+      "industries": {
+        "agrotech": "AgroTech",
+        "fintech": "FinTech",
+        "energy": "Energy",
+        "more": "+2 others"
+      }
+    },
+    "match": {
+      "title": "Startup Match",
+      "description": "Based on your current startup profile, EthioVenture is a strong candidate for your seed round.",
+      "items": {
+        "industry": "Industry (FinTech)",
+        "fundingRange": "Funding range match",
+        "earlyStage": "Early Stage focus",
+        "location": "Location (Remote vs local HQ)"
+      },
+      "score": "92% Match Score"
+    },
+    "portfolio": {
+      "title": "Portfolio",
+      "viewAll": "View All",
+      "greenLeaf": {
+        "tags": "AgriTech • Seed",
+        "description": "Supply chain platform connecting 5,000+ local farmers to urban markets."
+      },
+      "zenaPay": {
+        "tags": "FinTech • MVP",
+        "description": "Enabling cross-border payments for Ethiopian freelancers and digital nomads."
+      }
+    }
+  },
+  "startupDiscover": {
+    "topbar": {
+      "searchPlaceholder": "Search startup opportunities..."
+    },
+    "profile": {
+      "role": "Founder, AgriFlow"
+    },
+    "header": {
+      "title": "Discover Investors and Mentors",
+      "subtitle": "Connect with Ethiopia's leading investment firms and industry experts to scale your startup."
+    },
+    "filters": {
+      "industry": "Industry",
+      "allIndustries": "All Industries",
+      "location": "Location",
+      "allLocations": "All Locations",
+      "rangeExpertise": "Range / Expertise",
+      "anyType": "Any Type",
+      "availability": "Availability",
+      "allAvailable": "All Available"
+    },
+    "tabs": {
+      "investors": "Investors",
+      "mentors": "Mentors"
+    },
+    "status": {
+      "active": "Active",
+      "earlyStage": "Early Stage",
+      "crossBorder": "Cross-Border"
+    },
+    "tags": {
+      "agritech": "Agritech",
+      "fintech": "Fintech",
+      "energy": "Energy",
+      "logistics": "Logistics",
+      "ecommerce": "E-Commerce",
+      "manufacturing": "Manufacturing",
+      "export": "Export",
+      "saas": "SaaS",
+      "healthtech": "Healthtech"
+    },
+    "stats": {
+      "investmentRange": "Investment Range",
+      "portfolio": "Portfolio",
+      "focus": "Focus",
+      "series": "Series",
+      "techFocus": "Tech Focus"
+    },
+    "cards": {
+      "ethioVenture": {
+        "location": "Addis Ababa, ET",
+        "portfolio": "12 Startups"
+      },
+      "sheba": {
+        "location": "Regional East Africa",
+        "focus": "Female Founders"
+      },
+      "blueNile": {
+        "location": "Addis Ababa, ET"
+      },
+      "horizon": {
+        "location": "Silicon Valley / Addis"
+      }
+    },
+    "actions": {
+      "viewProfile": "View Profile",
+      "apply": "Apply",
+      "loadMore": "Load More Investors"
+    }
+  },
+  "startupFeedback": {
+    "topbar": {
+      "searchPlaceholder": "Search investors or resources...",
+      "support": "Support"
+    },
+    "main": {
+      "title": "Provide Investor Feedback",
+      "subtitle": "Your feedback helps maintain a high-quality investor network and guides other founders in our ecosystem."
+    },
+    "form": {
+      "selectInvestor": "SELECT INVESTOR",
+      "selectInvestorPlaceholder": "Select an investor to review",
+      "commentsAdvice": "COMMENTS & ADVICE",
+      "commentsPlaceholder": "Share your experience working with this investor..."
+    },
+    "ratings": {
+      "strategicValue": "STRATEGIC VALUE",
+      "communication": "COMMUNICATION",
+      "supportiveness": "SUPPORTIVENESS",
+      "fundingProcess": "FUNDING PROCESS"
+    },
+    "actions": {
+      "submitFeedback": "Submit Feedback",
+      "viewAll": "View All"
+    },
+    "recent": {
+      "title": "Recent Reviews",
+      "cards": {
+        "abebe": {
+          "time": "1 week ago",
+          "text": "Great strategic advice and very founder-friendly terms. Added significant value beyond capital..."
+        },
+        "globalTech": {
+          "time": "3 weeks ago",
+          "text": "Lengthy due diligence process, but provided excellent post-investment support and connections..."
+        },
+        "africaVentures": {
+          "time": "1 month ago",
+          "text": "Very quick to make a decision and aligned with our long-term vision. Highly recommend for seed stage..."
+        }
+      }
+    },
+    "insight": {
+      "message": "A strong investor-founder relationship is built on transparency. Your feedback empowers the entire founder community to make informed decisions.",
+      "label": "FOUNDER NETWORK INSIGHT"
+    }
+  },
+  "startupMentorship": {
+    "topbar": {
+      "title": "Mentor Chat",
+      "searchPlaceholder": "Search conversations..."
+    },
+    "profile": {
+      "userRole": "Startup Founder"
+    },
+    "mentor": {
+      "name": "Dr. Sara Melaku",
+      "role": "Senior Advisor, Global VC",
+      "expertiseLabel": "Expertise",
+      "expertiseValue": "Strategy & Venture Capital",
+      "availabilityLabel": "Availability",
+      "availabilityValue": "Mon-Fri, 9AM-5PM",
+      "nextSessionLabel": "Next Session",
+      "nextSessionValue": "Oct 28, 2024 • 2:30 PM",
+      "scheduleSession": "Schedule Session"
+    },
+    "resources": {
+      "title": "Pinned Resources",
+      "pitchDeckMeta": "Shared 2 days ago",
+      "marketAnalysis": "Market Analysis Data"
+    },
+    "chat": {
+      "title": "Live Chat with Dr. Sara",
+      "date": "October 24, 2024",
+      "message1": "Hello Abel! I've just finished reviewing your latest financial projections. Your revenue model for Q3 looks much more realistic now. Have you considered the new tax regulations for tech exports?",
+      "message2": "Thank you, Dr. Sara! I was actually looking into those yesterday. I've updated the cash flow statement to reflect the potential impact. I'll share the new file here.",
+      "message3": "Great. Send it over. Also, our session on Monday will focus heavily on your investor pitch. We need to sharpen the \"Why Ethiopia, Why Now?\" section of your presentation."
+    },
+    "suggestions": {
+      "reviewPitch": "Review my pitch",
+      "businessModel": "Help with business model",
+      "financialPlan": "Improve financial plan",
+      "investorMeeting": "Prepare for investor meeting"
+    },
+    "input": {
+      "placeholder": "Type your message here..."
+    }
+  },
+  "startupProject": {
+    "topbar": {
+      "searchPlaceholder": "Search resources..."
+    },
+    "profile": {
+      "role": "Founder"
+    },
+    "title": "Create Startup Project",
+    "steps": {
+      "projectInfo": "Step 1 Project Info",
+      "documents": "Step 2 Documents"
+    },
+    "form": {
+      "projectName": "Project Name",
+      "projectNamePlaceholder": "e.g. AgriTech Ethiopia Hub",
+      "industry": "Industry",
+      "selectIndustry": "Select Industry",
+      "agritech": "Agritech",
+      "fintech": "Fintech",
+      "startupStage": "Startup Stage",
+      "selectStage": "Select Stage",
+      "ideaStage": "Idea Stage",
+      "mvpPrototype": "MVP / Prototype",
+      "shortSummary": "Short Summary",
+      "shortSummaryPlaceholder": "A one-sentence elevator pitch",
+      "problemStatement": "Problem Statement",
+      "problemStatementPlaceholder": "What specific problem are you solving in the Ethiopian market?",
+      "solution": "Solution",
+      "solutionPlaceholder": "How does your startup solve this problem uniquely?",
+      "requiredFunding": "Required Funding (USD)",
+      "expectedImpact": "Expected Impact",
+      "expectedImpactPlaceholder": "e.g. 500+ jobs created"
+    },
+    "actions": {
+      "saveDraft": "Save Draft",
+      "continueToDocuments": "Continue to Documents",
+      "publishProject": "Publish Project"
+    },
+    "preview": {
+      "title": "Investor Preview",
+      "draftMode": "Draft Mode",
+      "uploadCover": "Click to upload cover photo",
+      "projectNamePlaceholder": "[Project Name]",
+      "stagePlaceholder": "[STAGE]",
+      "summaryPlaceholder": "Your short summary will appear here...",
+      "target": "Target",
+      "impact": "Impact",
+      "problemSolution": "Problem & Solution",
+      "theProblem": "The Problem",
+      "theSolution": "The Solution",
+      "expressInterest": "Express Interest"
+    },
+    "tip": "Tip: Startups with clear impact metrics and a strong problem statement receive 3x more investor interest."
+  },
+  "startupProjectsListing": {
+    "topbar": {
+      "searchPlaceholder": "Search projects or investors...",
+      "ecosystem": "ET Ecosystem"
+    },
+    "header": {
+      "title": "My Projects",
+      "subtitle": "Manage your startup projects, funding requests, documents, and progress updates.",
+      "createNewProject": "Create New Project"
+    },
+    "stats": {
+      "totalProjects": "Total Projects",
+      "published": "Published",
+      "drafts": "Drafts",
+      "applications": "Applications"
+    },
+    "filters": {
+      "all": "All",
+      "draft": "Draft",
+      "published": "Published",
+      "underReview": "Under Review",
+      "funded": "Funded",
+      "sortNewest": "Sort by: Newest",
+      "sortOldest": "Sort by: Oldest",
+      "sortFundingGoal": "Sort by: Funding Goal"
+    },
+    "status": {
+      "draft": "Draft",
+      "published": "Published",
+      "underReview": "Under Review",
+      "missingDocuments": "Missing Documents",
+      "complete": "Complete"
+    },
+    "tags": {
+      "agricultureTechnology": "Agriculture Technology",
+      "prototype": "Prototype",
+      "renewableEnergy": "Renewable Energy",
+      "mvp": "MVP",
+      "edtech": "EdTech",
+      "earlyStage": "Early Stage"
+    },
+    "details": {
+      "fundingGoal": "Funding Goal",
+      "progress": "Progress",
+      "lastUpdated": "Last Updated",
+      "inquiries": "Inquiries"
+    },
+    "cards": {
+      "agriTech": {
+        "lastUpdated": "2 days ago",
+        "inquiries": "0 Investors"
+      },
+      "greenEnergy": {
+        "lastUpdated": "5 hours ago",
+        "inquiries": "4 Investors"
+      },
+      "eduSmart": {
+        "lastUpdated": "1 day ago",
+        "inquiries": "2 Investors"
+      }
+    },
+    "actions": {
+      "editProject": "Edit Project",
+      "continueDocuments": "Continue Documents",
+      "viewDetails": "View Details",
+      "updateProgress": "Update Progress",
+      "applyForInvestment": "Apply for Investment",
+      "reviewInProgress": "Review in Progress",
+      "startOnboarding": "Start Onboarding"
+    },
+    "empty": {
+      "title": "Have a new vision?",
+      "description": "Every great unicorn started with a single project entry. Launch your next big idea today."
+    }
+  },
+  "startupRecommendations": {
+    "topbar": {
+      "searchPlaceholder": "Search resources, mentors, or investors..."
+    },
+    "profile": {
+      "role": "AgriTech Founder"
+    },
+    "header": {
+      "title": "AI Recommendations",
+      "subtitle": "Best matches based on your startup profile, project stage, funding needs, and industry."
+    },
+    "metrics": {
+      "startupIndustry": "Startup Industry",
+      "agritech": "AgriTech",
+      "fundingNeed": "Funding Need",
+      "projectStage": "Project Stage",
+      "earlyStage": "Early Stage",
+      "recommendationStatus": "Recommendation Status",
+      "newMatches": "12 New Matches"
+    },
+    "sections": {
+      "recommendedInvestors": "Recommended Investors",
+      "recommendedMentors": "Recommended Mentors"
+    },
+    "common": {
+      "match": "Match",
+      "aiReasoning": "AI Reasoning:",
+      "investmentFocus": "Investment Focus",
+      "expertise": "Expertise"
+    },
+    "investors": {
+      "greenHorizon": {
+        "location": "Based in Addis Ababa",
+        "reason": "Matches your focus on sustainable agriculture in East Africa and your current seed-stage funding requirements."
+      },
+      "ethioVentures": {
+        "location": "Global Partners",
+        "reason": "Strong alignment with your scaling strategy for rural Ethiopian markets and previous successful Agri-fintech exits."
+      },
+      "blueNile": {
+        "location": "Multiple Locations",
+        "reason": "Highly active in the pre-seed space for tech-enabled traditional industries in the Horn of Africa."
+      }
+    },
+    "mentors": {
+      "selamawit": {
+        "title": "15+ Years Industry Experience",
+        "reason": "Expert in scaling AgriTech startups in Ethiopia with specific knowledge of local regulatory compliance and distribution networks."
+      },
+      "elias": {
+        "title": "Former Tech Lead @ Safaricom",
+        "reason": "Highly recommended for your project's technical architecture, specifically for building low-connectivity mobile solutions."
+      },
+      "martha": {
+        "title": "Marketing & Brand Strategist",
+        "reason": "Can assist with your B2B go-to-market strategy and brand positioning for corporate agricultural partners."
+      }
+    },
+    "tags": {
+      "agritech": "AgriTech",
+      "sustainability": "Sustainability",
+      "seedStage": "Seed Stage",
+      "fintech": "FinTech",
+      "emergingMarkets": "Emerging Markets",
+      "techEnabled": "Tech-Enabled",
+      "angelInvestment": "Angel Investment",
+      "operations": "Operations",
+      "regulation": "Regulation",
+      "scaling": "Scaling",
+      "productEngineering": "Product Engineering",
+      "mobileStrategy": "Mobile Strategy",
+      "marketing": "Marketing",
+      "goToMarket": "Go-To-Market"
+    },
+    "actions": {
+      "viewAll": "View All",
+      "applyForInvestment": "Apply for Investment",
+      "viewProfile": "View Profile",
+      "requestMentorship": "Request Mentorship"
+    }
+  },
+  "startupSettings": {
+    "topbar": {
+      "searchPlaceholder": "Search resources..."
+    },
+    "sidebar": {
+      "title": "Settings",
+      "description": "Manage your startup account, profile, security, and notification preferences."
+    },
+    "tabs": {
+      "profileSettings": "Profile Settings",
+      "accountSecurity": "Account Security",
+      "languageAccessibility": "Language & Accessibility",
+      "support": "Support"
+    },
+    "profile": {
+      "title": "Profile Settings",
+      "subtitle": "Update your public profile and startup details.",
+      "form": {
+        "startupName": "Startup Name",
+        "founderName": "Founder Name",
+        "emailAddress": "Email Address",
+        "phoneNumber": "Phone Number",
+        "location": "Location",
+        "industry": "Industry",
+        "startupStage": "Startup Stage",
+        "shortDescription": "Short Startup Description"
+      },
+      "locations": {
+        "addisAbaba": "Addis Ababa, Ethiopia",
+        "nairobi": "Nairobi, Kenya"
+      },
+      "industries": {
+        "fintech": "FinTech",
+        "agritech": "AgriTech",
+        "healthtech": "HealthTech"
+      },
+      "stages": {
+        "ideation": "Ideation",
+        "earlyStage": "Early Stage",
+        "scaling": "Scaling",
+        "mature": "Mature"
+      },
+      "descriptionValue": "EthioTech Solutions is a pioneering fintech startup based in Addis Ababa, focused on expanding digital payment accessibility for rural communities across Ethiopia through USSD and mobile integration.",
+      "characterCount": "184 / 500 characters",
+      "securityBanner": {
+        "title": "Enhance your account security",
+        "description": "Enable two-factor authentication to better protect your startup's sensitive data and documents."
+      }
+    },
+    "security": {
+      "passwordSettings": {
+        "title": "Password Settings",
+        "currentPassword": "Current Password",
+        "newPassword": "New Password",
+        "confirmNewPassword": "Confirm New Password",
+        "strong": "Strong"
+      },
+      "twoFactor": {
+        "title": "Two-Factor Authentication (2FA)",
+        "description": "Add an extra layer of security to your account."
+      },
+      "alerts": {
+        "title": "Security Alerts",
+        "loginAttempts": {
+          "title": "Login attempts",
+          "description": "Receive an email when someone tries to log into your account."
+        },
+        "passwordChanges": {
+          "title": "Password changes",
+          "description": "Get notified when your account password is updated."
+        },
+        "suspiciousActivity": {
+          "title": "Suspicious activity",
+          "description": "Alerts about logins from new locations or unfamiliar devices."
+        }
+      }
+    },
+    "language": {
+      "languageSettings": {
+        "title": "Language Settings",
+        "preferredLanguage": "Preferred Language",
+        "english": "English",
+        "amharic": "Amharic",
+        "oromo": "Oromo"
+      },
+      "display": {
+        "title": "Display Preferences",
+        "theme": "Theme",
+        "lightMode": "Light Mode",
+        "darkMode": "Dark Mode",
+        "fontSize": "Font Size",
+        "small": "Small",
+        "default": "Default",
+        "large": "Large"
+      },
+      "accessibility": {
+        "title": "Accessibility Options",
+        "highContrast": {
+          "title": "High contrast",
+          "description": "Increase the visual distinction between colors."
+        },
+        "reduceMotion": {
+          "title": "Reduce motion",
+          "description": "Minimize system animations for a static experience."
+        },
+        "largerText": {
+          "title": "Larger text",
+          "description": "Override system defaults for enhanced readability."
+        },
+        "screenReader": {
+          "title": "Screen reader",
+          "description": "Optimize semantic HTML for assistive technology."
+        },
+        "keyboardSupport": {
+          "title": "Keyboard Support",
+          "description": "Enable advanced focus rings and shortcuts."
+        }
+      }
+    },
+    "actions": {
+      "cancel": "Cancel",
+      "saveChanges": "Save Changes",
+      "setup2fa": "Setup 2FA",
+      "updatePassword": "Update Password",
+      "saveSecuritySettings": "Save Security Settings",
+      "savePreferences": "Save Preferences"
+    }
+  },
+  "startupSidebar": {
+    "logo": {
+      "alt": "Startup Hub Logo",
+      "title": "Startup Hub",
+      "subtitle": "Entrepreneur Portal"
+    },
+    "sections": {
+      "network": "Network"
+    },
+    "primary": {
+      "dashboard": "Dashboard",
+      "myProject": "My Project",
+      "discover": "Discover",
+      "aiRecommendations": "AI Recommendations"
+    },
+    "network": {
+      "investorChat": "Investor Chat",
+      "mentorChat": "Mentors Chat"
+    },
+    "system": {
+      "feedback": "Rating",
+      "settings": "Settings"
+    }
+  },
+  "startupProjectDocuments": {
+    "topbar": {
+      "searchPlaceholder": "Search resources..."
+    },
+    "profile": {
+      "role": "Founder"
+    },
+    "stepper": {
+      "project": "Project",
+      "info": "Info",
+      "documents": "Documents"
+    },
+    "error": {
+      "title": "Invalid Format Detected",
+      "description": "Please ensure all files are in PDF or MP4 format as specified in the document requirements."
+    },
+    "cards": {
+      "pitchDeck": {
+        "title": "Pitch Deck",
+        "requirement": "PDF only, max 10MB"
+      },
+      "businessPlan": {
+        "title": "Business Plan",
+        "requirement": "PDF only, max 20MB"
+      },
+      "financialDoc": {
+        "title": "Financial Doc",
+        "requirement": "Excel/PDF, max 15MB"
+      },
+      "demoVideo": {
+        "title": "Demo Video",
+        "requirement": "MP4 only, max 50MB",
+        "error": "Upload failed: file must be .mp4"
+      }
+    },
+    "status": {
+      "uploaded": "Uploaded",
+      "missing": "Missing",
+      "invalidFormat": "Invalid Format",
+      "verified": "Verified"
+    },
+    "table": {
+      "title": "Successfully Uploaded Documents",
+      "progress": "1/4 Mandatory Documents Uploaded",
+      "documentName": "Document Name",
+      "type": "Type",
+      "uploadDate": "Upload Date",
+      "uploadDateValue": "Oct 24, 2023",
+      "status": "Status",
+      "action": "Action"
+    },
+    "actions": {
+      "upload": "Upload",
+      "replace": "Replace",
+      "backToProjectInfo": "Back to Project Info",
+      "autoSaving": "Auto-saving progress...",
+      "publishProject": "Publish Project"
+    }
+  }
+}

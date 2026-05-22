@@ -1,9 +1,19 @@
 "use client";
 import Link from "next/link";
-import { usePathname } from "next/navigation";
+import { usePathname, useRouter } from "next/navigation";
 
 export default function Sidebar() {
   const pathname = usePathname();
+  const router = useRouter();
+
+  const handleLogout = () => {
+    localStorage.removeItem("token");
+    localStorage.removeItem("refreshToken");
+    localStorage.removeItem("user");
+    localStorage.removeItem("role");
+    localStorage.removeItem("user_id");
+    router.push("/en/login");
+  };
 
   const primaryLinks = [
     { 
@@ -41,7 +51,7 @@ export default function Sidebar() {
     },
     { 
       name: "Log Out", 
-      href: "/login", 
+      href: "/en/login",
       icon: <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 16l4-4m0 0l-4-4m4 4H7m6 4v1a3 3 0 01-3 3H6a3 3 0 01-3-3V7a3 3 0 013-3h4a3 3 0 013 3v1"></path> 
     }
   ];
@@ -100,6 +110,22 @@ export default function Sidebar() {
         <div className="flex flex-col gap-1 pt-4 border-[#0f3d32]">
           {bottomLinks.map((link) => {
             const isActive = pathname === link.href || pathname?.startsWith(link.href);
+            if (link.name === "Log Out") {
+              return (
+                <button
+                  key={link.name}
+                  type="button"
+                  onClick={handleLogout}
+                  className="flex items-center gap-3 px-4 py-3 rounded-xl font-bold text-xs transition relative overflow-hidden group text-[#8ba39e] hover:text-white hover:bg-[#0a2921]"
+                >
+                  <svg className="w-4 h-4 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    {link.icon}
+                  </svg>
+                  {link.name}
+                </button>
+              );
+            }
+
             return (
               <Link 
                 key={link.name} 

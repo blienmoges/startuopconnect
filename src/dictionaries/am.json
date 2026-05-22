@@ -1,0 +1,1995 @@
+{
+  "landing": {
+    "logo": {
+      "alt": "የስታርታፕ ኮኔክት ሎጎ",
+      "main": "ስታርታፕ ኮኔክት",
+      "country": "ኢትዮጵያ"
+    },
+    "nav": {
+      "home": "መነሻ",
+      "about": "ስለ እኛ",
+      "browseStartups": "ስታርታፖችን ይመልከቱ",
+      "contact": "ያግኙን",
+      "login": "ግባ",
+      "register": "ተመዝገብ"
+    },
+    "hero": {
+      "backgroundAlt": "የስታርታፕ ኮኔክት ጀርባ ምስል",
+      "titleLine1": "የኢትዮጵያ ስታርታፖችን",
+      "titleLine2": "ከኢንቨስተሮችና ከመካሪዎች ጋር ማገናኘት",
+      "subtitleLine1": "ስታርታፖች ታይነት እንዲያገኙ፣ ፋይናንስ እንዲያገኙ",
+      "subtitleLine2": "እና የተደራጀ የምክር ድጋፍ እንዲቀበሉ የሚረዳ ዲጂታል መድረክ።",
+      "joinUs": "አሁን ይቀላቀሉ"
+    },
+    "how": {
+      "title": "እንዴት ይሰራል?",
+      "step1": {
+        "title": "መገለጫዎን ይፍጠሩ",
+        "description": "የስታርታፕ፣ የኢንቨስተር ወይም የመካሪ መገለጫዎን በጥቂት ደቂቃዎች ያዘጋጁ።"
+      },
+      "step2": {
+        "title": "ከአጋሮች ጋር ይገናኙ",
+        "description": "ብልህ የማዛመድ ስርዓትን በመጠቀም ተገቢ ኢንቨስተሮችንና መካሪዎችን ያግኙ።"
+      },
+      "step3": {
+        "title": "ስታርታፕዎን ያሳድጉ",
+        "description": "ፋይናንስ ያግኙ፣ የባለሙያ ምክር ይቀበሉ እና ቢዝነስዎን ያስፋፉ።"
+      }
+    },
+    "benefits": {
+      "title": "በተጠቃሚ ሚና የሚገኙ ጥቅሞች",
+      "startupsTitle": "ለስታርታፖች",
+      "investorsTitle": "ለኢንቨስተሮች",
+      "mentorsTitle": "ለመካሪዎች",
+      "startup1": "ስታርታፕዎን ለንቁ የአገር ውስጥ ኢንቨስተሮች ያሳዩ",
+      "startup2": "በየእድገት ደረጃዎ መሰረት መካሪዎችን ያግኙ",
+      "startup3": "በስታርታፕ መገለጫዎች በኩል ታይነት ያግኙ",
+      "startup4": "ከከፍተኛ ባለሙያዎች ጋር ግንኙነት ይፍጠሩ",
+      "investor1": "የተረጋገጡ የኢትዮጵያ ስታርታፖችን ያግኙ",
+      "investor2": "በኢንዱስትሪ፣ በፋይናንስ ፍላጎት እና በመጠን ያጣሩ",
+      "investor3": "የኢንቨስትመንት የስራ ፍሰትዎን በቀላሉ ያስተዳድሩ",
+      "investor4": "ከሌሎች ኢንቨስተሮች ጋር በጋራ ያስተዋጽኡ",
+      "mentor1": "ለስታርታፕ ኢኮሲስተሙ ድጋፍ ይስጡ",
+      "mentor2": "እውቀትዎንና ተሞክሮዎን ያጋሩ",
+      "mentor3": "የስታርታፖችን እድገት ይከታተሉ",
+      "mentor4": "የምክር ድጋፍ ፖርትፎሊዮዎን ይገንቡ"
+    },
+    "featured": {
+      "title": "ተመራጭ ስታርታፖች",
+      "viewDetails": "ዝርዝር ይመልከቱ",
+      "card1": {
+        "alt": "የአግሪቴክ ስታርታፕ",
+        "tag1": "አግሪቴክ",
+        "tag2": "እድገት",
+        "name": "ፋርምቴክ ኢትዮጵያ",
+        "description": "IoT እና የዳታ ትንተናን በመጠቀም ለአነስተኛ ገበሬዎች የተዘጋጀ ብልህ የግብርና መፍትሄ።"
+      },
+      "card2": {
+        "alt": "የኤድቴክ ስታርታፕ",
+        "tag1": "ኤድቴክ",
+        "tag2": "ቅድመ-ዘር",
+        "name": "ለርንኢት",
+        "description": "ለርቀት አካባቢዎች ጥራት ያለው የትምህርት መሳሪያ የሚያቀርብ ዲጂታል የትምህርት መድረክ።"
+      },
+      "card3": {
+        "alt": "የፊንቴክ ስታርታፕ",
+        "tag1": "ፊንቴክ",
+        "tag2": "ዘር",
+        "name": "ፔይኢዚ",
+        "description": "ለኢትዮጵያ ገበያና ለአገር ውስጥ ቢዝነሶች የተዘጋጀ አስተማማኝ የክፍያ መፍትሄ።"
+      }
+    },
+    "cta": {
+      "title": "የኢትዮጵያ እያደገ ያለው የስታርታፕ ኢኮሲስተም አካል ይሁኑ",
+      "subtitle": "የወደፊቱን እየገነቡ ካሉ ስታርታፖች፣ ኢንቨስተሮችና መካሪዎች ጋር ይቀላቀሉ።",
+      "button": "መለያ ይፍጠሩ"
+    },
+    "footer": {
+      "brand": "ስታርታፕ ኮኔክት ኢትዮጵያ",
+      "description": "በመላው ኢትዮጵያ ፈጣሪዎችን ከኢንቨስተሮችና ከመካሪዎች ጋር የሚያገናኝ መድረክ።",
+      "quickLinks": "ፈጣን አገናኞች",
+      "forUsers": "ለተጠቃሚዎች",
+      "resources": "ምንጮች",
+      "joinStartup": "እንደ ስታርታፕ ይቀላቀሉ",
+      "joinInvestor": "እንደ ኢንቨስተር ይቀላቀሉ",
+      "joinMentor": "እንደ መካሪ ይቀላቀሉ",
+      "successStories": "የስኬት ታሪኮች",
+      "blog": "ብሎግ",
+      "events": "ክስተቶች",
+      "faq": "ተደጋጋሚ ጥያቄዎች",
+      "privacyPolicy": "የግላዊነት ፖሊሲ",
+      "terms": "የአገልግሎት ውሎች",
+      "rights": "መብቶች በሙሉ የተጠበቁ ናቸው።"
+    }
+  },
+  "about": {
+    "header": {
+      "signUp": "ተመዝገብ"
+    },
+    "hero": {
+      "titleLine1": "የኢትዮጵያን የስታርታፕ",
+      "titleLine2": "ኢኮሲስተም ማጎልበት",
+      "subtitleLine1": "ስታርታፕ ኮኔክት ኢትዮጵያ ስታርታፖችን፣ ኢንቨስተሮችን",
+      "subtitleLine2": "እና መካሪዎችን በአንድ የታመነ መድረክ የሚያገናኝ ዲጂታል መድረክ ነው።"
+    },
+    "challenge": {
+      "title": "ችግኙ",
+      "paragraph1": "ብዙ የኢትዮጵያ ስታርታፖች የፋይናንስ፣ የምክር ድጋፍ እና የታይነት እጥረት ስለሚያጋጥማቸው ከሀሳብ ወይም ከፕሮቶታይፕ ደረጃ በላይ መሄድ ይቸገራሉ። ኢንቨስተሮችም የታመኑና የተረጋገጡ ስታርታፖችን ማግኘት ይቸገራሉ።",
+      "paragraph2": "በኢኮሲስተሙ ውስጥ ያሉ ባለድርሻ አካላትን ሁሉ የሚያገናኝ የተማከለ ዲጂታል መድረክ የለም፤ ይህም ትብብርን ያከብዳል እና ፈጠራን ያዘገያል።"
+    },
+    "solution": {
+      "title": "መፍትሄያችን",
+      "subtitle": "ስታርታፕ ኮኔክት ኢትዮጵያ የተማከለ መድረክ ያቀርባል፤ በዚህ መድረክ፦",
+      "card1": {
+        "title": "የስታርታፕ ማሳያ",
+        "description": "ስታርታፖች ሀሳቦቻቸውን ማሳየት እና የፒች ሰነዶችን መስቀል ይችላሉ።"
+      },
+      "card2": {
+        "title": "የኢንቨስተር ግኝት",
+        "description": "ኢንቨስተሮች ተስፋ ያላቸውን የተረጋገጡ ስታርታፖች ማግኘት ይችላሉ።"
+      },
+      "card3": {
+        "title": "የተደራጀ የምክር ድጋፍ",
+        "description": "መካሪዎች መስራቾችን በተደራጀ ፕሮግራም መመራት ይችላሉ።"
+      },
+      "card4": {
+        "title": "ግንኙነት",
+        "description": "ሁሉም ተጠቃሚዎች በቻት እና በስብሰባዎች መገናኘት ይችላሉ።"
+      }
+    },
+    "mission": {
+      "title": "ተልዕኮአችን",
+      "description": "የኢትዮጵያ ስታርታፖች በታመነ ዲጂታል መድረክ የፋይናንስ፣ የምክር ድጋፍ እና የታይነት እድል እንዲያገኙ ማብቃት።"
+    },
+    "vision": {
+      "title": "ራዕያችን",
+      "description": "በመላው ኢትዮጵያ ለስታርታፕ ፈጠራ እና ለኢንቨስትመንት ቀዳሚ ዲጂታል ማዕከል መሆን።"
+    },
+    "values": {
+      "title": "የምንቆምለት",
+      "card1": {
+        "title": "እምነት እና ማረጋገጫ",
+        "description": "ለስታርታፖች፣ ለኢንቨስተሮች እና ለመካሪዎች የተረጋገጡ መገለጫዎች።"
+      },
+      "card2": {
+        "title": "ትብብር",
+        "description": "ትርጉም ያላቸውን ግንኙነቶችና አጋርነቶች ማበረታታት።"
+      },
+      "card3": {
+        "title": "የአገር ውስጥ ትኩረት",
+        "description": "በተለይ ለኢትዮጵያ የስታርታፕ ኢኮሲስተም የተገነባ።"
+      },
+      "card4": {
+        "title": "ተደራሽነት",
+        "description": "በድር እና በሞባይል የሚገኝ፣ ከአገር ውስጥ ክፍያ ስርዓቶች ጋር የተዋሃደ።"
+      }
+    },
+    "team": {
+      "title": "ቡድናችን",
+      "image": "ምስል",
+      "member1": {
+        "name": "አበበ ከበደ",
+        "role": "ዋና ሥራ አስፈፃሚ እና መስራች"
+      },
+      "member2": {
+        "name": "ትዕግስት ኃይሌ",
+        "role": "ዋና ቴክኖሎጂ ኃላፊ"
+      },
+      "member3": {
+        "name": "ዳዊት መኮንን",
+        "role": "የምርት አስተዳዳሪ"
+      },
+      "member4": {
+        "name": "ሕይወት ታደሰ",
+        "role": "የማርኬቲንግ መሪ"
+      }
+    },
+    "cta": {
+      "title": "መድረኩን ይቀላቀሉ እና የኢትዮጵያ የፈጠራ ወደፊት አካል ይሁኑ።",
+      "button": "መለያ ይፍጠሩ"
+    }
+  },
+  "startups": {
+    "header": {
+      "signUp": "ተመዝገብ"
+    },
+    "titleSection": {
+      "title": "ስታርታፖችን ይመልከቱ",
+      "subtitle": "በተለያዩ ኢንዱስትሪዎች እና የእድገት ደረጃዎች ያሉ ፈጠራማ የኢትዮጵያ ስታርታፖችን ያግኙ።"
+    },
+    "filters": {
+      "search": "ፈልግ",
+      "searchPlaceholder": "ስታርታፖችን በስም ወይም በቁልፍ ቃል ፈልግ...",
+      "industry": "ኢንዱስትሪ",
+      "allIndustries": "ሁሉም ኢንዱስትሪዎች",
+      "stage": "ደረጃ",
+      "allStages": "ሁሉም ደረጃዎች",
+      "activeFilters": "ንቁ ማጣሪያዎች፦",
+      "none": "የለም"
+    },
+    "industries": {
+      "agritech": "አግሪቴክ",
+      "fintech": "ፊንቴክ",
+      "edtech": "ኤድቴክ",
+      "healthtech": "ሄልዝቴክ"
+    },
+    "stages": {
+      "idea": "ሀሳብ",
+      "preSeed": "ቅድመ-ዘር",
+      "seed": "ዘር",
+      "earlyGrowth": "የመጀመሪያ እድገት"
+    },
+    "viewDetails": "ዝርዝር ይመልከቱ",
+    "cards": {
+      "card1": {
+        "imageText": "ምስል፦ እርሻ/ግብርና",
+        "name": "ኢትዮፋርም ቴክ",
+        "description": "ለኢትዮጵያ ገበሬዎች የተዘጋጀ ብልህ የግብርና መፍትሄ።",
+        "industry": "አግሪቴክ",
+        "stage": "ዘር",
+        "location": "አዲስ አበባ"
+      },
+      "card2": {
+        "imageText": "ምስል፦ ላፕቶፕ/ፋይናንስ",
+        "name": "ኢትዮፔይ",
+        "description": "ለኢትዮጵያ ቢዝነሶች የተዘጋጀ ዲጂታል የክፍያ ኢኮሲስተም።",
+        "industry": "ፊንቴክ",
+        "stage": "ቅድመ-ዘር",
+        "location": "አዲስ አበባ"
+      },
+      "card3": {
+        "imageText": "ምስል፦ ተማሪ/ትምህርት",
+        "name": "ለርን ኢትዮጵያ",
+        "description": "ለኢትዮጵያ ተማሪዎች የተዘጋጀ የመስመር ላይ የትምህርት መድረክ።",
+        "industry": "ኤድቴክ",
+        "stage": "ቅድመ-ዘር",
+        "location": "ባሕር ዳር"
+      },
+      "card4": {
+        "imageText": "ምስል፦ የጤና ባለሙያ",
+        "name": "ሄልዝ ኮኔክት",
+        "description": "ለገጠር ማህበረሰቦች የተዘጋጀ የርቀት ሕክምና መድረክ።",
+        "industry": "ጤና",
+        "stage": "ቅድመ-ዘር",
+        "location": "አዲስ አበባ"
+      },
+      "card5": {
+        "imageText": "ምስል፦ የቴክኖሎጂ መሳሪያዎች",
+        "name": "ኢትዮቴክ ሶሉሽንስ",
+        "description": "ለአገር ውስጥ ቢዝነሶች ብጁ ሶፍትዌር ልማት።",
+        "industry": "ቴክኖሎጂ",
+        "stage": "እድገት",
+        "location": "አዲስ አበባ"
+      },
+      "card6": {
+        "imageText": "ምስል፦ የቡና ፍሬ/ኤክስፖርት",
+        "name": "ኤሊት ኮፊ ዳይሬክት",
+        "description": "የኢትዮጵያ ቡናን በቀጥታ ለተጠቃሚዎች የሚያቀርብ መድረክ።",
+        "industry": "አግሪቴክ",
+        "stage": "ዘር",
+        "location": "ጅማ"
+      }
+    },
+    "cta": {
+      "title": "የስታርታፕ ሀሳብ አለዎት?",
+      "subtitle": "ሀሳብዎን በመላው ኢትዮጵያ ለኢንቨስተሮችና ለመካሪዎች ያሳዩ።",
+      "button": "የስታርታፕ መገለጫ ይፍጠሩ"
+    }
+  },
+  "contact": {
+    "header": {
+      "signUp": "ተመዝገብ"
+    },
+    "titleSection": {
+      "title": "ያግኙን",
+      "subtitle": "ስታርታፖችን፣ ኢንቨስተሮችን እና መካሪዎችን ለመደገፍ እዚህ ነን። ጥያቄ ወይም አስተያየት ካለዎት ያግኙን።"
+    },
+    "form": {
+      "title": "መልዕክት ይላኩልን",
+      "subtitle": "ከታች ያለውን ቅጽ ይሙሉ፣ ቡድናችንም በተቻለ ፍጥነት ይመልስልዎታል።",
+      "fullName": "ሙሉ ስም",
+      "emailAddress": "የኢሜይል አድራሻ",
+      "role": "ሚና",
+      "roles": {
+        "startup": "ስታርታፕ",
+        "investor": "ኢንቨስተር",
+        "mentor": "መካሪ",
+        "other": "ሌላ"
+      },
+      "subject": "ርዕስ",
+      "message": "መልዕክት",
+      "sendMessage": "መልዕክት ላክ"
+    },
+    "info": {
+      "title": "የመገኛ መረጃ",
+      "subtitle": "በሚከተሉት መንገዶችም ሊያገኙን ይችላሉ፦",
+      "email": "ኢሜይል",
+      "phone": "ስልክ",
+      "officeLocation": "የቢሮ አድራሻ",
+      "location": "አዲስ አበባ፣ ኢትዮጵያ",
+      "officeHours": "የቢሮ ሰዓት",
+      "hours": "ከሰኞ እስከ ዓርብ፣ 3:00 - 11:00"
+    },
+    "faq": {
+      "title": "ተደጋጋሚ ጥያቄዎች",
+      "question1": "እንደ ስታርታፕ እንዴት መመዝገብ እችላለሁ?",
+      "question2": "ስታርታፖች እንዴት ይረጋገጣሉ?",
+      "question3": "ኢንቨስተርን ወይም መካሪን እንዴት ማግኘት እችላለሁ?"
+    },
+    "cta": {
+      "title": "ስታርታፕ ኮኔክት ኢትዮጵያን ይቀላቀሉ እና ኔትወርክዎን ያሳድጉ።",
+      "button": "መለያ ይፍጠሩ"
+    }
+  },
+  "register": {
+    "header": {
+      "logoAlt": "ሎጎ",
+      "saveDraft": "እንደ ረቂቅ አስቀምጥ",
+      "secureEncryption": "ደህንነቱ የተጠበቀ ምስጠራ"
+    },
+    "title": "መለያዎን ይፍጠሩ",
+    "subtitle": "በስታርታፕ ኮኔክት ኢትዮጵያ ለመጀመር ዝርዝሮችዎን ያስገቡ",
+    "form": {
+      "firstName": "ስም",
+      "firstNamePlaceholder": "ለምሳሌ፦ አበበ",
+      "lastName": "የአባት ስም",
+      "lastNamePlaceholder": "ለምሳሌ፦ ከበደ",
+      "email": "የኢሜይል አድራሻ",
+      "emailPlaceholder": "abebe@example.com",
+      "password": "የይለፍ ቃል",
+      "confirmPassword": "የይለፍ ቃል ያረጋግጡ",
+      "continue": "ቀጥል"
+    },
+    "loginText": "ከዚህ በፊት መለያ አለዎት?",
+    "loginLink": "ይግቡ",
+    "footer": {
+      "contactSupport": "የድጋፍ ቡድንን ያግኙ"
+    }
+  },
+  "startupStep1": {
+    "logoAlt": "ሎጎ",
+    "brand": "ስታርታፕ ኮኔክት",
+    "sidebar": {
+      "titleLine1": "የኢትዮጵያን",
+      "titleLine2": "ቀጣይ ትውልድ",
+      "titleLine3": "ስታርታፕ",
+      "titleLine4": "መስራቾች አብቃ",
+      "description": "በከፍተኛ ተፅዕኖ ያለው የምክር ድጋፍ የኢትዮጵያን የፈጠራ ኢኮሲስተም ወደፊት ከሚያመሩ የኢንዱስትሪ መሪዎች መረብ ጋር ይቀላቀሉ።"
+    },
+    "footerCopyright": "ስታርታፕ ኮኔክት ኢትዮጵያ። መብቶች በሙሉ የተጠበቁ ናቸው።",
+    "main": {
+      "title": "የመለያ መረጃ",
+      "step": "ደረጃ 1 ከ 4"
+    },
+    "form": {
+      "fullName": "የመስራች ወይም የተወካይ ሙሉ ስም",
+      "fullNamePlaceholder": "ሙሉ የሕጋዊ ስምዎን ያስገቡ",
+      "phoneNumber": "ስልክ ቁጥር",
+      "phoneFormat": "ቅርጸት፦ +251 9XX XXX XXX",
+      "preferredLanguage": "የሚመርጡት ቋንቋ",
+      "english": "እንግሊዝኛ",
+      "amharic": "አማርኛ"
+    },
+    "actions": {
+      "continue": "ወደ ደረጃ 2 ቀጥል",
+      "saveDraft": "እንደ ረቂቅ አስቀምጥ"
+    }
+  },
+  "startupStep2": {
+    "logoAlt": "ሎጎ",
+    "brand": "ስታርታፕ ኮኔክት",
+    "sidebar": {
+      "titleLine1": "የኢትዮጵያን",
+      "titleLine2": "ቀጣይ ትውልድ",
+      "titleLine3": "ስታርታፕ",
+      "titleLine4": "መስራቾች አብቃ",
+      "description": "በከፍተኛ ተፅዕኖ ያለው የምክር ድጋፍ የኢትዮጵያን የፈጠራ ኢኮሲስተም ወደፊት ከሚያመሩ የኢንዱስትሪ መሪዎች መረብ ጋር ይቀላቀሉ።"
+    },
+    "footerCopyright": "ስታርታፕ ኮኔክት ኢትዮጵያ። መብቶች በሙሉ የተጠበቁ ናቸው።",
+    "main": {
+      "title": "የኩባንያ ዝርዝሮች",
+      "step": "ደረጃ 2 ከ 4"
+    },
+    "identity": {
+      "title": "መለያ",
+      "startupName": "የስታርታፕ ስም",
+      "startupNamePlaceholder": "ለምሳሌ፦ Axum Pay",
+      "sector": "ዘርፍ / ኢንዱስትሪ",
+      "selectSector": "ዘርፍ ይምረጡ",
+      "tagline": "የስታርታፕ መግለጫ ሐረግ",
+      "taglinePlaceholder": "የኢትዮጵያን ዲጂታል ወደፊት በአንድ ዓረፍተ ነገር"
+    },
+    "status": {
+      "title": "ሁኔታ",
+      "startupStage": "የስታርታፕ ደረጃ",
+      "selectStage": "ደረጃ ይምረጡ",
+      "startupType": "የስታርታፕ አይነት",
+      "selectType": "አይነት ይምረጡ"
+    },
+    "details": {
+      "title": "ዝርዝሮች",
+      "yearFounded": "የተመሰረተበት ዓመት",
+      "region": "ክልል",
+      "regionPlaceholder": "አዲስ አበባ",
+      "city": "ከተማ",
+      "cityPlaceholder": "ቦሌ",
+      "teamMembers": "የቡድን አባላት ብዛት",
+      "founderRole": "የመስራች ሚና",
+      "founderRolePlaceholder": "CEO, CTO, Lead Engineer..."
+    },
+    "options": {
+      "agritech": "አግሪቴክ",
+      "fintech": "ፊንቴክ",
+      "healthtech": "ሄልዝቴክ",
+      "edtech": "ኤድቴክ",
+      "ideaStage": "የሀሳብ ደረጃ",
+      "preSeed": "ቅድመ-ዘር",
+      "seed": "ዘር",
+      "earlyGrowth": "የመጀመሪያ እድገት",
+      "b2b": "B2B (ከቢዝነስ ወደ ቢዝነስ)",
+      "b2c": "B2C (ከቢዝነስ ወደ ተጠቃሚ)",
+      "b2g": "B2G (ከቢዝነስ ወደ መንግስት)",
+      "marketplace": "የገበያ መድረክ"
+    },
+    "actions": {
+      "continue": "ወደ ደረጃ 3 ቀጥል",
+      "note": "ማስታወሻ፦ በደረጃ 4 እንደ ፒች ዴክ እና የቢዝነስ ፕላን ያሉ የፕሮጀክት ፋይሎችን እንዲሰቅሉ ይጠየቃሉ።"
+    }
+  },
+  "startupStep3": {
+    "logoAlt": "ሎጎ",
+    "brand": "ስታርታፕ ኮኔክት",
+    "sidebar": {
+      "titleLine1": "የኢትዮጵያን",
+      "titleLine2": "ቀጣይ ትውልድ",
+      "titleLine3": "ስታርታፕ",
+      "titleLine4": "መስራቾች አብቃ",
+      "description": "በከፍተኛ ተፅዕኖ ያለው የምክር ድጋፍ የኢትዮጵያን የፈጠራ ኢኮሲስተም ወደፊት ከሚያመሩ የኢንዱስትሪ መሪዎች መረብ ጋር ይቀላቀሉ።"
+    },
+    "footerCopyright": "ስታርታፕ ኮኔክት ኢትዮጵያ። መብቶች በሙሉ የተጠበቁ ናቸው።",
+    "main": {
+      "title": "የማረጋገጫ ሰነዶች",
+      "step": "ደረጃ 3 ከ 4"
+    },
+    "info": {
+      "important": "አስፈላጊ፦",
+      "description": "እነዚህ ፋይሎች ለማረጋገጫ ብቻ ናቸው። ፒች ዴክ፣ የቢዝነስ ፕላን፣ የፋይናንስ ማጠቃለያ እና የዲሞ ቪዲዮ ፕሮጀክት ሲፈጥሩ በኋላ ይሰቀላሉ።"
+    },
+    "required": {
+      "title": "አስፈላጊ ሰነዶች",
+      "itemsNeeded": "3 ንጥሎች ያስፈልጋሉ",
+      "requiredLabel": "አስፈላጊ",
+      "viewTitle": "እይ",
+      "replaceTitle": "ቀይር",
+      "doc1": {
+        "title": "የመስራች ወይም የተወካይ መታወቂያ",
+        "description": "የብሔራዊ መታወቂያ፣ ፓስፖርት ወይም የቀበሌ መታወቂያ ግልጽ ቅጂ።",
+        "uploadInfo": "1.2 MB • ከ2 ደቂቃ በፊት ተሰቅሏል"
+      },
+      "doc2": {
+        "title": "የቢዝነስ ምዝገባ ማረጋገጫ",
+        "description": "ከMoTI የተሰጠ  gültig የኢንቨስትመንት ፈቃድ ወይም የቢዝነስ ፈቃድ።"
+      }
+    },
+    "upload": {
+      "clickOrDrag": "ለመስቀል ይጫኑ ወይም ጎትተው ያስቀምጡ",
+      "fileTypes": "PDF, JPG, PNG (ከፍተኛ 5MB)",
+      "upload": "ስቀል"
+    },
+    "optional": {
+      "title": "አማራጭ ሰነዶች",
+      "enhancedProfile": "የተሻሻለ መገለጫ",
+      "supportLetter": {
+        "title": "የድጋፍ ወይም የተያያዥነት ደብዳቤ",
+        "description": "ከኢንኩቤተር፣ ሀብ፣ ወይም ከተገቢ የመንግስት አካል የተሰጠ ደብዳቤ።"
+      },
+      "tin": {
+        "title": "የTIN ሰርተፊኬት",
+        "description": "የግብር መለያ ማረጋገጫ"
+      },
+      "logo": {
+        "title": "የስታርታፕ ሎጎ",
+        "description": "PNG ወይም SVG"
+      },
+      "address": {
+        "title": "የአድራሻ ማረጋገጫ",
+        "description": "የመገልገያ ክፍያ ደረሰኝ ወይም የኪራይ ስምምነት"
+      }
+    },
+    "error": {
+      "invalidFormat": "የተሳሳተ ፋይል ቅርጸት",
+      "docxNotSupported": "የWord ሰነዶች (.docx) አይደገፉም።",
+      "tryAgain": "እንደገና ይሞክሩ"
+    },
+    "bottom": {
+      "step": "ደረጃ 3 ከ 4",
+      "next": "ቀጣይ፦ የመጨረሻ ግምገማ",
+      "continue": "ወደ ግምገማ ቀጥል"
+    }
+  },
+  "startupStep4": {
+    "logoAlt": "ሎጎ",
+    "brand": "ስታርታፕ ኮኔክት",
+    "sidebar": {
+      "titleLine1": "የኢትዮጵያን",
+      "titleLine2": "ቀጣይ ትውልድ",
+      "titleLine3": "ስታርታፕ",
+      "titleLine4": "መስራቾች አብቃ",
+      "description": "በከፍተኛ ተፅዕኖ ያለው የምክር ድጋፍ የኢትዮጵያን የፈጠራ ኢኮሲስተም ወደፊት ከሚያመሩ የኢንዱስትሪ መሪዎች መረብ ጋር ይቀላቀሉ።"
+    },
+    "footerCopyright": "ስታርታፕ ኮኔክት ኢትዮጵያ። መብቶች በሙሉ የተጠበቁ ናቸው።",
+    "main": {
+      "title": "ገምግም እና አስገባ",
+      "subtitle": "ለኦፊሴላዊ ማረጋገጫ ከመላክዎ በፊት የመተግበሪያዎን ዝርዝሮች ደግመው ያረጋግጡ።"
+    },
+    "profile": {
+      "title": "መገለጫው ተጠናቋል",
+      "description": "ሁሉም አስፈላጊ መስኮች በትክክል ተሞልተዋል።",
+      "ready": "ለግምገማ ዝግጁ"
+    },
+    "editSection": "ክፍሉን አርትዕ",
+    "account": {
+      "title": "የመለያ መረጃ",
+      "fullName": "ሙሉ ስም",
+      "workEmail": "የሥራ ኢሜይል",
+      "phoneNumber": "ስልክ ቁጥር",
+      "role": "ሚና",
+      "roleValue": "መስራች | CEO"
+    },
+    "company": {
+      "title": "የኩባንያ ዝርዝሮች",
+      "companyName": "የኩባንያ ስም",
+      "industry": "ኢንዱስትሪ",
+      "industryValue": "አግሪ-ቴክ / AI",
+      "registrationNumber": "የምዝገባ ቁጥር",
+      "businessSummary": "የቢዝነስ ማጠቃለያ",
+      "summaryValue": "በኦሮሚያ ክልል ያሉ አነስተኛ ገበሬዎች የማዳበሪያ አጠቃቀምን እንዲያሻሽሉ እና የሰብል ምርትን በ40% እንዲጨምሩ በዳታ ላይ የተመሰረተ የአፈር ትንተና መፍትሄ ያቀርባል።"
+    },
+    "documents": {
+      "title": "የማረጋገጫ ሰነዶች"
+    },
+    "acknowledgements": {
+      "title": "የመጨረሻ ማረጋገጫዎች",
+      "accuracyTitle": "የትክክለኛነት ማረጋገጫ",
+      "accuracyDescription": "በዚህ ማመልከቻ የሰጠሁት መረጃ በማቅረቢያው ቀን መሠረት በእውቀቴ መጠን ትክክለኛ እና እውነተኛ መሆኑን አረጋግጣለሁ።",
+      "termsTitle": "የአገልግሎት ውሎች እና የግላዊነት ፖሊሲ",
+      "termsPrefix": "የስታርታፕ ኮኔክት ኢትዮጵያን",
+      "privacyPolicy": "የግላዊነት ፖሊሲ",
+      "and": "እና",
+      "termsOfUse": "የአጠቃቀም ውሎች",
+      "termsSuffix": "ከዳታ ሂደት እና ከማረጋገጫ ፕሮቶኮሎች ጋር በተያያዘ አንብቤ ተስማምቻለሁ።"
+    },
+    "submitBox": {
+      "title": "ኢኮሲስተሙን ለመቀላቀል ዝግጁ ነዎት?",
+      "descriptionBefore": "ከተላከ በኋላ፣ አስተዳዳሪዎቻችን ማመልከቻዎን በ",
+      "reviewTime": "3-5 የሥራ ቀናት",
+      "descriptionAfter": "ውስጥ ይገመግማሉ። ከተፈቀደ በኋላ የኢሜይል ማሳወቂያ ይደርስዎታል።",
+      "submit": "ለማረጋገጫ አስገባ",
+      "cancel": "ሰርዝ"
+    },
+    "security": {
+      "encryptedConnection": "የተመሰጠረ ግንኙነት",
+      "secureForm": "ደህንነቱ የተጠበቀ SSL TLS ቅጽ",
+      "dataInEthiopia": "ዳታ በኢትዮጵያ"
+    },
+    "footerBadges": {
+      "secureGateway": "ደህንነቱ የተጠበቀ መግቢያ",
+      "dataHosted": "ዳታ በኢትዮጵያ የተስተናገደ",
+      "mintApproved": "በMinT የተፈቀደ",
+      "note": "ስታርታፕ ኮኔክት ኢትዮጵያ በኢኖቬሽን እና ቴክኖሎጂ ሚኒስቴር (MinT) የሚመራ ኢኒሺያቲቭ ነው። በአጭሩ፣ ዳታዎ በኢትዮጵያ የግል ዳታ ጥበቃ አዋጅ የተጠበቀ ነው።"
+    }
+  },
+  "startupSuccess": {
+    "header": {
+      "brand": "ስታርታፕ ኮኔክት",
+      "portal": "የመስራች ፖርታል",
+      "needHelp": "እገዛ ይፈልጋሉ?",
+      "goToLogin": "ወደ መግቢያ ይሂዱ"
+    },
+    "status": {
+      "pending": "ማጽደቅ በመጠበቅ ላይ"
+    },
+    "main": {
+      "title": "ምዝገባው ተልኳል",
+      "description": "የመስራች መለያዎ ለአስተዳዳሪ ማረጋገጫ ተልኳል። መገለጫዎ እና የሰቀሏቸው ሰነዶች አሁን በግምገማ ላይ ናቸው።",
+      "alert": "መደበኛ የግምገማ ጊዜ 24-48 የሥራ ሰዓታት ነው። መለያዎ ከተፈቀደ እና ከተነቃ በኋላ በተመዘገበው ኢሜይልዎ ራስ-ሰር ማሳወቂያ ይደርስዎታል።"
+    },
+    "actions": {
+      "goToLogin": "ወደ መግቢያ ይሂዱ",
+      "backToHome": "ወደ መነሻ ተመለስ"
+    },
+    "badges": {
+      "secureVerification": "ደህንነቱ የተጠበቀ ማረጋገጫ",
+      "adminReviewed": "በአስተዳዳሪ የሚገመገም",
+      "verifiedPlatform": "የተረጋገጠ መድረክ"
+    },
+    "support": {
+      "liveSupport": "የቀጥታ ድጋፍ ንቁ ነው"
+    }
+  },
+  "registerRole": {
+    "header": {
+      "logoAlt": "ሎጎ",
+      "saveDraft": "እንደ ረቂቅ አስቀምጥ",
+      "secureEncryption": "ደህንነቱ የተጠበቀ ምስጠራ"
+    },
+    "title": "ሚናዎን ይምረጡ",
+    "subtitle": "ስታርታፕ ኮኔክት ኢትዮጵያን እንዴት መጠቀም እንደሚፈልጉ ይምረጡ",
+    "roles": {
+      "startup": {
+        "title": "ስታርታፕ",
+        "description": "ሀሳብዎን በኢኮሲስተም ሀብቶች፣ ፋይናንስ እና ምክር ድጋፍ ያሳድጉ።"
+      },
+      "investor": {
+        "title": "ኢንቨስተር",
+        "description": "ከፍተኛ እድል ያላቸውን የኢትዮጵያ ስታርታፖች ያግኙ እና ፖርትፎሊዮዎን ያስተዳድሩ።"
+      },
+      "mentor": {
+        "title": "መካሪ",
+        "description": "የቀጣዩን ትውልድ መስራቾች ይምሩ እና ባለሙያነትዎን ያጋሩ።"
+      }
+    },
+    "continue": "ቀጥል",
+    "loginText": "ከዚህ በፊት መለያ አለዎት?",
+    "loginLink": "ይግቡ",
+    "footer": {
+      "contactSupport": "የድጋፍ ቡድንን ያግኙ"
+    }
+  },
+  "investorStep1": {
+    "logoAlt": "ሎጎ",
+    "brand": "ስታርታፕ ኮኔክት",
+    "sidebar": {
+      "titleLine1": "የኢትዮጵያን",
+      "titleLine2": "ቀጣይ ትውልድ",
+      "titleLine3": "ስታርታፕ",
+      "titleLine4": "መስራቾች አብቃ",
+      "description": "በከፍተኛ ተፅዕኖ ያለው የምክር ድጋፍ የኢትዮጵያን የፈጠራ ኢኮሲስተም ወደፊት ከሚያመሩ የኢንዱስትሪ መሪዎች መረብ ጋር ይቀላቀሉ።"
+    },
+    "footerCopyright": "ስታርታፕ ኮኔክት ኢትዮጵያ። መብቶች በሙሉ የተጠበቁ ናቸው።",
+    "main": {
+      "title": "የመለያ መረጃ",
+      "subtitle": "በኢትዮጵያ እያደገ ባለው የቴክ ኢኮሲስተም ውስጥ እንደ የተረጋገጠ ኢንቨስተር ጉዞዎን ይጀምሩ።",
+      "step": "ደረጃ 1 ከ 5"
+    },
+    "form": {
+      "fullLegalName": "ሙሉ ሕጋዊ ስም",
+      "fullLegalNamePlaceholder": "ሙሉ ሕጋዊ ስምዎን ያስገቡ",
+      "phoneNumber": "ስልክ ቁጥር",
+      "preferredLanguage": "የሚመርጡት ቋንቋ",
+      "english": "እንግሊዝኛ",
+      "amharic": "አማርኛ"
+    },
+    "actions": {
+      "continue": "ወደ መገለጫ ቀጥል"
+    }
+  },
+  "investorStep2": {
+    "logoAlt": "ሎጎ",
+    "brand": "ስታርታፕ ኮኔክት",
+    "sidebar": {
+      "titleLine1": "የኢትዮጵያን",
+      "titleLine2": "ቀጣይ ትውልድ",
+      "titleLine3": "ስታርታፕ",
+      "titleLine4": "መስራቾች አብቃ",
+      "description": "በከፍተኛ ተፅዕኖ ያለው የምክር ድጋፍ የኢትዮጵያን የፈጠራ ኢኮሲስተም ወደፊት ከሚያመሩ የኢንዱስትሪ መሪዎች መረብ ጋር ይቀላቀሉ።"
+    },
+    "footerCopyright": "ስታርታፕ ኮኔክት ኢትዮጵያ። መብቶች በሙሉ የተጠበቁ ናቸው።",
+    "header": {
+      "title": "የኢንቨስተር መገለጫ"
+    },
+    "main": {
+      "title": "የኢንቨስተር አይነት እና መገለጫ",
+      "subtitle": "ከተገቢ የኢትዮጵያ ስታርታፖች ጋር እንድናዛምድዎ ስለ ኢንቨስትመንት ተሞክሮዎ እና ምርጫዎችዎ ይንገሩን።",
+      "step": "ደረጃ 2 ከ 5"
+    },
+    "investorType": {
+      "title": "የኢንቨስተር አይነት",
+      "individual": "ግለሰብ",
+      "angel": "ኤንጀል",
+      "ventureCapital": "ቬንቸር ካፒታል",
+      "investmentCompany": "የኢንቨስትመንት ኩባንያ",
+      "corporate": "ኮርፖሬት",
+      "diaspora": "ዲያስፖራ"
+    },
+    "preferences": {
+      "title": "የኢንቨስትመንት ምርጫዎች",
+      "preferredSectors": "የሚመርጡት ዘርፎች",
+      "startupStage": "የስታርታፕ ደረጃ",
+      "investmentRange": "የኢንቨስትመንት መጠን (USD)",
+      "locationPreference": "የቦታ ምርጫ",
+      "linkedin": "LinkedIn ወይም ድረገጽ",
+      "bio": "አጭር የሙያ መግለጫ",
+      "bioPlaceholder": "የኢንቨስትመንት ፍልስፍናዎን እና የቀድሞ ተሞክሮዎን በአጭሩ ይግለጹ..."
+    },
+    "sectors": {
+      "fintech": "ፊንቴክ",
+      "agritech": "አግሪቴክ",
+      "logistics": "ሎጂስቲክስ",
+      "healthtech": "ሄልዝቴክ",
+      "edtech": "ኤድቴክ",
+      "energy": "ኢነርጂ"
+    },
+    "options": {
+      "seriesA": "Series A",
+      "seed": "ዘር",
+      "preSeed": "ቅድመ-ዘር",
+      "under250k": "ከ$250k በታች",
+      "over1m": "ከ$1M በላይ",
+      "addisAbaba": "አዲስ አበባ",
+      "regionalEthiopia": "የኢትዮጵያ ክልሎች",
+      "anywhere": "ማንኛውም ቦታ"
+    },
+    "actions": {
+      "back": "ተመለስ",
+      "continue": "ወደ መገለጫ ቀጥል"
+    }
+  },
+  "investorStep3": {
+    "logoAlt": "ሎጎ",
+    "brand": "ስታርታፕ ኮኔክት",
+    "sidebar": {
+      "titleLine1": "የኢትዮጵያን",
+      "titleLine2": "ቀጣይ ትውልድ",
+      "titleLine3": "ስታርታፕ",
+      "titleLine4": "መስራቾች አብቃ",
+      "description": "በከፍተኛ ተፅዕኖ ያለው የምክር ድጋፍ የኢትዮጵያን የፈጠራ ኢኮሲስተም ወደፊት ከሚያመሩ የኢንዱስትሪ መሪዎች መረብ ጋር ይቀላቀሉ።"
+    },
+    "footerCopyright": "ስታርታፕ ኮኔክት ኢትዮጵያ። መብቶች በሙሉ የተጠበቁ ናቸው።",
+    "header": {
+      "title": "ማረጋገጫ"
+    },
+    "main": {
+      "title": "ማረጋገጫ እና ሰነዶች",
+      "subtitle": "መታወቂያዎን እና የኢንቨስተር ሁኔታዎን ለማረጋገጥ አስፈላጊ ሰነዶችን ይስቀሉ።",
+      "step": "ደረጃ 3 ከ 5"
+    },
+    "personal": {
+      "title": "የግል ማረጋገጫ",
+      "uploadTitle": "መታወቂያ ወይም ፓስፖርት ስቀል",
+      "supportedFormats": "የሚደገፉ ቅርጸቶች፦ PDF, JPG, PNG (ከፍተኛ 10MB)"
+    },
+    "institutional": {
+      "title": "የተቋም ማረጋገጫ",
+      "uploadedFileInfo": "ተሰቅሏል • 2.4 MB",
+      "tradeLicense": "የንግድ ፈቃድ",
+      "tinCertificate": "የTIN ሰርተፊኬት"
+    },
+    "confirmations": {
+      "financialPrefix": "በተቋማዊ ኢንቨስትመንቶች ለመሳተፍ",
+      "financialBold": "የፋይናንስ አቅም",
+      "financialSuffix": "እንዳለኝ አረጋግጣለሁ።",
+      "termsPrefix": "ከ",
+      "termsBold": "የአጠቃቀም ውሎች",
+      "termsSuffix": "ጋር እስማማለሁ፣ የሐሰት መረጃም ወደ ቋሚ መታገድ ሊያመራ እንደሚችል አውቃለሁ።"
+    },
+    "encryptionNote": "ሰነዶችዎ በAES-256 ምስጠራ የተጠበቁ ናቸው።",
+    "actions": {
+      "back": "ተመለስ",
+      "continue": "ወደ ግምገማ ቀጥል"
+    }
+  },
+  "investorStep4": {
+    "logoAlt": "ሎጎ",
+    "brand": "ስታርታፕ ኮኔክት",
+    "sidebar": {
+      "titleLine1": "የኢትዮጵያን",
+      "titleLine2": "ቀጣይ ትውልድ",
+      "titleLine3": "ስታርታፕ",
+      "titleLine4": "መስራቾች አብቃ",
+      "description": "በከፍተኛ ተፅዕኖ ያለው የምክር ድጋፍ የኢትዮጵያን የፈጠራ ኢኮሲስተም ወደፊት ከሚያመሩ የኢንዱስትሪ መሪዎች መረብ ጋር ይቀላቀሉ።"
+    },
+    "footerCopyright": "ስታርታፕ ኮኔክት ኢትዮጵያ። መብቶች በሙሉ የተጠበቁ ናቸው።",
+    "header": {
+      "title": "ገምግም እና አስገባ"
+    },
+    "main": {
+      "title": "ገምግም እና አስገባ",
+      "subtitle": "የኢንቨስተር መለያዎን ለማረጋገጫ ከማስገባትዎ በፊት መረጃዎን ይገምግሙ።",
+      "step": "ደረጃ 4 ከ 5"
+    },
+    "edit": "አርትዕ",
+    "account": {
+      "title": "የመለያ መረጃ",
+      "fullLegalName": "ሙሉ ሕጋዊ ስም",
+      "workEmail": "የሥራ ኢሜይል",
+      "phoneNumber": "ስልክ ቁጥር"
+    },
+    "profile": {
+      "title": "የኢንቨስተር አይነት እና መገለጫ",
+      "investorType": "የኢንቨስተር አይነት",
+      "angelInvestor": "ኤንጀል ኢንቨስተር",
+      "locationPreference": "የቦታ ምርጫ",
+      "locationValue": "አዲስ አበባ፣ ኢትዮጵያ",
+      "preferredSectors": "የሚመርጡት ዘርፎች",
+      "startupStage": "የስታርታፕ ደረጃ",
+      "startupStageValue": "Series A",
+      "investmentRange": "የኢንቨስትመንት መጠን",
+      "professionalBio": "የሙያ መግለጫ",
+      "bioValue": "በቴክኖሎጂ የሚመሩ፣ ጠንካራ ማህበራዊ ተፅዕኖ እና ሊሰፋ የሚችል የቢዝነስ ሞዴል ባላቸው ስታርታፖች ላይ የሚያተኩር ተሞክሮ ያለው ኢንቨስተር።"
+    },
+    "sectors": {
+      "fintech": "ፊንቴክ",
+      "agritech": "አግሪቴክ",
+      "healthtech": "ሄልዝቴክ"
+    },
+    "verification": {
+      "title": "የማረጋገጫ ማጠቃለያ",
+      "accepted": "የአጠቃቀም ውሎች ተቀብለዋል። መታወቂያ ተረጋግጧል።"
+    },
+    "alert": "Submit ሲጫኑ፣ የኢንቨስተር መገለጫዎ ወደ ማረጋገጫ ግምገማ ይገባል። ይህ ሂደት ከፍተኛ የተቋማዊ ትክክለኛነት መመዘኛዎችን ለማረጋገጥ ነው። በ48 ሰዓታት ውስጥ የኢሜይል ማሳወቂያ ይደርስዎታል።",
+    "actions": {
+      "back": "ተመለስ",
+      "submit": "ለማረጋገጫ አስገባ"
+    },
+    "badges": {
+      "sovereignData": "የሉዓላዊ ዳታ ክምችት",
+      "adminAudit": "የአስተዳዳሪ ኦዲት",
+      "verifiedPlatform": "የተረጋገጠ መድረክ"
+    }
+  },
+  "investorSuccess": {
+    "header": {
+      "brand": "ስታርታፕ ኮኔክት",
+      "portal": "የኢንቨስተር ፖርታል",
+      "needHelp": "እገዛ ይፈልጋሉ?",
+      "goToLogin": "ወደ መግቢያ ይሂዱ"
+    },
+    "status": {
+      "pending": "ማጽደቅ በመጠበቅ ላይ"
+    },
+    "main": {
+      "title": "ምዝገባው ተልኳል",
+      "description": "የኢንቨስተር መለያዎ ለአስተዳዳሪ ማረጋገጫ ቀርቧል። የእርስዎ መገለጫ እና የተሰቀሉ ሰነዶች አሁን በመገምገም ላይ ናቸው።",
+      "alert": "መደበኛ የግምገማ ጊዜ 24-48 የሥራ ሰዓታት ነው። መለያዎ ከተፈቀደ እና ከተነቃ በኋላ በተመዘገበው ኢሜይልዎ ራስ-ሰር ማሳወቂያ ይደርስዎታል።"
+    },
+    "actions": {
+      "goToLogin": "ወደ መግቢያ ይሂዱ",
+      "backToHome": "ወደ መነሻ ተመለስ"
+    },
+    "badges": {
+      "secureVerification": "ደህንነቱ የተጠበቀ ማረጋገጫ",
+      "adminReviewed": "በአስተዳዳሪ የሚገመገም",
+      "verifiedPlatform": "የተረጋገጠ መድረክ"
+    },
+    "support": {
+      "liveSupport": "የቀጥታ ድጋፍ ንቁ ነው"
+    }
+  },
+  "mentorStep1": {
+    "logoAlt": "ሎጎ",
+    "brand": "ስታርታፕ ኮኔክት",
+    "sidebar": {
+      "titleLine1": "የኢትዮጵያን",
+      "titleLine2": "ቀጣይ ትውልድ",
+      "titleLine3": "ስታርታፕ",
+      "titleLine4": "መስራቾች አብቃ",
+      "description": "በከፍተኛ ተፅዕኖ ያለው የምክር ድጋፍ የኢትዮጵያን የፈጠራ ኢኮሲስተም ወደፊት ከሚያመሩ የኢንዱስትሪ መሪዎች መረብ ጋር ይቀላቀሉ።"
+    },
+    "footerCopyright": "ስታርታፕ ኮኔክት ኢትዮጵያ። መብቶች በሙሉ የተጠበቁ ናቸው።",
+    "steps": {
+      "accountInfo": "የመለያ መረጃ",
+      "professional": "ሙያዊ",
+      "review": "ግምገማ",
+      "verification": "ማረጋገጫ"
+    },
+    "main": {
+      "title": "የመካሪ መገለጫ ይፍጠሩ",
+      "subtitle": "ባለሙያነትዎን ያጋሩ እና በኢትዮጵያ ፈጠራን ለማሳደግ ያግዙ"
+    },
+    "form": {
+      "phoneNumber": "ስልክ ቁጥር",
+      "professionalTitle": "የሙያ ማዕረግ",
+      "professionalTitlePlaceholder": "ለምሳሌ፦ ከፍተኛ ሶፍትዌር ኢንጂነር",
+      "yearsOfExperience": "የልምድ ዓመታት",
+      "languages": "ቋንቋዎች",
+      "addAnother": "ሌላ ያክሉ...",
+      "expertiseAreas": "የባለሙያነት ዘርፎች",
+      "professionalBio": "የሙያ መግለጫ",
+      "professionalBioPlaceholder": "ጉዞዎን እና ስታርታፖችን እንዴት ሊረዱ እንደሚችሉ በአጭሩ ይግለጹ...",
+      "linkedinUrl": "LinkedIn/Portfolio URL",
+      "certifications": "ሰርተፊኬቶች እና ማረጋገጫዎች",
+      "availabilityPreference": "የተገኝነት ምርጫ",
+      "sessionPricing": "አማራጭ የክፍለ ጊዜ ዋጋ (ETB)"
+    },
+    "experience": {
+      "fiveToTen": "5 - 10 ዓመት",
+      "oneToFour": "1 - 4 ዓመት",
+      "tenPlus": "ከ10 ዓመት በላይ"
+    },
+    "languages": {
+      "amharic": "አማርኛ",
+      "english": "እንግሊዝኛ"
+    },
+    "expertise": {
+      "fintechStrategy": "የፊንቴክ ስትራቴጂ",
+      "scalingTeams": "ቡድኖችን ማሳደግ",
+      "addExpertise": "+ ባለሙያነት ያክሉ"
+    },
+    "upload": {
+      "dragDrop": "ፋይሎችን እዚህ ጎትተው ያስቀምጡ",
+      "fileTypes": "PDF, JPG እስከ 10MB"
+    },
+    "availability": {
+      "oneToTwo": "1-2 ሰዓት / በሳምንት",
+      "threeToFive": "3-5 ሰዓት / በሳምንት",
+      "fivePlus": "ከ5 ሰዓት በላይ / በሳምንት"
+    },
+    "terms": {
+      "before": "ከ",
+      "termsOfService": "የአገልግሎት ውሎች",
+      "and": "እና",
+      "privacyPolicy": "የግላዊነት ፖሊሲ",
+      "after": "ጋር እስማማለሁ። የሰጠሁት ሁሉም የሙያ መረጃ ትክክለኛ እና ሊረጋገጥ የሚችል መሆኑን አረጋግጣለሁ።"
+    },
+    "actions": {
+      "continue": "ወደ ሙያዊ መረጃ ቀጥል"
+    },
+    "login": {
+      "text": "ከዚህ በፊት መለያ አለዎት?",
+      "signIn": "ይግቡ"
+    },
+    "footer": {
+      "portalMain": "መካሪ",
+      "portalSub": "ፖርታል",
+      "privacyPolicy": "የግላዊነት ፖሊሲ",
+      "institutionalTerms": "የተቋም ውሎች",
+      "accessibility": "ተደራሽነት",
+      "contactRegistry": "የመገኛ መዝገብ"
+    }
+  },
+  "mentorStep2": {
+    "logoAlt": "ሎጎ",
+    "brand": "ስታርታፕ ኮኔክት",
+    "sidebar": {
+      "titleLine1": "የኢትዮጵያን",
+      "titleLine2": "ቀጣይ ትውልድ",
+      "titleLine3": "ስታርታፕ",
+      "titleLine4": "መስራቾች አብቃ",
+      "description": "በከፍተኛ ተፅዕኖ ያለው የምክር ድጋፍ የኢትዮጵያን የፈጠራ ኢኮሲስተም ወደፊት ከሚያመሩ የኢንዱስትሪ መሪዎች መረብ ጋር ይቀላቀሉ።"
+    },
+    "footerCopyright": "ስታርታፕ ኮኔክት ኢትዮጵያ። መብቶች በሙሉ የተጠበቁ ናቸው።",
+    "steps": {
+      "accountInfo": "የመለያ መረጃ",
+      "professional": "ሙያዊ",
+      "review": "ግምገማ",
+      "verification": "ማረጋገጫ"
+    },
+    "main": {
+      "title": "የሙያዊ መካሪ ዝርዝሮች",
+      "subtitle": "ስታርታፖች ባለሙያነትዎን፣ የምክር ዘዴዎን እና የሚያበረክቱትን እሴት እንዲረዱ ያግዙ።"
+    },
+    "form": {
+      "currentOrganization": "የአሁኑ ድርጅት",
+      "currentOrganizationPlaceholder": "ለምሳሌ፦ Safaricom Inc",
+      "currentTitle": "የአሁኑ ማዕረግ",
+      "currentTitlePlaceholder": "ለምሳሌ፦ Chief Product Officer",
+      "primaryIndustry": "ዋና ኢንዱስትሪ",
+      "secondaryIndustry": "ሁለተኛ ኢንዱስትሪ",
+      "mentorshipCategories": "የምክር ዘርፎች",
+      "preferredStartupStage": "የሚመርጡት የስታርታፕ ደረጃ",
+      "cityLocation": "ከተማ / አካባቢ",
+      "mentorPlatform": "የምክር መድረክ",
+      "availabilityDays": "የተገኝነት ቀናት",
+      "sessionFrequency": "የክፍለ ጊዜ ድግግሞሽ",
+      "preferredTimeSlots": "የሚመርጡት የጊዜ ክፍተት",
+      "timeSlotPlaceholder": "ለምሳሌ፦ 5:00 PM - 7:00 PM EAT",
+      "mentoringStyle": "የምክር ዘዴ / አቀራረብ",
+      "mentoringStylePlaceholder": "ግለሰቦችን ወይም ቡድኖችን በመምከር ያለዎትን ተሞክሮ በአጭሩ ይግለጹ...",
+      "notableStartups": "የመከሯቸው ታዋቂ ስታርታፖች / ፕሮጀክቶች",
+      "notableStartupsPlaceholder": "የመከሯቸውን ኩባንያዎች ወይም ዋና ፕሮጀክቶች ይዘርዝሩ...",
+      "keyAchievements": "ዋና ስኬቶች",
+      "keyAchievementsPlaceholder": "በሙያዊ ሕይወትዎ ውስጥ ዋና ስኬቶችዎ ምንድናቸው?",
+      "mediaLinks": "የሚዲያ / ፕሬስ አገናኞች (አማራጭ)",
+      "mediaLinksPlaceholder": "ብሎጎች፣ የታተሙ ጽሁፎች ወይም የዜና አገናኞች"
+    },
+    "options": {
+      "selectIndustry": "ኢንዱስትሪ ይምረጡ"
+    },
+    "industries": {
+      "fintech": "ፊንቴክ",
+      "telecommunications": "ቴሌኮሙኒኬሽን",
+      "ecommerce": "ኢ-ኮሜርስ",
+      "agritech": "አግሪቴክ"
+    },
+    "categories": {
+      "productStrategy": "የምርት ስትራቴጂ",
+      "businessModel": "የቢዝነስ ሞዴል",
+      "fundraising": "ፋይናንስ ማሰባሰብ",
+      "marketEntry": "ወደ ገበያ መግባት",
+      "operations": "ኦፕሬሽንስ",
+      "leadership": "መሪነት",
+      "technology": "ቴክኖሎጂ",
+      "other": "ሌላ"
+    },
+    "stages": {
+      "idea": "ሀሳብ",
+      "mvp": "MVP",
+      "earlyRevenue": "የመጀመሪያ ገቢ",
+      "growth": "እድገት",
+      "scaleUp": "መስፋፋት"
+    },
+    "locations": {
+      "addisAbaba": "አዲስ አበባ",
+      "remoteGlobal": "የርቀት (ዓለም አቀፍ)"
+    },
+    "platform": {
+      "remote": "የርቀት",
+      "inPerson": "በአካል"
+    },
+    "days": {
+      "monday": "ሰ",
+      "tuesday": "ማ",
+      "wednesday": "ረ",
+      "thursday": "ሐ",
+      "friday": "ዓ",
+      "saturday": "ቅ",
+      "sunday": "እ"
+    },
+    "frequency": {
+      "biweekly": "በሁለት ሳምንት አንድ ጊዜ (የሚመከር)",
+      "weekly": "በየሳምንቱ",
+      "monthly": "በየወሩ"
+    },
+    "video": {
+      "title": "የመግቢያ ቪዲዮ (አማራጭ)",
+      "uploadTitle": "አጭር ቪዲዮ ይስቀሉ",
+      "description": "መስራቾች የምክር ፍልስፍናዎን እና ምን እንደሚፈልጉ እንዲያውቁ..."
+    },
+    "actions": {
+      "back": "ተመለስ",
+      "continue": "ወደ ግምገማ ቀጥል"
+    },
+    "confirmationNote": "ቀጥል ሲጫኑ፣ የሰጡት መረጃ ሁሉ ትክክለኛ እና ሊረጋገጥ የሚችል መሆኑን ያረጋግጣሉ። በStartupConnect Ethiopia ላይ በተጠቃሚዎች እና በባለድርሻ አካላት በቅርብ ይገመገማሉ።",
+    "footer": {
+      "privacyPolicy": "የግላዊነት ፖሊሲ",
+      "termsOfUse": "የአጠቃቀም ውሎች"
+    }
+  },
+  "mentorStep3": {
+    "logoAlt": "ሎጎ",
+    "brand": "ስታርታፕ ኮኔክት",
+    "sidebar": {
+      "titleLine1": "የኢትዮጵያን",
+      "titleLine2": "ቀጣይ ትውልድ",
+      "titleLine3": "ስታርታፕ",
+      "titleLine4": "መስራቾች አብቃ",
+      "description": "በከፍተኛ ተፅዕኖ ያለው የምክር ድጋፍ የኢትዮጵያን የፈጠራ ኢኮሲስተም ወደፊት ከሚያመሩ የኢንዱስትሪ መሪዎች መረብ ጋር ይቀላቀሉ።"
+    },
+    "footerCopyright": "ስታርታፕ ኮኔክት ኢትዮጵያ። መብቶች በሙሉ የተጠበቁ ናቸው።",
+    "steps": {
+      "accountInfo": "የመለያ መረጃ",
+      "professional": "ሙያዊ",
+      "review": "ግምገማ",
+      "verification": "ማረጋገጫ"
+    },
+    "main": {
+      "title": "ማረጋገጫ እና ግምገማ",
+      "subtitle": "ከማስገባትዎ በፊት ዝርዝሮችዎን ይገምግሙ እና የመታወቂያ እና የባለሙያነት ማረጋገጫን ያጠናቁ።"
+    },
+    "edit": "አርትዕ",
+    "account": {
+      "title": "የመለያ መረጃ",
+      "fullName": "ሙሉ ስም",
+      "emailAddress": "የኢሜይል አድራሻ",
+      "professionalTitle": "የሙያ ማዕረግ",
+      "professionalTitleValue": "ከፍተኛ የስትራቴጂ አማካሪ",
+      "yearsOfExperience": "የልምድ ዓመታት",
+      "yearsOfExperienceValue": "ከ10 ዓመት በላይ"
+    },
+    "professional": {
+      "title": "የሙያ ማጠቃለያ",
+      "coreExpertise": "ዋና ባለሙያነት",
+      "scalingOps": "ኦፕሬሽኖችን ማሳደግ",
+      "ventureCapital": "ቬንቸር ካፒታል",
+      "fintech": "ፊንቴክ",
+      "targetStages": "የታለሙ ደረጃዎች",
+      "targetStagesValue": "ዘር፣ Series A",
+      "sessionFormat": "የክፍለ ጊዜ ቅርጸት",
+      "sessionFormatValue": "በመስመር ላይ እና በአካል (አዲስ)"
+    },
+    "documents": {
+      "title": "የማረጋገጫ ሰነዶች",
+      "governmentId": {
+        "title": "የመንግስት መታወቂያ",
+        "description": "ፓስፖርት ወይም ብሔራዊ መታወቂያ (PDF, JPG)"
+      },
+      "certificates": {
+        "title": "ሰርተፊኬቶች",
+        "description": "ዲግሪዎች ወይም የሙያ ሰርተፊኬቶች"
+      },
+      "employmentProof": {
+        "title": "የሥራ ማረጋገጫ",
+        "description": "የማጣቀሻ ደብዳቤ ወይም LinkedIn URL"
+      },
+      "profilePhoto": {
+        "title": "የመገለጫ ፎቶ",
+        "description": "ጥራት ያለው የሙያ ፎቶ"
+      }
+    },
+    "comment": {
+      "label": "የአስተያየት ዝርዝሮች (አማራጭ)",
+      "placeholder": "ለማረጋገጫ ቡድኑ ተጨማሪ መረጃ..."
+    },
+    "confirmations": {
+      "authentic": "ያቀረብኩት መረጃ እና ሰነዶች ሁሉ እውነተኛ እና ትክክለኛ መሆናቸውን አረጋግጣለሁ።",
+      "codePrefix": "የStartupConnect",
+      "codeLink": "የመካሪ የምግባር መመሪያ",
+      "privacyPrefix": "የግል ዳታዬን በተመለከተ",
+      "privacyLink": "የግላዊነት ፖሊሲ",
+      "privacySuffix": "አውቃለሁ።"
+    },
+    "actions": {
+      "back": "ተመለስ",
+      "continue": "ወደ ማረጋገጫ ቀጥል"
+    },
+    "footer": {
+      "portal": "የመካሪ ፖርታል",
+      "dashboard": "የተቋም ዳሽቦርድ",
+      "support": "ድጋፍ",
+      "terms": "ውሎች",
+      "accessibility": "ተደራሽነት"
+    }
+  },
+  "mentorSuccess": {
+    "header": {
+      "brand": "ስታርታፕ ኮኔክት",
+      "portal": "የአማካሪ ፖርታል",
+      "needHelp": "እገዛ ይፈልጋሉ?",
+      "goToLogin": "ወደ መግቢያ ይሂዱ"
+    },
+    "status": {
+      "pending": "ማጽደቅ በመጠበቅ ላይ"
+    },
+    "main": {
+      "title": "ምዝገባው ተልኳል",
+      "description": "የአማካሪ መለያዎ ለአስተዳዳሪ ማረጋገጫ ቀርቧል። የእርስዎ መገለጫ እና የተሰቀሉ ሰነዶች አሁን በመገምገም ላይ ናቸው።",
+      "alert": "መደበኛ የግምገማ ጊዜ 24-48 የሥራ ሰዓታት ነው። መለያዎ ከተፈቀደ እና ከተነቃ በኋላ በተመዘገበው ኢሜይልዎ ራስ-ሰር ማሳወቂያ ይደርስዎታል።"
+    },
+    "actions": {
+      "goToLogin": "ወደ መግቢያ ይሂዱ",
+      "backToHome": "ወደ መነሻ ተመለስ"
+    },
+    "badges": {
+      "secureVerification": "ደህንነቱ የተጠበቀ ማረጋገጫ",
+      "adminReviewed": "በአስተዳዳሪ የሚገመገም",
+      "verifiedPlatform": "የተረጋገጠ መድረክ"
+    },
+    "support": {
+      "liveSupport": "የቀጥታ ድጋፍ ንቁ ነው"
+    }
+  },
+  "investorChat": {
+    "sidebar": {
+      "title": "መልዕክቶች",
+      "unread": "12 ያልተነበቡ"
+    },
+    "filters": {
+      "allChats": "ሁሉም ውይይቶች",
+      "investors": "ኢንቨስተሮች",
+      "unread": "ያልተነበቡ"
+    },
+    "status": {
+      "online": "በመስመር ላይ",
+      "offline": "ከመስመር ውጭ",
+      "waitingReply": "መልስ በመጠበቅ ላይ"
+    },
+    "chats": {
+      "ethioVenture": {
+        "text": "የቅርብ ጊዜ ፒች ዴክዎን ገምግመናል። መወያየት እንችላለን..."
+      },
+      "sheba": {
+        "time": "ትናንት",
+        "text": "የስብሰባ ግብዣው ለሐሙስ ተልኳል።"
+      },
+      "zemen": {
+        "time": "ማክሰኞ",
+        "text": "ስለ cap table የእርስዎን መልስ በመጠበቅ ላይ..."
+      },
+      "addis": {
+        "time": "በማህደር",
+        "text": "በማህደር የተቀመጠ ውይይት"
+      }
+    },
+    "header": {
+      "searchPlaceholder": "ውይይቶችን ወይም መልዕክቶችን ፈልግ..."
+    },
+    "history": {
+      "today": "ዛሬ",
+      "message1": "ሰላም Abebe። ለQ3 በባህር ዳር ክልል የሚደረገውን የማስፋፊያ የኦፕሬሽን እቅድ ተመልክተናል። የሎጂስቲክስ ክፍሉ ጠንካራ ይመስላል፣ ነገር ግን ስለ አካባቢያዊ አቅራቢ አጋርነቶች አንዳንድ ስጋቶች አሉን።",
+      "message2": "ለፈጣን ግብረመልስዎ እናመሰግናለን፣ Dawit። በዚያ አካባቢ ያለውን የአቅራቢዎች መበታተን እናውቃለን። ምንጫችንን ለማካከል ከሁለት ዋና የሎጂስቲክስ ሀቦች ጋር MOU በማጠናቀቅ ላይ ነን። የመጀመሪያዎቹን የMOU ረቂቆች ማየት ይፈልጋሉ?",
+      "message3": "አዎ፣ ያ በጣም ይጠቅማል። እንዲሁም ለሞባይል መተግበሪያው የቅርብ ጊዜ የተጠቃሚ እድገት ግራፍ እባክዎ ያያይዙ። ባለፈው ሳምንት ከፍተኛ ጭማሪ አይተናል።",
+      "message4": "በእርግጥ። የባለፈው ሳምንት የእድገት ትንታኔ ሪፖርት ይኸውና። ያ ጭማሪ ከEthioTelecom ጋር ባደረግነው የተዋሃደ የማርኬቲንግ ዘመቻ ምክንያት ነበር።",
+      "pdfDocument": "PDF ሰነድ"
+    },
+    "input": {
+      "placeholder": "ለDawit መልዕክትዎን ይጻፉ...",
+      "encrypted": "ለደህንነትዎ ከጫፍ እስከ ጫፍ የተመሰጠረ ነው",
+      "enterToSend": "ለመላክ Enter ይጫኑ"
+    }
+  },
+  "startupDashboard": {
+    "topbar": {
+      "searchPlaceholder": "ሀብቶችን ፈልግ..."
+    },
+    "profile": {
+      "company": "GreenTech Solutions",
+      "role": "የስታርታፕ መስራች"
+    },
+    "welcome": {
+      "title": "እንኳን ደህና መጡ፣ GreenTech Solutions.",
+      "subtitle": "ስታርታፕዎ በጥሩ ሁኔታ እየተንቀሳቀሰ ነው። ከመካሪዎ 2 አዳዲስ ዝመናዎች አሉዎት።"
+    },
+    "status": {
+      "title": "የስታርታፕ ሁኔታ",
+      "updatedToday": "ዛሬ ተዘምኗል",
+      "pending": "በመጠበቅ ላይ",
+      "active": "ንቁ",
+      "funded": "ፋይናንስ ተገኝቷል",
+      "mentored": "ምክር ተሰጥቷል",
+      "closed": "ተዘግቷል"
+    },
+    "projectProgress": {
+      "title": "የፕሮጀክት እድገት",
+      "phase": "የMVP ደረጃ፦ ማዋሃድ።",
+      "viewDetails": "ዝርዝር ይመልከቱ"
+    },
+    "funding": {
+      "title": "የፋይናንስ ማጠቃለያ",
+      "requiredFunding": "የሚያስፈልግ ፋይናንስ",
+      "applied": "የተጠየቀ",
+      "received": "የተቀበለ"
+    },
+    "documents": {
+      "title": "የሰነዶች ሁኔታ",
+      "uploaded": "8 ተሰቅለዋል",
+      "verifiedDocuments": "የተረጋገጡ ሰነዶች",
+      "missing": "3 ይጎድላሉ",
+      "actionRequired": "እርምጃ ያስፈልጋል",
+      "fixNow": "አሁን አስተካክል"
+    },
+    "feedback": {
+      "title": "የቅርብ ጊዜ ግብረመልስ",
+      "message": "በMVP ላይ ጥሩ እድገት አለ፣ ቀጣዩን ዝመና ለማየት እጠብቃለሁ።",
+      "role": "በEthioCapital የቴክ መሪ"
+    },
+    "meeting": {
+      "tomorrow": "ነገ",
+      "title": "ከኢንቨስተር ቡድን ጋር የስትራቴጂ ስብሰባ",
+      "description": "የፒች ዴክ ግምገማ እና የመንገድ ካርታ ማስተካከያ ክፍለ ጊዜ።",
+      "joinRoom": "ክፍሉን ይቀላቀሉ"
+    },
+    "activity": {
+      "title": "የቅርብ ጊዜ እንቅስቃሴ",
+      "projectUpdated": "ፕሮጀክት ተዘምኗል",
+      "projectUpdatedMeta": "ከ2 ሰዓታት በፊት • API Gateway ተጀምሯል",
+      "documentUploaded": "ሰነድ ተሰቅሏል",
+      "documentUploadedMeta": "ትናንት • Tax clearance.pdf",
+      "newMessage": "አዲስ መልዕክት ተቀብለዋል",
+      "newMessageMeta": "ከ4 ቀናት በፊት • ከ፦ Menber Bareh"
+    },
+    "quickActions": {
+      "title": "ፈጣን እርምጃዎች",
+      "createProject": "ፕሮጀክት ፍጠር",
+      "uploadDocs": "ሰነዶችን ስቀል",
+      "findInvestors": "ኢንቨስተሮችን ፈልግ",
+      "requestMentor": "መካሪ ጠይቅ",
+      "updateProgress": "እድገት አዘምን"
+    }
+  },
+  "startupApply": {
+    "topbar": {
+      "searchPlaceholder": "ፈልግ..."
+    },
+    "profile": {
+      "role": "መስራች፣ GreenTech"
+    },
+    "pageHeader": {
+      "title": "ለኢንቨስትመንት ያመልክቱ",
+      "subtitle": "የፋይናንስ ጥያቄዎን ለተመረጠው ኢንቨስተር ያስገቡ።"
+    },
+    "investor": {
+      "active": "ንቁ",
+      "location": "አዲስ አበባ፣ ኢትዮጵያ",
+      "range": "መጠን፦ $50k - $250k",
+      "changeInvestor": "ኢንቨስተር ቀይር"
+    },
+    "form": {
+      "title": "የማመልከቻ ቅጽ",
+      "selectProject": "የስታርታፕ ፕሮጀክት ይምረጡ",
+      "fundingAmount": "የተጠየቀ የፋይናንስ መጠን ($)",
+      "fundingAmountPlaceholder": "ለምሳሌ፦ 150,000",
+      "useOfFunds": "የፋይናንስ አጠቃቀም",
+      "useOfFundsPlaceholder": "ኢንቨስትመንቱ እንዴት እንደሚጠቀም ይግለጹ...",
+      "expectedMilestones": "የሚጠበቁ ዋና ውጤቶች",
+      "expectedMilestonesPlaceholder": "በዚህ ፋይናንስ ምን ዋና ግቦች ይሳካሉ?",
+      "messageToInvestor": "ለኢንቨስተር መልዕክት",
+      "messageToInvestorPlaceholder": "ለኢንቨስተሩ የግል ማስታወሻ ወይም መግቢያ..."
+    },
+    "documents": {
+      "title": "የተያያዙ ሰነዶች",
+      "pitchDeck": "ፒች ዴክ",
+      "businessPlan": "የቢዝነስ ፕላን",
+      "financialDocument": "የፋይናንስ ሰነድ",
+      "demoVideo": "የዲሞ ቪዲዮ",
+      "requiredForReview": "ለግምገማ ያስፈልጋል",
+      "optional": "አማራጭ",
+      "uploaded": "ተሰቅሏል",
+      "upload": "ስቀል",
+      "missing": "ይጎድላል"
+    },
+    "actions": {
+      "warning": "ከማስገባትዎ በፊት አስፈላጊ ሰነዶችን ይስቀሉ",
+      "saveDraft": "እንደ ረቂቅ አስቀምጥ",
+      "submitApplication": "ማመልከቻ አስገባ"
+    },
+    "summary": {
+      "title": "የማመልከቻ ማጠቃለያ",
+      "startupName": "የስታርታፕ ስም",
+      "project": "ፕሮጀክት",
+      "projectValue": "ከቆሻሻ ወደ ኃይል ኢኒሺያቲቭ",
+      "industry": "ኢንዱስትሪ",
+      "industryValue": "ታዳሽ ኃይል",
+      "requestedAmount": "የተጠየቀ መጠን",
+      "status": "ሁኔታ",
+      "draft": "ረቂቅ"
+    },
+    "proTip": "ምክር፦ የዲሞ ቪዲዮ ያላቸው የተሟሉ ማመልከቻዎች በመጀመሪያው ሳምንት የኢንቨስተር ፍላጎት የማግኘት እድላቸው በ40% ይጨምራል።"
+  },
+  "investorProfile": {
+    "topbar": {
+      "searchPlaceholder": "ኢንቨስተሮችን እና ስታርታፖችን ፈልግ..."
+    },
+    "profile": {
+      "role": "የስታርታፕ መስራች"
+    },
+    "backToDiscover": "ወደ መፈለጊያ ተመለስ",
+    "status": {
+      "active": "ንቁ"
+    },
+    "header": {
+      "location": "አዲስ አበባ፣ ኢትዮጵያ",
+      "investorType": "ቬንቸር ካፒታል",
+      "description": "ከፍተኛ የእድገት አቅም ያላቸውን የኢትዮጵያ ስታርታፖች የሚደግፍ የመጀመሪያ ደረጃ ኢንቨስትመንት ድርጅት። በቴክኖሎጂ በሚደገፉ ዘርፎች ውስጥ ለአካባቢያዊ ፈጣሪዎች የፋይናንስ ክፍተትን መሙላት ላይ እናተኩራለን።",
+      "applyForInvestment": "ለኢንቨስትመንት ያመልክቱ",
+      "messageInvestor": "ለኢንቨስተር መልዕክት ላክ"
+    },
+    "overview": {
+      "title": "የኢንቨስተር አጠቃላይ መግለጫ",
+      "organizationName": "የድርጅት ስም",
+      "investorType": "የኢንቨስተር አይነት",
+      "primaryFocus": "ዋና ትኩረት",
+      "hqLocation": "ዋና መሥሪያ ቦታ",
+      "activeSince": "ንቁ የሆነበት ጊዜ",
+      "startupsFunded": "ፋይናንስ ያገኙ ስታርታፖች"
+    },
+    "values": {
+      "ventureCapital": "ቬንቸር ካፒታል",
+      "localTechEcosystem": "የአካባቢ ቴክ ኢኮሲስተም",
+      "addisAbabaShort": "አዲስ አበባ፣ ኢትዮጵያ",
+      "activeSinceDate": "ጃንዋሪ 2019",
+      "companiesFunded": "14 ኩባንያዎች",
+      "thisYear": "+2 በዚህ ዓመት"
+    },
+    "investmentDetails": {
+      "title": "የኢንቨስትመንት ዝርዝሮች",
+      "ticketRange": "የኢንቨስትመንት መጠን",
+      "perStartup": "ለእያንዳንዱ ስታርታፕ",
+      "fundingType": "የፋይናንስ አይነት",
+      "fundingTypeValue": "Equity / Convertibles",
+      "preferredStage": "የሚመረጥ ደረጃ",
+      "preferredStageValue": "MVP / የመጀመሪያ ደረጃ",
+      "avgResponse": "አማካይ የመልስ ጊዜ",
+      "avgResponseValue": "3-5 የሥራ ቀናት",
+      "targetIndustries": "የታለሙ ኢንዱስትሪዎች",
+      "industries": {
+        "agrotech": "አግሮቴክ",
+        "fintech": "ፊንቴክ",
+        "energy": "ኃይል",
+        "more": "+2 ሌሎች"
+      }
+    },
+    "match": {
+      "title": "የስታርታፕ ተዛማጅነት",
+      "description": "በአሁኑ የስታርታፕዎ መገለጫ መሠረት፣ EthioVenture ለseed round ጠንካራ እጩ ነው።",
+      "items": {
+        "industry": "ኢንዱስትሪ (ፊንቴክ)",
+        "fundingRange": "የፋይናንስ መጠን ተዛማጅ ነው",
+        "earlyStage": "የመጀመሪያ ደረጃ ትኩረት",
+        "location": "ቦታ (የርቀት እና አካባቢያዊ HQ)"
+      },
+      "score": "92% የተዛማጅነት ውጤት"
+    },
+    "portfolio": {
+      "title": "ፖርትፎሊዮ",
+      "viewAll": "ሁሉንም ይመልከቱ",
+      "greenLeaf": {
+        "tags": "አግሪቴክ • Seed",
+        "description": "ከ5,000 በላይ አካባቢያዊ ገበሬዎችን ከከተማ ገበያዎች ጋር የሚያገናኝ የአቅርቦት ሰንሰለት መድረክ።"
+      },
+      "zenaPay": {
+        "tags": "ፊንቴክ • MVP",
+        "description": "ለኢትዮጵያዊ ፍሪላንሰሮች እና ዲጂታል ተጓዦች የድንበር ተሻጋሪ ክፍያዎችን የሚያስችል።"
+      }
+    }
+  },
+  "startupDiscover": {
+    "topbar": {
+      "searchPlaceholder": "የስታርታፕ እድሎችን ፈልግ..."
+    },
+    "profile": {
+      "role": "መስራች፣ AgriFlow"
+    },
+    "header": {
+      "title": "ኢንቨስተሮችን እና መካሪዎችን ያግኙ",
+      "subtitle": "ስታርታፕዎን ለማሳደግ ከኢትዮጵያ መሪ የኢንቨስትመንት ድርጅቶች እና የኢንዱስትሪ ባለሙያዎች ጋር ይገናኙ።"
+    },
+    "filters": {
+      "industry": "ኢንዱስትሪ",
+      "allIndustries": "ሁሉም ኢንዱስትሪዎች",
+      "location": "ቦታ",
+      "allLocations": "ሁሉም ቦታዎች",
+      "rangeExpertise": "መጠን / ባለሙያነት",
+      "anyType": "ማንኛውም አይነት",
+      "availability": "ተገኝነት",
+      "allAvailable": "ሁሉም የሚገኙ"
+    },
+    "tabs": {
+      "investors": "ኢንቨስተሮች",
+      "mentors": "መካሪዎች"
+    },
+    "status": {
+      "active": "ንቁ",
+      "earlyStage": "የመጀመሪያ ደረጃ",
+      "crossBorder": "ድንበር ተሻጋሪ"
+    },
+    "tags": {
+      "agritech": "አግሪቴክ",
+      "fintech": "ፊንቴክ",
+      "energy": "ኃይል",
+      "logistics": "ሎጂስቲክስ",
+      "ecommerce": "ኢ-ኮሜርስ",
+      "manufacturing": "ማኑፋክቸሪንግ",
+      "export": "ኤክስፖርት",
+      "saas": "SaaS",
+      "healthtech": "ሄልዝቴክ"
+    },
+    "stats": {
+      "investmentRange": "የኢንቨስትመንት መጠን",
+      "portfolio": "ፖርትፎሊዮ",
+      "focus": "ትኩረት",
+      "series": "Series",
+      "techFocus": "የቴክ ትኩረት"
+    },
+    "cards": {
+      "ethioVenture": {
+        "location": "አዲስ አበባ፣ ኢትዮጵያ",
+        "portfolio": "12 ስታርታፖች"
+      },
+      "sheba": {
+        "location": "የምስራቅ አፍሪካ ክልል",
+        "focus": "ሴት መስራቾች"
+      },
+      "blueNile": {
+        "location": "አዲስ አበባ፣ ኢትዮጵያ"
+      },
+      "horizon": {
+        "location": "Silicon Valley / አዲስ"
+      }
+    },
+    "actions": {
+      "viewProfile": "መገለጫ ይመልከቱ",
+      "apply": "ያመልክቱ",
+      "loadMore": "ተጨማሪ ኢንቨስተሮችን ጫን"
+    }
+  },
+  "startupFeedback": {
+    "topbar": {
+      "searchPlaceholder": "ኢንቨስተሮችን ወይም ሀብቶችን ፈልግ...",
+      "support": "ድጋፍ"
+    },
+    "main": {
+      "title": "የኢንቨስተር ግብረመልስ ይስጡ",
+      "subtitle": "ግብረመልስዎ ጥራት ያለው የኢንቨስተር መረብ እንዲጠበቅ ያግዛል፣ እንዲሁም በኢኮሲስተማችን ውስጥ ሌሎች መስራቾችን ይመራል።"
+    },
+    "form": {
+      "selectInvestor": "ኢንቨስተር ይምረጡ",
+      "selectInvestorPlaceholder": "ለመገምገም ኢንቨስተር ይምረጡ",
+      "commentsAdvice": "አስተያየት እና ምክር",
+      "commentsPlaceholder": "ከዚህ ኢንቨስተር ጋር ያለዎትን ተሞክሮ ያጋሩ..."
+    },
+    "ratings": {
+      "strategicValue": "የስትራቴጂ እሴት",
+      "communication": "ግንኙነት",
+      "supportiveness": "ድጋፍ ሰጪነት",
+      "fundingProcess": "የፋይናንስ ሂደት"
+    },
+    "actions": {
+      "submitFeedback": "ግብረመልስ አስገባ",
+      "viewAll": "ሁሉንም ይመልከቱ"
+    },
+    "recent": {
+      "title": "የቅርብ ጊዜ ግምገማዎች",
+      "cards": {
+        "abebe": {
+          "time": "ከ1 ሳምንት በፊት",
+          "text": "ጥሩ የስትራቴጂ ምክር እና ለመስራቾች ተስማሚ የሆኑ ውሎች። ከካፒታል በላይ ትልቅ እሴት ጨምሯል..."
+        },
+        "globalTech": {
+          "time": "ከ3 ሳምንታት በፊት",
+          "text": "የdue diligence ሂደቱ ረጅም ነበር፣ ነገር ግን ከኢንቨስትመንት በኋላ ጥሩ ድጋፍ እና ግንኙነቶችን ሰጥቷል..."
+        },
+        "africaVentures": {
+          "time": "ከ1 ወር በፊት",
+          "text": "በጣም ፈጣን ውሳኔ ወስኗል እና ከረጅም ጊዜ ራዕያችን ጋር ተዛማጅ ነበር። ለseed stage በጣም እንመክራለን..."
+        }
+      }
+    },
+    "insight": {
+      "message": "ጠንካራ የኢንቨስተር እና የመስራች ግንኙነት በግልጽነት ላይ ይገነባል። ግብረመልስዎ መላው የመስራቾች ማህበረሰብ በመረጃ የተደገፈ ውሳኔ እንዲወስን ያግዛል።",
+      "label": "የመስራቾች መረብ ግንዛቤ"
+    }
+  },
+  "startupMentorship": {
+    "topbar": {
+      "title": "የመካሪ ውይይት",
+      "searchPlaceholder": "ውይይቶችን ፈልግ..."
+    },
+    "profile": {
+      "userRole": "የስታርታፕ መስራች"
+    },
+    "mentor": {
+      "name": "ዶ/ር Sara Melaku",
+      "role": "ከፍተኛ አማካሪ፣ Global VC",
+      "expertiseLabel": "ባለሙያነት",
+      "expertiseValue": "ስትራቴጂ እና ቬንቸር ካፒታል",
+      "availabilityLabel": "ተገኝነት",
+      "availabilityValue": "ሰኞ-አርብ፣ 9AM-5PM",
+      "nextSessionLabel": "ቀጣይ ክፍለ ጊዜ",
+      "nextSessionValue": "ጥቅምት 28, 2024 • 2:30 PM",
+      "scheduleSession": "ክፍለ ጊዜ ያስይዙ"
+    },
+    "resources": {
+      "title": "የተሰኩ ሀብቶች",
+      "pitchDeckMeta": "ከ2 ቀናት በፊት ተጋርቷል",
+      "marketAnalysis": "የገበያ ትንተና ዳታ"
+    },
+    "chat": {
+      "title": "ከዶ/ር Sara ጋር የቀጥታ ውይይት",
+      "date": "ጥቅምት 24, 2024",
+      "message1": "ሰላም Abel! የቅርብ ጊዜ የፋይናንስ ትንበያዎችህን አሁን ጨርሼ ገምግሜያለሁ። የQ3 የገቢ ሞዴልህ አሁን በጣም ተጨባጭ ይመስላል። ለቴክ ኤክስፖርት አዲሱን የግብር መመሪያ አስበሃል?",
+      "message2": "አመሰግናለሁ፣ ዶ/ር Sara! ትናንት በእርግጥ እያየኋቸው ነበር። ሊኖረው የሚችለውን ተፅዕኖ ለማካተት የcash flow statement አዘምኜዋለሁ። አዲሱን ፋይል እዚህ እጋራለሁ።",
+      "message3": "ጥሩ። ላከው። እንዲሁም የሰኞው ክፍለ ጊዜያችን በኢንቨስተር ፒችህ ላይ በጣም ያተኩራል። በፕሬዘንቴሽንህ ውስጥ \"ለምን ኢትዮጵያ፣ ለምን አሁን?\" የሚለውን ክፍል ማጠናከር አለብን።"
+    },
+    "suggestions": {
+      "reviewPitch": "ፒቼን ገምግም",
+      "businessModel": "በቢዝነስ ሞዴል እርዳኝ",
+      "financialPlan": "የፋይናንስ እቅዴን አሻሽል",
+      "investorMeeting": "ለኢንቨስተር ስብሰባ አዘጋጅ"
+    },
+    "input": {
+      "placeholder": "መልዕክትዎን እዚህ ይጻፉ..."
+    }
+  },
+  "startupProject": {
+    "topbar": {
+      "searchPlaceholder": "ሀብቶችን ፈልግ..."
+    },
+    "profile": {
+      "role": "መስራች"
+    },
+    "title": "የስታርታፕ ፕሮጀክት ፍጠር",
+    "steps": {
+      "projectInfo": "ደረጃ 1 የፕሮጀክት መረጃ",
+      "documents": "ደረጃ 2 ሰነዶች"
+    },
+    "form": {
+      "projectName": "የፕሮጀክት ስም",
+      "projectNamePlaceholder": "ለምሳሌ፦ AgriTech Ethiopia Hub",
+      "industry": "ኢንዱስትሪ",
+      "selectIndustry": "ኢንዱስትሪ ይምረጡ",
+      "agritech": "አግሪቴክ",
+      "fintech": "ፊንቴክ",
+      "startupStage": "የስታርታፕ ደረጃ",
+      "selectStage": "ደረጃ ይምረጡ",
+      "ideaStage": "የሀሳብ ደረጃ",
+      "mvpPrototype": "MVP / ፕሮቶታይፕ",
+      "shortSummary": "አጭር ማጠቃለያ",
+      "shortSummaryPlaceholder": "በአንድ ዓረፍተ ነገር የሚገልጽ ፒች",
+      "problemStatement": "የችግኝ መግለጫ",
+      "problemStatementPlaceholder": "በኢትዮጵያ ገበያ ውስጥ የሚፈቱት ትክክለኛ ችግኝ ምንድነው?",
+      "solution": "መፍትሔ",
+      "solutionPlaceholder": "ስታርታፕዎ ይህንን ችግኝ በልዩ መንገድ እንዴት ይፈታል?",
+      "requiredFunding": "የሚያስፈልግ ፋይናንስ (USD)",
+      "expectedImpact": "የሚጠበቅ ተፅዕኖ",
+      "expectedImpactPlaceholder": "ለምሳሌ፦ 500+ ስራዎች ይፈጠራሉ"
+    },
+    "actions": {
+      "saveDraft": "እንደ ረቂቅ አስቀምጥ",
+      "continueToDocuments": "ወደ ሰነዶች ቀጥል",
+      "publishProject": "ፕሮጀክት አትም"
+    },
+    "preview": {
+      "title": "የኢንቨስተር ቅድመ እይታ",
+      "draftMode": "የረቂቅ ሁነታ",
+      "uploadCover": "የሽፋን ፎቶ ለመስቀል ይጫኑ",
+      "projectNamePlaceholder": "[የፕሮጀክት ስም]",
+      "stagePlaceholder": "[ደረጃ]",
+      "summaryPlaceholder": "አጭር ማጠቃለያዎ እዚህ ይታያል...",
+      "target": "ግብ",
+      "impact": "ተፅዕኖ",
+      "problemSolution": "ችግኝ እና መፍትሔ",
+      "theProblem": "ችግኙ",
+      "theSolution": "መፍትሔው",
+      "expressInterest": "ፍላጎት አሳይ"
+    },
+    "tip": "ምክር፦ ግልጽ የተፅዕኖ መለኪያዎች እና ጠንካራ የችግኝ መግለጫ ያላቸው ስታርታፖች 3x ተጨማሪ የኢንቨስተር ፍላጎት ያገኛሉ።"
+  },
+  "startupProjectsListing": {
+    "topbar": {
+      "searchPlaceholder": "ፕሮጀክቶችን ወይም ኢንቨስተሮችን ፈልግ...",
+      "ecosystem": "የET ኢኮሲስተም"
+    },
+    "header": {
+      "title": "የእኔ ፕሮጀክቶች",
+      "subtitle": "የስታርታፕ ፕሮጀክቶችዎን፣ የፋይናንስ ጥያቄዎችን፣ ሰነዶችን እና የእድገት ዝመናዎችን ያስተዳድሩ።",
+      "createNewProject": "አዲስ ፕሮጀክት ፍጠር"
+    },
+    "stats": {
+      "totalProjects": "ጠቅላላ ፕሮጀክቶች",
+      "published": "የታተሙ",
+      "drafts": "ረቂቆች",
+      "applications": "ማመልከቻዎች"
+    },
+    "filters": {
+      "all": "ሁሉም",
+      "draft": "ረቂቅ",
+      "published": "የታተመ",
+      "underReview": "በግምገማ ላይ",
+      "funded": "ፋይናንስ ያገኘ",
+      "sortNewest": "አደራደር፦ አዲሱ",
+      "sortOldest": "አደራደር፦ አሮጌው",
+      "sortFundingGoal": "አደራደር፦ የፋይናንስ ግብ"
+    },
+    "status": {
+      "draft": "ረቂቅ",
+      "published": "የታተመ",
+      "underReview": "በግምገማ ላይ",
+      "missingDocuments": "ሰነዶች ይጎድላሉ",
+      "complete": "ተጠናቋል"
+    },
+    "tags": {
+      "agricultureTechnology": "የግብርና ቴክኖሎጂ",
+      "prototype": "ፕሮቶታይፕ",
+      "renewableEnergy": "ታዳሽ ኃይል",
+      "mvp": "MVP",
+      "edtech": "EdTech",
+      "earlyStage": "የመጀመሪያ ደረጃ"
+    },
+    "details": {
+      "fundingGoal": "የፋይናንስ ግብ",
+      "progress": "እድገት",
+      "lastUpdated": "መጨረሻ የተዘመነው",
+      "inquiries": "ጥያቄዎች"
+    },
+    "cards": {
+      "agriTech": {
+        "lastUpdated": "ከ2 ቀናት በፊት",
+        "inquiries": "0 ኢንቨስተሮች"
+      },
+      "greenEnergy": {
+        "lastUpdated": "ከ5 ሰዓታት በፊት",
+        "inquiries": "4 ኢንቨስተሮች"
+      },
+      "eduSmart": {
+        "lastUpdated": "ከ1 ቀን በፊት",
+        "inquiries": "2 ኢንቨስተሮች"
+      }
+    },
+    "actions": {
+      "editProject": "ፕሮጀክት አርትዕ",
+      "continueDocuments": "ሰነዶችን ቀጥል",
+      "viewDetails": "ዝርዝር ይመልከቱ",
+      "updateProgress": "እድገት አዘምን",
+      "applyForInvestment": "ለኢንቨስትመንት ያመልክቱ",
+      "reviewInProgress": "ግምገማ በመካሄድ ላይ",
+      "startOnboarding": "ማስጀመሪያ ጀምር"
+    },
+    "empty": {
+      "title": "አዲስ ራዕይ አለዎት?",
+      "description": "እያንዳንዱ ታላቅ unicorn በአንድ የፕሮጀክት መዝገብ ጀመረ። ቀጣዩን ትልቅ ሀሳብዎን ዛሬ ያስጀምሩ።"
+    }
+  },
+  "startupProjectDocuments": {
+    "topbar": {
+      "searchPlaceholder": "ሀብቶችን ፈልግ..."
+    },
+    "profile": {
+      "role": "መስራች"
+    },
+    "stepper": {
+      "project": "ፕሮጀክት",
+      "info": "መረጃ",
+      "documents": "ሰነዶች"
+    },
+    "error": {
+      "title": "ትክክል ያልሆነ ቅርጸት ተገኝቷል",
+      "description": "እባክዎ ሁሉም ፋይሎች በሰነድ መስፈርቶች መሠረት በPDF ወይም MP4 ቅርጸት መሆናቸውን ያረጋግጡ።"
+    },
+    "cards": {
+      "pitchDeck": {
+        "title": "ፒች ዴክ",
+        "requirement": "PDF ብቻ፣ ከፍተኛ 10MB"
+      },
+      "businessPlan": {
+        "title": "የቢዝነስ ፕላን",
+        "requirement": "PDF ብቻ፣ ከፍተኛ 20MB"
+      },
+      "financialDoc": {
+        "title": "የፋይናንስ ሰነድ",
+        "requirement": "Excel/PDF፣ ከፍተኛ 15MB"
+      },
+      "demoVideo": {
+        "title": "የዲሞ ቪዲዮ",
+        "requirement": "MP4 ብቻ፣ ከፍተኛ 50MB",
+        "error": "መስቀሉ አልተሳካም፦ ፋይሉ .mp4 መሆን አለበት"
+      }
+    },
+    "status": {
+      "uploaded": "ተሰቅሏል",
+      "missing": "ይጎድላል",
+      "invalidFormat": "ትክክል ያልሆነ ቅርጸት",
+      "verified": "ተረጋግጧል"
+    },
+    "table": {
+      "title": "በተሳካ ሁኔታ የተሰቀሉ ሰነዶች",
+      "progress": "1/4 አስፈላጊ ሰነዶች ተሰቅለዋል",
+      "documentName": "የሰነድ ስም",
+      "type": "አይነት",
+      "uploadDate": "የተሰቀለበት ቀን",
+      "uploadDateValue": "ጥቅምት 24, 2023",
+      "status": "ሁኔታ",
+      "action": "እርምጃ"
+    },
+    "actions": {
+      "upload": "ስቀል",
+      "replace": "ተካ",
+      "backToProjectInfo": "ወደ ፕሮጀክት መረጃ ተመለስ",
+      "autoSaving": "እድገት በራስ-ሰር እየተቀመጠ ነው...",
+      "publishProject": "ፕሮጀክት አትም"
+    }
+  },
+  "startupRecommendations": {
+    "topbar": {
+      "searchPlaceholder": "ሀብቶችን፣ መካሪዎችን ወይም ኢንቨስተሮችን ፈልግ..."
+    },
+    "profile": {
+      "role": "የአግሪቴክ መስራች"
+    },
+    "header": {
+      "title": "የAI ምክሮች",
+      "subtitle": "በስታርታፕ መገለጫዎ፣ በፕሮጀክት ደረጃዎ፣ በፋይናንስ ፍላጎትዎ እና በኢንዱስትሪዎ መሠረት የተመረጡ ምርጥ ተዛማጆች።"
+    },
+    "metrics": {
+      "startupIndustry": "የስታርታፕ ኢንዱስትሪ",
+      "agritech": "አግሪቴክ",
+      "fundingNeed": "የፋይናንስ ፍላጎት",
+      "projectStage": "የፕሮጀክት ደረጃ",
+      "earlyStage": "የመጀመሪያ ደረጃ",
+      "recommendationStatus": "የምክር ሁኔታ",
+      "newMatches": "12 አዲስ ተዛማጆች"
+    },
+    "sections": {
+      "recommendedInvestors": "የሚመከሩ ኢንቨስተሮች",
+      "recommendedMentors": "የሚመከሩ መካሪዎች"
+    },
+    "common": {
+      "match": "ተዛማጅ",
+      "aiReasoning": "የAI ምክንያት፦",
+      "investmentFocus": "የኢንቨስትመንት ትኩረት",
+      "expertise": "ባለሙያነት"
+    },
+    "investors": {
+      "greenHorizon": {
+        "location": "በአዲስ አበባ የተመሠረተ",
+        "reason": "በምስራቅ አፍሪካ የታዳሽ ግብርና ትኩረትዎን እና የአሁኑን የseed-stage ፋይናንስ ፍላጎትዎን ይዛመዳል።"
+      },
+      "ethioVentures": {
+        "location": "ዓለም አቀፍ አጋሮች",
+        "reason": "ለገጠር የኢትዮጵያ ገበያዎች ያለዎትን የማስፋፊያ ስትራቴጂ እና ቀደም ሲል የተሳኩ የአግሪ-ፊንቴክ መውጫዎችን ጋር ጠንካራ ተዛማጅነት አለው።"
+      },
+      "blueNile": {
+        "location": "በበርካታ ቦታዎች",
+        "reason": "በአፍሪካ ቀንድ ውስጥ በቴክኖሎጂ የተደገፉ ባህላዊ ኢንዱስትሪዎች የpre-seed መስክ ላይ በጣም ንቁ ነው።"
+      }
+    },
+    "mentors": {
+      "selamawit": {
+        "title": "ከ15+ ዓመታት በላይ የኢንዱስትሪ ልምድ",
+        "reason": "በኢትዮጵያ ውስጥ የአግሪቴክ ስታርታፖችን በማሳደግ፣ በአካባቢያዊ የህግ ተገዢነት እና የስርጭት መረቦች ላይ ልዩ እውቀት ያላት ባለሙያ።"
+      },
+      "elias": {
+        "title": "የቀድሞ ቴክ መሪ @ Safaricom",
+        "reason": "ለፕሮጀክትዎ ቴክኒካዊ አርክቴክቸር፣ በተለይም ዝቅተኛ ግንኙነት ላላቸው የሞባይል መፍትሔዎች ግንባታ በጣም ይመከራል።"
+      },
+      "martha": {
+        "title": "የማርኬቲንግ እና ብራንድ ስትራቴጂስት",
+        "reason": "በB2B ወደ ገበያ መግቢያ ስትራቴጂዎ እና ለድርጅታዊ የግብርና አጋሮች የብራንድ አቀማመጥ ላይ ሊረዳ ይችላል።"
+      }
+    },
+    "tags": {
+      "agritech": "አግሪቴክ",
+      "sustainability": "ዘላቂነት",
+      "seedStage": "Seed Stage",
+      "fintech": "ፊንቴክ",
+      "emergingMarkets": "ታዳጊ ገበያዎች",
+      "techEnabled": "በቴክኖሎጂ የተደገፈ",
+      "angelInvestment": "Angel Investment",
+      "operations": "ኦፕሬሽንስ",
+      "regulation": "ደንብ",
+      "scaling": "ማሳደግ",
+      "productEngineering": "የምርት ኢንጂነሪንግ",
+      "mobileStrategy": "የሞባይል ስትራቴጂ",
+      "marketing": "ማርኬቲንግ",
+      "goToMarket": "ወደ ገበያ መግቢያ"
+    },
+    "actions": {
+      "viewAll": "ሁሉንም ይመልከቱ",
+      "applyForInvestment": "ለኢንቨስትመንት ያመልክቱ",
+      "viewProfile": "መገለጫ ይመልከቱ",
+      "requestMentorship": "ምክር ድጋፍ ጠይቅ"
+    }
+  },
+  "startupSettings": {
+    "topbar": {
+      "searchPlaceholder": "ሀብቶችን ፈልግ..."
+    },
+    "sidebar": {
+      "title": "ቅንብሮች",
+      "description": "የስታርታፕ መለያዎን፣ መገለጫዎን፣ ደህንነትዎን እና የማሳወቂያ ምርጫዎችን ያስተዳድሩ።"
+    },
+    "tabs": {
+      "profileSettings": "የመገለጫ ቅንብሮች",
+      "accountSecurity": "የመለያ ደህንነት",
+      "languageAccessibility": "ቋንቋ እና ተደራሽነት",
+      "support": "ድጋፍ"
+    },
+    "profile": {
+      "title": "የመገለጫ ቅንብሮች",
+      "subtitle": "የህዝብ መገለጫዎን እና የስታርታፕ ዝርዝሮችዎን ያዘምኑ።",
+      "form": {
+        "startupName": "የስታርታፕ ስም",
+        "founderName": "የመስራች ስም",
+        "emailAddress": "የኢሜይል አድራሻ",
+        "phoneNumber": "ስልክ ቁጥር",
+        "location": "ቦታ",
+        "industry": "ኢንዱስትሪ",
+        "startupStage": "የስታርታፕ ደረጃ",
+        "shortDescription": "አጭር የስታርታፕ መግለጫ"
+      },
+      "locations": {
+        "addisAbaba": "አዲስ አበባ፣ ኢትዮጵያ",
+        "nairobi": "ናይሮቢ፣ ኬንያ"
+      },
+      "industries": {
+        "fintech": "ፊንቴክ",
+        "agritech": "አግሪቴክ",
+        "healthtech": "ሄልዝቴክ"
+      },
+      "stages": {
+        "ideation": "የሀሳብ ደረጃ",
+        "earlyStage": "የመጀመሪያ ደረጃ",
+        "scaling": "ማስፋፋት",
+        "mature": "የበሰለ"
+      },
+      "descriptionValue": "EthioTech Solutions በአዲስ አበባ የተመሠረተ ፈር ቀዳጅ የፊንቴክ ስታርታፕ ሲሆን፣ በUSSD እና በሞባይል ውህደት በኩል በኢትዮጵያ የገጠር ማህበረሰቦች የዲጂታል ክፍያ ተደራሽነትን ለማስፋት ያተኩራል።",
+      "characterCount": "184 / 500 ቁምፊዎች",
+      "securityBanner": {
+        "title": "የመለያዎን ደህንነት ያጠናክሩ",
+        "description": "የስታርታፕዎን ሚስጥራዊ ዳታ እና ሰነዶች የተሻለ ለመጠበቅ ሁለት-ደረጃ ማረጋገጫን ያንቁ።"
+      }
+    },
+    "security": {
+      "passwordSettings": {
+        "title": "የይለፍ ቃል ቅንብሮች",
+        "currentPassword": "የአሁኑ ይለፍ ቃል",
+        "newPassword": "አዲስ ይለፍ ቃል",
+        "confirmNewPassword": "አዲሱን ይለፍ ቃል ያረጋግጡ",
+        "strong": "ጠንካራ"
+      },
+      "twoFactor": {
+        "title": "ሁለት-ደረጃ ማረጋገጫ (2FA)",
+        "description": "ለመለያዎ ተጨማሪ የደህንነት ደረጃ ያክሉ።"
+      },
+      "alerts": {
+        "title": "የደህንነት ማሳወቂያዎች",
+        "loginAttempts": {
+          "title": "የመግቢያ ሙከራዎች",
+          "description": "አንድ ሰው ወደ መለያዎ ለመግባት ሲሞክር ኢሜይል ይቀበሉ።"
+        },
+        "passwordChanges": {
+          "title": "የይለፍ ቃል ለውጦች",
+          "description": "የመለያዎ ይለፍ ቃል ሲዘምን ማሳወቂያ ያግኙ።"
+        },
+        "suspiciousActivity": {
+          "title": "አጠራጣሪ እንቅስቃሴ",
+          "description": "ከአዲስ ቦታዎች ወይም ከማይታወቁ መሳሪያዎች ስለሚደረጉ መግቢያዎች ማሳወቂያዎች።"
+        }
+      }
+    },
+    "language": {
+      "languageSettings": {
+        "title": "የቋንቋ ቅንብሮች",
+        "preferredLanguage": "የሚመረጥ ቋንቋ",
+        "english": "እንግሊዝኛ",
+        "amharic": "አማርኛ",
+        "oromo": "ኦሮምኛ"
+      },
+      "display": {
+        "title": "የማሳያ ምርጫዎች",
+        "theme": "ገጽታ",
+        "lightMode": "ብሩህ ሁነታ",
+        "darkMode": "ጨለማ ሁነታ",
+        "fontSize": "የፊደል መጠን",
+        "small": "ትንሽ",
+        "default": "ነባሪ",
+        "large": "ትልቅ"
+      },
+      "accessibility": {
+        "title": "የተደራሽነት አማራጮች",
+        "highContrast": {
+          "title": "ከፍተኛ ንፅፅር",
+          "description": "በቀለሞች መካከል ያለውን የእይታ ልዩነት ያሳድጉ።"
+        },
+        "reduceMotion": {
+          "title": "እንቅስቃሴን ቀንስ",
+          "description": "ለቋሚ ተሞክሮ የስርዓት አኒሜሽኖችን ይቀንሱ።"
+        },
+        "largerText": {
+          "title": "ትልቅ ጽሁፍ",
+          "description": "ለተሻለ ንባብ የስርዓት ነባሪዎችን ይተኩ።"
+        },
+        "screenReader": {
+          "title": "ስክሪን አንባቢ",
+          "description": "ለአጋዥ ቴክኖሎጂ semantic HTML ን ያመቻቹ።"
+        },
+        "keyboardSupport": {
+          "title": "የኪቦርድ ድጋፍ",
+          "description": "የተሻሻሉ የfocus rings እና shortcuts ያንቁ።"
+        }
+      }
+    },
+    "actions": {
+      "cancel": "ሰርዝ",
+      "saveChanges": "ለውጦችን አስቀምጥ",
+      "setup2fa": "2FA አዘጋጅ",
+      "updatePassword": "ይለፍ ቃል አዘምን",
+      "saveSecuritySettings": "የደህንነት ቅንብሮችን አስቀምጥ",
+      "savePreferences": "ምርጫዎችን አስቀምጥ"
+    }
+  },
+  "startupSidebar": {
+    "logo": {
+      "alt": "የስታርታፕ ሀብ ሎጎ",
+      "title": "ስታርታፕ ሀብ",
+      "subtitle": "የስራ ፈጣሪ ፖርታል"
+    },
+    "sections": {
+      "network": "መረብ"
+    },
+    "primary": {
+      "dashboard": "ዳሽቦርድ",
+      "myProject": "የእኔ ፕሮጀክት",
+      "discover": "ፈልግ",
+      "aiRecommendations": "የAI ምክሮች"
+    },
+    "network": {
+      "investorChat": "የኢንቨስተር ውይይት",
+      "mentorChat": "የመካሪዎች ውይይት"
+    },
+    "system": {
+      "feedback": "Rating",
+      "settings": "ቅንብሮች"
+    }
+  }
+}
